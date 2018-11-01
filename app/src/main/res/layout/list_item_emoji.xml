@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="96dp"
+              android:layout_height="96dp"
+              android:gravity="center"
+              android:layout_margin="2dp"
+              android:orientation="vertical">
+    <TextView
+            android:id="@+id/tv_main_emoji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textIsSelectable="true"
+            android:textSize="32sp"
+            android:autoSizeTextType="uniform"
+            android:text="[DEFAULT_TEXT]"/>
+
+    <TextView
+            android:id="@+id/tv_main_emoji_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="8sp"
+            android:text="[DESCR_DEFAULT_TEXT]"
+            android:textAlignment="center"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:visibility="gone"/>
+
+    <TextView
+            android:id="@+id/tv_separator_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="8sp"
+            android:text="[SEP_DEFAULT_TEXT]"
+            android:background="@color/colorAccent"
+            android:textColor="#FFF"
+            android:textAlignment="center"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:visibility="gone"/>
+
+</LinearLayout>

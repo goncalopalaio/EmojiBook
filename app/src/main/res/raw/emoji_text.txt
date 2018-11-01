@@ -1,0 +1,14490 @@
+SEPARATOR
+group: Smileys & People
+SEPARATOR
+subgroup: face positive
+EMOJI
+1F600
+grinning face
+true
+EMOJI
+1F601
+beaming face with smiling eyes
+true
+EMOJI
+1F602
+face with tears of joy
+true
+EMOJI
+1F923
+rolling on the floor laughing
+true
+EMOJI
+1F603
+grinning face with big eyes
+true
+EMOJI
+1F604
+grinning face with smiling eyes
+true
+EMOJI
+1F605
+grinning face with sweat
+true
+EMOJI
+1F606
+grinning squinting face
+true
+EMOJI
+1F609
+winking face
+true
+EMOJI
+1F60A
+smiling face with smiling eyes
+true
+EMOJI
+1F60B
+face savoring food
+true
+EMOJI
+1F60E
+smiling face with sunglasses
+true
+EMOJI
+1F60D
+smiling face with heart eyes
+true
+EMOJI
+1F618
+face blowing a kiss
+true
+EMOJI
+1F970
+smiling face with 3 hearts
+true
+EMOJI
+1F617
+kissing face
+true
+EMOJI
+1F619
+kissing face with smiling eyes
+true
+EMOJI
+1F61A
+kissing face with closed eyes
+true
+EMOJI
+263A,FE0F
+smiling face
+true
+EMOJI
+263A
+smiling face
+false
+EMOJI
+1F642
+slightly smiling face
+true
+EMOJI
+1F917
+hugging face
+true
+EMOJI
+1F929
+star struck
+true
+SEPARATOR
+subgroup: face neutral
+EMOJI
+1F914
+thinking face
+true
+EMOJI
+1F928
+face with raised eyebrow
+true
+EMOJI
+1F610
+neutral face
+true
+EMOJI
+1F611
+expressionless face
+true
+EMOJI
+1F636
+face without mouth
+true
+EMOJI
+1F644
+face with rolling eyes
+true
+EMOJI
+1F60F
+smirking face
+true
+EMOJI
+1F623
+persevering face
+true
+EMOJI
+1F625
+sad but relieved face
+true
+EMOJI
+1F62E
+face with open mouth
+true
+EMOJI
+1F910
+zipper mouth face
+true
+EMOJI
+1F62F
+hushed face
+true
+EMOJI
+1F62A
+sleepy face
+true
+EMOJI
+1F62B
+tired face
+true
+EMOJI
+1F634
+sleeping face
+true
+EMOJI
+1F60C
+relieved face
+true
+EMOJI
+1F61B
+face with tongue
+true
+EMOJI
+1F61C
+winking face with tongue
+true
+EMOJI
+1F61D
+squinting face with tongue
+true
+EMOJI
+1F924
+drooling face
+true
+EMOJI
+1F612
+unamused face
+true
+EMOJI
+1F613
+downcast face with sweat
+true
+EMOJI
+1F614
+pensive face
+true
+EMOJI
+1F615
+confused face
+true
+EMOJI
+1F643
+upside down face
+true
+EMOJI
+1F911
+money mouth face
+true
+EMOJI
+1F632
+astonished face
+true
+SEPARATOR
+subgroup: face negative
+EMOJI
+2639,FE0F
+frowning face
+true
+EMOJI
+2639
+frowning face
+false
+EMOJI
+1F641
+slightly frowning face
+true
+EMOJI
+1F616
+confounded face
+true
+EMOJI
+1F61E
+disappointed face
+true
+EMOJI
+1F61F
+worried face
+true
+EMOJI
+1F624
+face with steam from nose
+true
+EMOJI
+1F622
+crying face
+true
+EMOJI
+1F62D
+loudly crying face
+true
+EMOJI
+1F626
+frowning face with open mouth
+true
+EMOJI
+1F627
+anguished face
+true
+EMOJI
+1F628
+fearful face
+true
+EMOJI
+1F629
+weary face
+true
+EMOJI
+1F92F
+exploding head
+true
+EMOJI
+1F62C
+grimacing face
+true
+EMOJI
+1F630
+anxious face with sweat
+true
+EMOJI
+1F631
+face screaming in fear
+true
+EMOJI
+1F975
+hot face
+true
+EMOJI
+1F976
+cold face
+true
+EMOJI
+1F633
+flushed face
+true
+EMOJI
+1F92A
+zany face
+true
+EMOJI
+1F635
+dizzy face
+true
+EMOJI
+1F621
+pouting face
+true
+EMOJI
+1F620
+angry face
+true
+EMOJI
+1F92C
+face with symbols on mouth
+true
+SEPARATOR
+subgroup: face sick
+EMOJI
+1F637
+face with medical mask
+true
+EMOJI
+1F912
+face with thermometer
+true
+EMOJI
+1F915
+face with head bandage
+true
+EMOJI
+1F922
+nauseated face
+true
+EMOJI
+1F92E
+face vomiting
+true
+EMOJI
+1F927
+sneezing face
+true
+SEPARATOR
+subgroup: face role
+EMOJI
+1F607
+smiling face with halo
+true
+EMOJI
+1F920
+cowboy hat face
+true
+EMOJI
+1F973
+partying face
+true
+EMOJI
+1F974
+woozy face
+true
+EMOJI
+1F97A
+pleading face
+true
+EMOJI
+1F925
+lying face
+true
+EMOJI
+1F92B
+shushing face
+true
+EMOJI
+1F92D
+face with hand over mouth
+true
+EMOJI
+1F9D0
+face with monocle
+true
+EMOJI
+1F913
+nerd face
+true
+SEPARATOR
+subgroup: face fantasy
+EMOJI
+1F608
+smiling face with horns
+true
+EMOJI
+1F47F
+angry face with horns
+true
+EMOJI
+1F921
+clown face
+true
+EMOJI
+1F479
+ogre
+true
+EMOJI
+1F47A
+goblin
+true
+EMOJI
+1F480
+skull
+true
+EMOJI
+2620,FE0F
+skull and crossbones
+true
+EMOJI
+2620
+skull and crossbones
+false
+EMOJI
+1F47B
+ghost
+true
+EMOJI
+1F47D
+alien
+true
+EMOJI
+1F47E
+alien monster
+true
+EMOJI
+1F916
+robot face
+true
+EMOJI
+1F4A9
+pile of poo
+true
+SEPARATOR
+subgroup: cat face
+EMOJI
+1F63A
+grinning cat face
+true
+EMOJI
+1F638
+grinning cat face with smiling eyes
+true
+EMOJI
+1F639
+cat face with tears of joy
+true
+EMOJI
+1F63B
+smiling cat face with heart eyes
+true
+EMOJI
+1F63C
+cat face with wry smile
+true
+EMOJI
+1F63D
+kissing cat face
+true
+EMOJI
+1F640
+weary cat face
+true
+EMOJI
+1F63F
+crying cat face
+true
+EMOJI
+1F63E
+pouting cat face
+true
+SEPARATOR
+subgroup: monkey face
+EMOJI
+1F648
+see no evil monkey
+true
+EMOJI
+1F649
+hear no evil monkey
+true
+EMOJI
+1F64A
+speak no evil monkey
+true
+SEPARATOR
+subgroup: skin tone
+EMOJI
+1F3FB
+light skin tone
+true
+EMOJI
+1F3FC
+medium light skin tone
+true
+EMOJI
+1F3FD
+medium skin tone
+true
+EMOJI
+1F3FE
+medium dark skin tone
+true
+EMOJI
+1F3FF
+dark skin tone
+true
+SEPARATOR
+subgroup: person
+EMOJI
+1F476
+baby
+true
+EMOJI
+1F476,1F3FB
+baby: light skin tone
+true
+EMOJI
+1F476,1F3FC
+baby: medium light skin tone
+true
+EMOJI
+1F476,1F3FD
+baby: medium skin tone
+true
+EMOJI
+1F476,1F3FE
+baby: medium dark skin tone
+true
+EMOJI
+1F476,1F3FF
+baby: dark skin tone
+true
+EMOJI
+1F9D2
+child
+true
+EMOJI
+1F9D2,1F3FB
+child: light skin tone
+true
+EMOJI
+1F9D2,1F3FC
+child: medium light skin tone
+true
+EMOJI
+1F9D2,1F3FD
+child: medium skin tone
+true
+EMOJI
+1F9D2,1F3FE
+child: medium dark skin tone
+true
+EMOJI
+1F9D2,1F3FF
+child: dark skin tone
+true
+EMOJI
+1F466
+boy
+true
+EMOJI
+1F466,1F3FB
+boy: light skin tone
+true
+EMOJI
+1F466,1F3FC
+boy: medium light skin tone
+true
+EMOJI
+1F466,1F3FD
+boy: medium skin tone
+true
+EMOJI
+1F466,1F3FE
+boy: medium dark skin tone
+true
+EMOJI
+1F466,1F3FF
+boy: dark skin tone
+true
+EMOJI
+1F467
+girl
+true
+EMOJI
+1F467,1F3FB
+girl: light skin tone
+true
+EMOJI
+1F467,1F3FC
+girl: medium light skin tone
+true
+EMOJI
+1F467,1F3FD
+girl: medium skin tone
+true
+EMOJI
+1F467,1F3FE
+girl: medium dark skin tone
+true
+EMOJI
+1F467,1F3FF
+girl: dark skin tone
+true
+EMOJI
+1F9D1
+adult
+true
+EMOJI
+1F9D1,1F3FB
+adult: light skin tone
+true
+EMOJI
+1F9D1,1F3FC
+adult: medium light skin tone
+true
+EMOJI
+1F9D1,1F3FD
+adult: medium skin tone
+true
+EMOJI
+1F9D1,1F3FE
+adult: medium dark skin tone
+true
+EMOJI
+1F9D1,1F3FF
+adult: dark skin tone
+true
+EMOJI
+1F468
+man
+true
+EMOJI
+1F468,1F3FB
+man: light skin tone
+true
+EMOJI
+1F468,1F3FC
+man: medium light skin tone
+true
+EMOJI
+1F468,1F3FD
+man: medium skin tone
+true
+EMOJI
+1F468,1F3FE
+man: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF
+man: dark skin tone
+true
+EMOJI
+1F469
+woman
+true
+EMOJI
+1F469,1F3FB
+woman: light skin tone
+true
+EMOJI
+1F469,1F3FC
+woman: medium light skin tone
+true
+EMOJI
+1F469,1F3FD
+woman: medium skin tone
+true
+EMOJI
+1F469,1F3FE
+woman: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF
+woman: dark skin tone
+true
+EMOJI
+1F9D3
+older adult
+true
+EMOJI
+1F9D3,1F3FB
+older adult: light skin tone
+true
+EMOJI
+1F9D3,1F3FC
+older adult: medium light skin tone
+true
+EMOJI
+1F9D3,1F3FD
+older adult: medium skin tone
+true
+EMOJI
+1F9D3,1F3FE
+older adult: medium dark skin tone
+true
+EMOJI
+1F9D3,1F3FF
+older adult: dark skin tone
+true
+EMOJI
+1F474
+old man
+true
+EMOJI
+1F474,1F3FB
+old man: light skin tone
+true
+EMOJI
+1F474,1F3FC
+old man: medium light skin tone
+true
+EMOJI
+1F474,1F3FD
+old man: medium skin tone
+true
+EMOJI
+1F474,1F3FE
+old man: medium dark skin tone
+true
+EMOJI
+1F474,1F3FF
+old man: dark skin tone
+true
+EMOJI
+1F475
+old woman
+true
+EMOJI
+1F475,1F3FB
+old woman: light skin tone
+true
+EMOJI
+1F475,1F3FC
+old woman: medium light skin tone
+true
+EMOJI
+1F475,1F3FD
+old woman: medium skin tone
+true
+EMOJI
+1F475,1F3FE
+old woman: medium dark skin tone
+true
+EMOJI
+1F475,1F3FF
+old woman: dark skin tone
+true
+SEPARATOR
+subgroup: person role
+EMOJI
+1F468,200D,2695,FE0F
+man health worker
+true
+EMOJI
+1F468,200D,2695
+man health worker
+false
+EMOJI
+1F468,1F3FB,200D,2695,FE0F
+man health worker: light skin tone
+true
+EMOJI
+1F468,1F3FB,200D,2695
+man health worker: light skin tone
+false
+EMOJI
+1F468,1F3FC,200D,2695,FE0F
+man health worker: medium light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,2695
+man health worker: medium light skin tone
+false
+EMOJI
+1F468,1F3FD,200D,2695,FE0F
+man health worker: medium skin tone
+true
+EMOJI
+1F468,1F3FD,200D,2695
+man health worker: medium skin tone
+false
+EMOJI
+1F468,1F3FE,200D,2695,FE0F
+man health worker: medium dark skin tone
+true
+EMOJI
+1F468,1F3FE,200D,2695
+man health worker: medium dark skin tone
+false
+EMOJI
+1F468,1F3FF,200D,2695,FE0F
+man health worker: dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,2695
+man health worker: dark skin tone
+false
+EMOJI
+1F469,200D,2695,FE0F
+woman health worker
+true
+EMOJI
+1F469,200D,2695
+woman health worker
+false
+EMOJI
+1F469,1F3FB,200D,2695,FE0F
+woman health worker: light skin tone
+true
+EMOJI
+1F469,1F3FB,200D,2695
+woman health worker: light skin tone
+false
+EMOJI
+1F469,1F3FC,200D,2695,FE0F
+woman health worker: medium light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,2695
+woman health worker: medium light skin tone
+false
+EMOJI
+1F469,1F3FD,200D,2695,FE0F
+woman health worker: medium skin tone
+true
+EMOJI
+1F469,1F3FD,200D,2695
+woman health worker: medium skin tone
+false
+EMOJI
+1F469,1F3FE,200D,2695,FE0F
+woman health worker: medium dark skin tone
+true
+EMOJI
+1F469,1F3FE,200D,2695
+woman health worker: medium dark skin tone
+false
+EMOJI
+1F469,1F3FF,200D,2695,FE0F
+woman health worker: dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,2695
+woman health worker: dark skin tone
+false
+EMOJI
+1F468,200D,1F393
+man student
+true
+EMOJI
+1F468,1F3FB,200D,1F393
+man student: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F393
+man student: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F393
+man student: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F393
+man student: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F393
+man student: dark skin tone
+true
+EMOJI
+1F469,200D,1F393
+woman student
+true
+EMOJI
+1F469,1F3FB,200D,1F393
+woman student: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F393
+woman student: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F393
+woman student: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F393
+woman student: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F393
+woman student: dark skin tone
+true
+EMOJI
+1F468,200D,1F3EB
+man teacher
+true
+EMOJI
+1F468,1F3FB,200D,1F3EB
+man teacher: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F3EB
+man teacher: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F3EB
+man teacher: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F3EB
+man teacher: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F3EB
+man teacher: dark skin tone
+true
+EMOJI
+1F469,200D,1F3EB
+woman teacher
+true
+EMOJI
+1F469,1F3FB,200D,1F3EB
+woman teacher: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F3EB
+woman teacher: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F3EB
+woman teacher: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F3EB
+woman teacher: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F3EB
+woman teacher: dark skin tone
+true
+EMOJI
+1F468,200D,2696,FE0F
+man judge
+true
+EMOJI
+1F468,200D,2696
+man judge
+false
+EMOJI
+1F468,1F3FB,200D,2696,FE0F
+man judge: light skin tone
+true
+EMOJI
+1F468,1F3FB,200D,2696
+man judge: light skin tone
+false
+EMOJI
+1F468,1F3FC,200D,2696,FE0F
+man judge: medium light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,2696
+man judge: medium light skin tone
+false
+EMOJI
+1F468,1F3FD,200D,2696,FE0F
+man judge: medium skin tone
+true
+EMOJI
+1F468,1F3FD,200D,2696
+man judge: medium skin tone
+false
+EMOJI
+1F468,1F3FE,200D,2696,FE0F
+man judge: medium dark skin tone
+true
+EMOJI
+1F468,1F3FE,200D,2696
+man judge: medium dark skin tone
+false
+EMOJI
+1F468,1F3FF,200D,2696,FE0F
+man judge: dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,2696
+man judge: dark skin tone
+false
+EMOJI
+1F469,200D,2696,FE0F
+woman judge
+true
+EMOJI
+1F469,200D,2696
+woman judge
+false
+EMOJI
+1F469,1F3FB,200D,2696,FE0F
+woman judge: light skin tone
+true
+EMOJI
+1F469,1F3FB,200D,2696
+woman judge: light skin tone
+false
+EMOJI
+1F469,1F3FC,200D,2696,FE0F
+woman judge: medium light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,2696
+woman judge: medium light skin tone
+false
+EMOJI
+1F469,1F3FD,200D,2696,FE0F
+woman judge: medium skin tone
+true
+EMOJI
+1F469,1F3FD,200D,2696
+woman judge: medium skin tone
+false
+EMOJI
+1F469,1F3FE,200D,2696,FE0F
+woman judge: medium dark skin tone
+true
+EMOJI
+1F469,1F3FE,200D,2696
+woman judge: medium dark skin tone
+false
+EMOJI
+1F469,1F3FF,200D,2696,FE0F
+woman judge: dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,2696
+woman judge: dark skin tone
+false
+EMOJI
+1F468,200D,1F33E
+man farmer
+true
+EMOJI
+1F468,1F3FB,200D,1F33E
+man farmer: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F33E
+man farmer: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F33E
+man farmer: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F33E
+man farmer: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F33E
+man farmer: dark skin tone
+true
+EMOJI
+1F469,200D,1F33E
+woman farmer
+true
+EMOJI
+1F469,1F3FB,200D,1F33E
+woman farmer: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F33E
+woman farmer: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F33E
+woman farmer: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F33E
+woman farmer: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F33E
+woman farmer: dark skin tone
+true
+EMOJI
+1F468,200D,1F373
+man cook
+true
+EMOJI
+1F468,1F3FB,200D,1F373
+man cook: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F373
+man cook: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F373
+man cook: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F373
+man cook: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F373
+man cook: dark skin tone
+true
+EMOJI
+1F469,200D,1F373
+woman cook
+true
+EMOJI
+1F469,1F3FB,200D,1F373
+woman cook: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F373
+woman cook: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F373
+woman cook: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F373
+woman cook: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F373
+woman cook: dark skin tone
+true
+EMOJI
+1F468,200D,1F527
+man mechanic
+true
+EMOJI
+1F468,1F3FB,200D,1F527
+man mechanic: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F527
+man mechanic: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F527
+man mechanic: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F527
+man mechanic: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F527
+man mechanic: dark skin tone
+true
+EMOJI
+1F469,200D,1F527
+woman mechanic
+true
+EMOJI
+1F469,1F3FB,200D,1F527
+woman mechanic: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F527
+woman mechanic: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F527
+woman mechanic: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F527
+woman mechanic: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F527
+woman mechanic: dark skin tone
+true
+EMOJI
+1F468,200D,1F3ED
+man factory worker
+true
+EMOJI
+1F468,1F3FB,200D,1F3ED
+man factory worker: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F3ED
+man factory worker: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F3ED
+man factory worker: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F3ED
+man factory worker: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F3ED
+man factory worker: dark skin tone
+true
+EMOJI
+1F469,200D,1F3ED
+woman factory worker
+true
+EMOJI
+1F469,1F3FB,200D,1F3ED
+woman factory worker: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F3ED
+woman factory worker: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F3ED
+woman factory worker: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F3ED
+woman factory worker: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F3ED
+woman factory worker: dark skin tone
+true
+EMOJI
+1F468,200D,1F4BC
+man office worker
+true
+EMOJI
+1F468,1F3FB,200D,1F4BC
+man office worker: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F4BC
+man office worker: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F4BC
+man office worker: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F4BC
+man office worker: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F4BC
+man office worker: dark skin tone
+true
+EMOJI
+1F469,200D,1F4BC
+woman office worker
+true
+EMOJI
+1F469,1F3FB,200D,1F4BC
+woman office worker: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F4BC
+woman office worker: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F4BC
+woman office worker: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F4BC
+woman office worker: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F4BC
+woman office worker: dark skin tone
+true
+EMOJI
+1F468,200D,1F52C
+man scientist
+true
+EMOJI
+1F468,1F3FB,200D,1F52C
+man scientist: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F52C
+man scientist: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F52C
+man scientist: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F52C
+man scientist: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F52C
+man scientist: dark skin tone
+true
+EMOJI
+1F469,200D,1F52C
+woman scientist
+true
+EMOJI
+1F469,1F3FB,200D,1F52C
+woman scientist: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F52C
+woman scientist: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F52C
+woman scientist: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F52C
+woman scientist: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F52C
+woman scientist: dark skin tone
+true
+EMOJI
+1F468,200D,1F4BB
+man technologist
+true
+EMOJI
+1F468,1F3FB,200D,1F4BB
+man technologist: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F4BB
+man technologist: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F4BB
+man technologist: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F4BB
+man technologist: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F4BB
+man technologist: dark skin tone
+true
+EMOJI
+1F469,200D,1F4BB
+woman technologist
+true
+EMOJI
+1F469,1F3FB,200D,1F4BB
+woman technologist: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F4BB
+woman technologist: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F4BB
+woman technologist: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F4BB
+woman technologist: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F4BB
+woman technologist: dark skin tone
+true
+EMOJI
+1F468,200D,1F3A4
+man singer
+true
+EMOJI
+1F468,1F3FB,200D,1F3A4
+man singer: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F3A4
+man singer: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F3A4
+man singer: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F3A4
+man singer: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F3A4
+man singer: dark skin tone
+true
+EMOJI
+1F469,200D,1F3A4
+woman singer
+true
+EMOJI
+1F469,1F3FB,200D,1F3A4
+woman singer: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F3A4
+woman singer: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F3A4
+woman singer: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F3A4
+woman singer: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F3A4
+woman singer: dark skin tone
+true
+EMOJI
+1F468,200D,1F3A8
+man artist
+true
+EMOJI
+1F468,1F3FB,200D,1F3A8
+man artist: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F3A8
+man artist: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F3A8
+man artist: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F3A8
+man artist: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F3A8
+man artist: dark skin tone
+true
+EMOJI
+1F469,200D,1F3A8
+woman artist
+true
+EMOJI
+1F469,1F3FB,200D,1F3A8
+woman artist: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F3A8
+woman artist: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F3A8
+woman artist: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F3A8
+woman artist: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F3A8
+woman artist: dark skin tone
+true
+EMOJI
+1F468,200D,2708,FE0F
+man pilot
+true
+EMOJI
+1F468,200D,2708
+man pilot
+false
+EMOJI
+1F468,1F3FB,200D,2708,FE0F
+man pilot: light skin tone
+true
+EMOJI
+1F468,1F3FB,200D,2708
+man pilot: light skin tone
+false
+EMOJI
+1F468,1F3FC,200D,2708,FE0F
+man pilot: medium light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,2708
+man pilot: medium light skin tone
+false
+EMOJI
+1F468,1F3FD,200D,2708,FE0F
+man pilot: medium skin tone
+true
+EMOJI
+1F468,1F3FD,200D,2708
+man pilot: medium skin tone
+false
+EMOJI
+1F468,1F3FE,200D,2708,FE0F
+man pilot: medium dark skin tone
+true
+EMOJI
+1F468,1F3FE,200D,2708
+man pilot: medium dark skin tone
+false
+EMOJI
+1F468,1F3FF,200D,2708,FE0F
+man pilot: dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,2708
+man pilot: dark skin tone
+false
+EMOJI
+1F469,200D,2708,FE0F
+woman pilot
+true
+EMOJI
+1F469,200D,2708
+woman pilot
+false
+EMOJI
+1F469,1F3FB,200D,2708,FE0F
+woman pilot: light skin tone
+true
+EMOJI
+1F469,1F3FB,200D,2708
+woman pilot: light skin tone
+false
+EMOJI
+1F469,1F3FC,200D,2708,FE0F
+woman pilot: medium light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,2708
+woman pilot: medium light skin tone
+false
+EMOJI
+1F469,1F3FD,200D,2708,FE0F
+woman pilot: medium skin tone
+true
+EMOJI
+1F469,1F3FD,200D,2708
+woman pilot: medium skin tone
+false
+EMOJI
+1F469,1F3FE,200D,2708,FE0F
+woman pilot: medium dark skin tone
+true
+EMOJI
+1F469,1F3FE,200D,2708
+woman pilot: medium dark skin tone
+false
+EMOJI
+1F469,1F3FF,200D,2708,FE0F
+woman pilot: dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,2708
+woman pilot: dark skin tone
+false
+EMOJI
+1F468,200D,1F680
+man astronaut
+true
+EMOJI
+1F468,1F3FB,200D,1F680
+man astronaut: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F680
+man astronaut: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F680
+man astronaut: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F680
+man astronaut: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F680
+man astronaut: dark skin tone
+true
+EMOJI
+1F469,200D,1F680
+woman astronaut
+true
+EMOJI
+1F469,1F3FB,200D,1F680
+woman astronaut: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F680
+woman astronaut: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F680
+woman astronaut: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F680
+woman astronaut: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F680
+woman astronaut: dark skin tone
+true
+EMOJI
+1F468,200D,1F692
+man firefighter
+true
+EMOJI
+1F468,1F3FB,200D,1F692
+man firefighter: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F692
+man firefighter: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F692
+man firefighter: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F692
+man firefighter: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F692
+man firefighter: dark skin tone
+true
+EMOJI
+1F469,200D,1F692
+woman firefighter
+true
+EMOJI
+1F469,1F3FB,200D,1F692
+woman firefighter: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F692
+woman firefighter: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F692
+woman firefighter: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F692
+woman firefighter: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F692
+woman firefighter: dark skin tone
+true
+EMOJI
+1F46E
+police officer
+true
+EMOJI
+1F46E,1F3FB
+police officer: light skin tone
+true
+EMOJI
+1F46E,1F3FC
+police officer: medium light skin tone
+true
+EMOJI
+1F46E,1F3FD
+police officer: medium skin tone
+true
+EMOJI
+1F46E,1F3FE
+police officer: medium dark skin tone
+true
+EMOJI
+1F46E,1F3FF
+police officer: dark skin tone
+true
+EMOJI
+1F46E,200D,2642,FE0F
+man police officer
+true
+EMOJI
+1F46E,200D,2642
+man police officer
+false
+EMOJI
+1F46E,1F3FB,200D,2642,FE0F
+man police officer: light skin tone
+true
+EMOJI
+1F46E,1F3FB,200D,2642
+man police officer: light skin tone
+false
+EMOJI
+1F46E,1F3FC,200D,2642,FE0F
+man police officer: medium light skin tone
+true
+EMOJI
+1F46E,1F3FC,200D,2642
+man police officer: medium light skin tone
+false
+EMOJI
+1F46E,1F3FD,200D,2642,FE0F
+man police officer: medium skin tone
+true
+EMOJI
+1F46E,1F3FD,200D,2642
+man police officer: medium skin tone
+false
+EMOJI
+1F46E,1F3FE,200D,2642,FE0F
+man police officer: medium dark skin tone
+true
+EMOJI
+1F46E,1F3FE,200D,2642
+man police officer: medium dark skin tone
+false
+EMOJI
+1F46E,1F3FF,200D,2642,FE0F
+man police officer: dark skin tone
+true
+EMOJI
+1F46E,1F3FF,200D,2642
+man police officer: dark skin tone
+false
+EMOJI
+1F46E,200D,2640,FE0F
+woman police officer
+true
+EMOJI
+1F46E,200D,2640
+woman police officer
+false
+EMOJI
+1F46E,1F3FB,200D,2640,FE0F
+woman police officer: light skin tone
+true
+EMOJI
+1F46E,1F3FB,200D,2640
+woman police officer: light skin tone
+false
+EMOJI
+1F46E,1F3FC,200D,2640,FE0F
+woman police officer: medium light skin tone
+true
+EMOJI
+1F46E,1F3FC,200D,2640
+woman police officer: medium light skin tone
+false
+EMOJI
+1F46E,1F3FD,200D,2640,FE0F
+woman police officer: medium skin tone
+true
+EMOJI
+1F46E,1F3FD,200D,2640
+woman police officer: medium skin tone
+false
+EMOJI
+1F46E,1F3FE,200D,2640,FE0F
+woman police officer: medium dark skin tone
+true
+EMOJI
+1F46E,1F3FE,200D,2640
+woman police officer: medium dark skin tone
+false
+EMOJI
+1F46E,1F3FF,200D,2640,FE0F
+woman police officer: dark skin tone
+true
+EMOJI
+1F46E,1F3FF,200D,2640
+woman police officer: dark skin tone
+false
+EMOJI
+1F575,FE0F
+detective
+true
+EMOJI
+1F575
+detective
+false
+EMOJI
+1F575,1F3FB
+detective: light skin tone
+true
+EMOJI
+1F575,1F3FC
+detective: medium light skin tone
+true
+EMOJI
+1F575,1F3FD
+detective: medium skin tone
+true
+EMOJI
+1F575,1F3FE
+detective: medium dark skin tone
+true
+EMOJI
+1F575,1F3FF
+detective: dark skin tone
+true
+EMOJI
+1F575,FE0F,200D,2642,FE0F
+man detective
+true
+EMOJI
+1F575,200D,2642,FE0F
+man detective
+false
+EMOJI
+1F575,FE0F,200D,2642
+man detective
+false
+EMOJI
+1F575,200D,2642
+man detective
+false
+EMOJI
+1F575,1F3FB,200D,2642,FE0F
+man detective: light skin tone
+true
+EMOJI
+1F575,1F3FB,200D,2642
+man detective: light skin tone
+false
+EMOJI
+1F575,1F3FC,200D,2642,FE0F
+man detective: medium light skin tone
+true
+EMOJI
+1F575,1F3FC,200D,2642
+man detective: medium light skin tone
+false
+EMOJI
+1F575,1F3FD,200D,2642,FE0F
+man detective: medium skin tone
+true
+EMOJI
+1F575,1F3FD,200D,2642
+man detective: medium skin tone
+false
+EMOJI
+1F575,1F3FE,200D,2642,FE0F
+man detective: medium dark skin tone
+true
+EMOJI
+1F575,1F3FE,200D,2642
+man detective: medium dark skin tone
+false
+EMOJI
+1F575,1F3FF,200D,2642,FE0F
+man detective: dark skin tone
+true
+EMOJI
+1F575,1F3FF,200D,2642
+man detective: dark skin tone
+false
+EMOJI
+1F575,FE0F,200D,2640,FE0F
+woman detective
+true
+EMOJI
+1F575,200D,2640,FE0F
+woman detective
+false
+EMOJI
+1F575,FE0F,200D,2640
+woman detective
+false
+EMOJI
+1F575,200D,2640
+woman detective
+false
+EMOJI
+1F575,1F3FB,200D,2640,FE0F
+woman detective: light skin tone
+true
+EMOJI
+1F575,1F3FB,200D,2640
+woman detective: light skin tone
+false
+EMOJI
+1F575,1F3FC,200D,2640,FE0F
+woman detective: medium light skin tone
+true
+EMOJI
+1F575,1F3FC,200D,2640
+woman detective: medium light skin tone
+false
+EMOJI
+1F575,1F3FD,200D,2640,FE0F
+woman detective: medium skin tone
+true
+EMOJI
+1F575,1F3FD,200D,2640
+woman detective: medium skin tone
+false
+EMOJI
+1F575,1F3FE,200D,2640,FE0F
+woman detective: medium dark skin tone
+true
+EMOJI
+1F575,1F3FE,200D,2640
+woman detective: medium dark skin tone
+false
+EMOJI
+1F575,1F3FF,200D,2640,FE0F
+woman detective: dark skin tone
+true
+EMOJI
+1F575,1F3FF,200D,2640
+woman detective: dark skin tone
+false
+EMOJI
+1F482
+guard
+true
+EMOJI
+1F482,1F3FB
+guard: light skin tone
+true
+EMOJI
+1F482,1F3FC
+guard: medium light skin tone
+true
+EMOJI
+1F482,1F3FD
+guard: medium skin tone
+true
+EMOJI
+1F482,1F3FE
+guard: medium dark skin tone
+true
+EMOJI
+1F482,1F3FF
+guard: dark skin tone
+true
+EMOJI
+1F482,200D,2642,FE0F
+man guard
+true
+EMOJI
+1F482,200D,2642
+man guard
+false
+EMOJI
+1F482,1F3FB,200D,2642,FE0F
+man guard: light skin tone
+true
+EMOJI
+1F482,1F3FB,200D,2642
+man guard: light skin tone
+false
+EMOJI
+1F482,1F3FC,200D,2642,FE0F
+man guard: medium light skin tone
+true
+EMOJI
+1F482,1F3FC,200D,2642
+man guard: medium light skin tone
+false
+EMOJI
+1F482,1F3FD,200D,2642,FE0F
+man guard: medium skin tone
+true
+EMOJI
+1F482,1F3FD,200D,2642
+man guard: medium skin tone
+false
+EMOJI
+1F482,1F3FE,200D,2642,FE0F
+man guard: medium dark skin tone
+true
+EMOJI
+1F482,1F3FE,200D,2642
+man guard: medium dark skin tone
+false
+EMOJI
+1F482,1F3FF,200D,2642,FE0F
+man guard: dark skin tone
+true
+EMOJI
+1F482,1F3FF,200D,2642
+man guard: dark skin tone
+false
+EMOJI
+1F482,200D,2640,FE0F
+woman guard
+true
+EMOJI
+1F482,200D,2640
+woman guard
+false
+EMOJI
+1F482,1F3FB,200D,2640,FE0F
+woman guard: light skin tone
+true
+EMOJI
+1F482,1F3FB,200D,2640
+woman guard: light skin tone
+false
+EMOJI
+1F482,1F3FC,200D,2640,FE0F
+woman guard: medium light skin tone
+true
+EMOJI
+1F482,1F3FC,200D,2640
+woman guard: medium light skin tone
+false
+EMOJI
+1F482,1F3FD,200D,2640,FE0F
+woman guard: medium skin tone
+true
+EMOJI
+1F482,1F3FD,200D,2640
+woman guard: medium skin tone
+false
+EMOJI
+1F482,1F3FE,200D,2640,FE0F
+woman guard: medium dark skin tone
+true
+EMOJI
+1F482,1F3FE,200D,2640
+woman guard: medium dark skin tone
+false
+EMOJI
+1F482,1F3FF,200D,2640,FE0F
+woman guard: dark skin tone
+true
+EMOJI
+1F482,1F3FF,200D,2640
+woman guard: dark skin tone
+false
+EMOJI
+1F477
+construction worker
+true
+EMOJI
+1F477,1F3FB
+construction worker: light skin tone
+true
+EMOJI
+1F477,1F3FC
+construction worker: medium light skin tone
+true
+EMOJI
+1F477,1F3FD
+construction worker: medium skin tone
+true
+EMOJI
+1F477,1F3FE
+construction worker: medium dark skin tone
+true
+EMOJI
+1F477,1F3FF
+construction worker: dark skin tone
+true
+EMOJI
+1F477,200D,2642,FE0F
+man construction worker
+true
+EMOJI
+1F477,200D,2642
+man construction worker
+false
+EMOJI
+1F477,1F3FB,200D,2642,FE0F
+man construction worker: light skin tone
+true
+EMOJI
+1F477,1F3FB,200D,2642
+man construction worker: light skin tone
+false
+EMOJI
+1F477,1F3FC,200D,2642,FE0F
+man construction worker: medium light skin tone
+true
+EMOJI
+1F477,1F3FC,200D,2642
+man construction worker: medium light skin tone
+false
+EMOJI
+1F477,1F3FD,200D,2642,FE0F
+man construction worker: medium skin tone
+true
+EMOJI
+1F477,1F3FD,200D,2642
+man construction worker: medium skin tone
+false
+EMOJI
+1F477,1F3FE,200D,2642,FE0F
+man construction worker: medium dark skin tone
+true
+EMOJI
+1F477,1F3FE,200D,2642
+man construction worker: medium dark skin tone
+false
+EMOJI
+1F477,1F3FF,200D,2642,FE0F
+man construction worker: dark skin tone
+true
+EMOJI
+1F477,1F3FF,200D,2642
+man construction worker: dark skin tone
+false
+EMOJI
+1F477,200D,2640,FE0F
+woman construction worker
+true
+EMOJI
+1F477,200D,2640
+woman construction worker
+false
+EMOJI
+1F477,1F3FB,200D,2640,FE0F
+woman construction worker: light skin tone
+true
+EMOJI
+1F477,1F3FB,200D,2640
+woman construction worker: light skin tone
+false
+EMOJI
+1F477,1F3FC,200D,2640,FE0F
+woman construction worker: medium light skin tone
+true
+EMOJI
+1F477,1F3FC,200D,2640
+woman construction worker: medium light skin tone
+false
+EMOJI
+1F477,1F3FD,200D,2640,FE0F
+woman construction worker: medium skin tone
+true
+EMOJI
+1F477,1F3FD,200D,2640
+woman construction worker: medium skin tone
+false
+EMOJI
+1F477,1F3FE,200D,2640,FE0F
+woman construction worker: medium dark skin tone
+true
+EMOJI
+1F477,1F3FE,200D,2640
+woman construction worker: medium dark skin tone
+false
+EMOJI
+1F477,1F3FF,200D,2640,FE0F
+woman construction worker: dark skin tone
+true
+EMOJI
+1F477,1F3FF,200D,2640
+woman construction worker: dark skin tone
+false
+EMOJI
+1F934
+prince
+true
+EMOJI
+1F934,1F3FB
+prince: light skin tone
+true
+EMOJI
+1F934,1F3FC
+prince: medium light skin tone
+true
+EMOJI
+1F934,1F3FD
+prince: medium skin tone
+true
+EMOJI
+1F934,1F3FE
+prince: medium dark skin tone
+true
+EMOJI
+1F934,1F3FF
+prince: dark skin tone
+true
+EMOJI
+1F478
+princess
+true
+EMOJI
+1F478,1F3FB
+princess: light skin tone
+true
+EMOJI
+1F478,1F3FC
+princess: medium light skin tone
+true
+EMOJI
+1F478,1F3FD
+princess: medium skin tone
+true
+EMOJI
+1F478,1F3FE
+princess: medium dark skin tone
+true
+EMOJI
+1F478,1F3FF
+princess: dark skin tone
+true
+EMOJI
+1F473
+person wearing turban
+true
+EMOJI
+1F473,1F3FB
+person wearing turban: light skin tone
+true
+EMOJI
+1F473,1F3FC
+person wearing turban: medium light skin tone
+true
+EMOJI
+1F473,1F3FD
+person wearing turban: medium skin tone
+true
+EMOJI
+1F473,1F3FE
+person wearing turban: medium dark skin tone
+true
+EMOJI
+1F473,1F3FF
+person wearing turban: dark skin tone
+true
+EMOJI
+1F473,200D,2642,FE0F
+man wearing turban
+true
+EMOJI
+1F473,200D,2642
+man wearing turban
+false
+EMOJI
+1F473,1F3FB,200D,2642,FE0F
+man wearing turban: light skin tone
+true
+EMOJI
+1F473,1F3FB,200D,2642
+man wearing turban: light skin tone
+false
+EMOJI
+1F473,1F3FC,200D,2642,FE0F
+man wearing turban: medium light skin tone
+true
+EMOJI
+1F473,1F3FC,200D,2642
+man wearing turban: medium light skin tone
+false
+EMOJI
+1F473,1F3FD,200D,2642,FE0F
+man wearing turban: medium skin tone
+true
+EMOJI
+1F473,1F3FD,200D,2642
+man wearing turban: medium skin tone
+false
+EMOJI
+1F473,1F3FE,200D,2642,FE0F
+man wearing turban: medium dark skin tone
+true
+EMOJI
+1F473,1F3FE,200D,2642
+man wearing turban: medium dark skin tone
+false
+EMOJI
+1F473,1F3FF,200D,2642,FE0F
+man wearing turban: dark skin tone
+true
+EMOJI
+1F473,1F3FF,200D,2642
+man wearing turban: dark skin tone
+false
+EMOJI
+1F473,200D,2640,FE0F
+woman wearing turban
+true
+EMOJI
+1F473,200D,2640
+woman wearing turban
+false
+EMOJI
+1F473,1F3FB,200D,2640,FE0F
+woman wearing turban: light skin tone
+true
+EMOJI
+1F473,1F3FB,200D,2640
+woman wearing turban: light skin tone
+false
+EMOJI
+1F473,1F3FC,200D,2640,FE0F
+woman wearing turban: medium light skin tone
+true
+EMOJI
+1F473,1F3FC,200D,2640
+woman wearing turban: medium light skin tone
+false
+EMOJI
+1F473,1F3FD,200D,2640,FE0F
+woman wearing turban: medium skin tone
+true
+EMOJI
+1F473,1F3FD,200D,2640
+woman wearing turban: medium skin tone
+false
+EMOJI
+1F473,1F3FE,200D,2640,FE0F
+woman wearing turban: medium dark skin tone
+true
+EMOJI
+1F473,1F3FE,200D,2640
+woman wearing turban: medium dark skin tone
+false
+EMOJI
+1F473,1F3FF,200D,2640,FE0F
+woman wearing turban: dark skin tone
+true
+EMOJI
+1F473,1F3FF,200D,2640
+woman wearing turban: dark skin tone
+false
+EMOJI
+1F472
+man with Chinese cap
+true
+EMOJI
+1F472,1F3FB
+man with Chinese cap: light skin tone
+true
+EMOJI
+1F472,1F3FC
+man with Chinese cap: medium light skin tone
+true
+EMOJI
+1F472,1F3FD
+man with Chinese cap: medium skin tone
+true
+EMOJI
+1F472,1F3FE
+man with Chinese cap: medium dark skin tone
+true
+EMOJI
+1F472,1F3FF
+man with Chinese cap: dark skin tone
+true
+EMOJI
+1F9D5
+woman with headscarf
+true
+EMOJI
+1F9D5,1F3FB
+woman with headscarf: light skin tone
+true
+EMOJI
+1F9D5,1F3FC
+woman with headscarf: medium light skin tone
+true
+EMOJI
+1F9D5,1F3FD
+woman with headscarf: medium skin tone
+true
+EMOJI
+1F9D5,1F3FE
+woman with headscarf: medium dark skin tone
+true
+EMOJI
+1F9D5,1F3FF
+woman with headscarf: dark skin tone
+true
+EMOJI
+1F9D4
+bearded person
+true
+EMOJI
+1F9D4,1F3FB
+bearded person: light skin tone
+true
+EMOJI
+1F9D4,1F3FC
+bearded person: medium light skin tone
+true
+EMOJI
+1F9D4,1F3FD
+bearded person: medium skin tone
+true
+EMOJI
+1F9D4,1F3FE
+bearded person: medium dark skin tone
+true
+EMOJI
+1F9D4,1F3FF
+bearded person: dark skin tone
+true
+EMOJI
+1F471
+blond haired person
+true
+EMOJI
+1F471,1F3FB
+blond haired person: light skin tone
+true
+EMOJI
+1F471,1F3FC
+blond haired person: medium light skin tone
+true
+EMOJI
+1F471,1F3FD
+blond haired person: medium skin tone
+true
+EMOJI
+1F471,1F3FE
+blond haired person: medium dark skin tone
+true
+EMOJI
+1F471,1F3FF
+blond haired person: dark skin tone
+true
+EMOJI
+1F471,200D,2642,FE0F
+blond haired man
+true
+EMOJI
+1F471,200D,2642
+blond haired man
+false
+EMOJI
+1F471,1F3FB,200D,2642,FE0F
+blond haired man: light skin tone
+true
+EMOJI
+1F471,1F3FB,200D,2642
+blond haired man: light skin tone
+false
+EMOJI
+1F471,1F3FC,200D,2642,FE0F
+blond haired man: medium light skin tone
+true
+EMOJI
+1F471,1F3FC,200D,2642
+blond haired man: medium light skin tone
+false
+EMOJI
+1F471,1F3FD,200D,2642,FE0F
+blond haired man: medium skin tone
+true
+EMOJI
+1F471,1F3FD,200D,2642
+blond haired man: medium skin tone
+false
+EMOJI
+1F471,1F3FE,200D,2642,FE0F
+blond haired man: medium dark skin tone
+true
+EMOJI
+1F471,1F3FE,200D,2642
+blond haired man: medium dark skin tone
+false
+EMOJI
+1F471,1F3FF,200D,2642,FE0F
+blond haired man: dark skin tone
+true
+EMOJI
+1F471,1F3FF,200D,2642
+blond haired man: dark skin tone
+false
+EMOJI
+1F471,200D,2640,FE0F
+blond haired woman
+true
+EMOJI
+1F471,200D,2640
+blond haired woman
+false
+EMOJI
+1F471,1F3FB,200D,2640,FE0F
+blond haired woman: light skin tone
+true
+EMOJI
+1F471,1F3FB,200D,2640
+blond haired woman: light skin tone
+false
+EMOJI
+1F471,1F3FC,200D,2640,FE0F
+blond haired woman: medium light skin tone
+true
+EMOJI
+1F471,1F3FC,200D,2640
+blond haired woman: medium light skin tone
+false
+EMOJI
+1F471,1F3FD,200D,2640,FE0F
+blond haired woman: medium skin tone
+true
+EMOJI
+1F471,1F3FD,200D,2640
+blond haired woman: medium skin tone
+false
+EMOJI
+1F471,1F3FE,200D,2640,FE0F
+blond haired woman: medium dark skin tone
+true
+EMOJI
+1F471,1F3FE,200D,2640
+blond haired woman: medium dark skin tone
+false
+EMOJI
+1F471,1F3FF,200D,2640,FE0F
+blond haired woman: dark skin tone
+true
+EMOJI
+1F471,1F3FF,200D,2640
+blond haired woman: dark skin tone
+false
+EMOJI
+1F468,200D,1F9B0
+man, red haired
+true
+EMOJI
+1F468,1F3FB,200D,1F9B0
+man, red haired: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F9B0
+man, red haired: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F9B0
+man, red haired: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F9B0
+man, red haired: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F9B0
+man, red haired: dark skin tone
+true
+EMOJI
+1F469,200D,1F9B0
+woman, red haired
+true
+EMOJI
+1F469,1F3FB,200D,1F9B0
+woman, red haired: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F9B0
+woman, red haired: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F9B0
+woman, red haired: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F9B0
+woman, red haired: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F9B0
+woman, red haired: dark skin tone
+true
+EMOJI
+1F468,200D,1F9B1
+man, curly haired
+true
+EMOJI
+1F468,1F3FB,200D,1F9B1
+man, curly haired: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F9B1
+man, curly haired: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F9B1
+man, curly haired: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F9B1
+man, curly haired: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F9B1
+man, curly haired: dark skin tone
+true
+EMOJI
+1F469,200D,1F9B1
+woman, curly haired
+true
+EMOJI
+1F469,1F3FB,200D,1F9B1
+woman, curly haired: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F9B1
+woman, curly haired: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F9B1
+woman, curly haired: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F9B1
+woman, curly haired: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F9B1
+woman, curly haired: dark skin tone
+true
+EMOJI
+1F468,200D,1F9B2
+man, bald
+true
+EMOJI
+1F468,1F3FB,200D,1F9B2
+man, bald: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F9B2
+man, bald: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F9B2
+man, bald: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F9B2
+man, bald: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F9B2
+man, bald: dark skin tone
+true
+EMOJI
+1F469,200D,1F9B2
+woman, bald
+true
+EMOJI
+1F469,1F3FB,200D,1F9B2
+woman, bald: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F9B2
+woman, bald: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F9B2
+woman, bald: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F9B2
+woman, bald: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F9B2
+woman, bald: dark skin tone
+true
+EMOJI
+1F468,200D,1F9B3
+man, white haired
+true
+EMOJI
+1F468,1F3FB,200D,1F9B3
+man, white haired: light skin tone
+true
+EMOJI
+1F468,1F3FC,200D,1F9B3
+man, white haired: medium light skin tone
+true
+EMOJI
+1F468,1F3FD,200D,1F9B3
+man, white haired: medium skin tone
+true
+EMOJI
+1F468,1F3FE,200D,1F9B3
+man, white haired: medium dark skin tone
+true
+EMOJI
+1F468,1F3FF,200D,1F9B3
+man, white haired: dark skin tone
+true
+EMOJI
+1F469,200D,1F9B3
+woman, white haired
+true
+EMOJI
+1F469,1F3FB,200D,1F9B3
+woman, white haired: light skin tone
+true
+EMOJI
+1F469,1F3FC,200D,1F9B3
+woman, white haired: medium light skin tone
+true
+EMOJI
+1F469,1F3FD,200D,1F9B3
+woman, white haired: medium skin tone
+true
+EMOJI
+1F469,1F3FE,200D,1F9B3
+woman, white haired: medium dark skin tone
+true
+EMOJI
+1F469,1F3FF,200D,1F9B3
+woman, white haired: dark skin tone
+true
+EMOJI
+1F935
+man in tuxedo
+true
+EMOJI
+1F935,1F3FB
+man in tuxedo: light skin tone
+true
+EMOJI
+1F935,1F3FC
+man in tuxedo: medium light skin tone
+true
+EMOJI
+1F935,1F3FD
+man in tuxedo: medium skin tone
+true
+EMOJI
+1F935,1F3FE
+man in tuxedo: medium dark skin tone
+true
+EMOJI
+1F935,1F3FF
+man in tuxedo: dark skin tone
+true
+EMOJI
+1F470
+bride with veil
+true
+EMOJI
+1F470,1F3FB
+bride with veil: light skin tone
+true
+EMOJI
+1F470,1F3FC
+bride with veil: medium light skin tone
+true
+EMOJI
+1F470,1F3FD
+bride with veil: medium skin tone
+true
+EMOJI
+1F470,1F3FE
+bride with veil: medium dark skin tone
+true
+EMOJI
+1F470,1F3FF
+bride with veil: dark skin tone
+true
+EMOJI
+1F930
+pregnant woman
+true
+EMOJI
+1F930,1F3FB
+pregnant woman: light skin tone
+true
+EMOJI
+1F930,1F3FC
+pregnant woman: medium light skin tone
+true
+EMOJI
+1F930,1F3FD
+pregnant woman: medium skin tone
+true
+EMOJI
+1F930,1F3FE
+pregnant woman: medium dark skin tone
+true
+EMOJI
+1F930,1F3FF
+pregnant woman: dark skin tone
+true
+EMOJI
+1F931
+breast feeding
+true
+EMOJI
+1F931,1F3FB
+breast feeding: light skin tone
+true
+EMOJI
+1F931,1F3FC
+breast feeding: medium light skin tone
+true
+EMOJI
+1F931,1F3FD
+breast feeding: medium skin tone
+true
+EMOJI
+1F931,1F3FE
+breast feeding: medium dark skin tone
+true
+EMOJI
+1F931,1F3FF
+breast feeding: dark skin tone
+true
+SEPARATOR
+subgroup: person fantasy
+EMOJI
+1F47C
+baby angel
+true
+EMOJI
+1F47C,1F3FB
+baby angel: light skin tone
+true
+EMOJI
+1F47C,1F3FC
+baby angel: medium light skin tone
+true
+EMOJI
+1F47C,1F3FD
+baby angel: medium skin tone
+true
+EMOJI
+1F47C,1F3FE
+baby angel: medium dark skin tone
+true
+EMOJI
+1F47C,1F3FF
+baby angel: dark skin tone
+true
+EMOJI
+1F385
+Santa Claus
+true
+EMOJI
+1F385,1F3FB
+Santa Claus: light skin tone
+true
+EMOJI
+1F385,1F3FC
+Santa Claus: medium light skin tone
+true
+EMOJI
+1F385,1F3FD
+Santa Claus: medium skin tone
+true
+EMOJI
+1F385,1F3FE
+Santa Claus: medium dark skin tone
+true
+EMOJI
+1F385,1F3FF
+Santa Claus: dark skin tone
+true
+EMOJI
+1F936
+Mrs. Claus
+true
+EMOJI
+1F936,1F3FB
+Mrs. Claus: light skin tone
+true
+EMOJI
+1F936,1F3FC
+Mrs. Claus: medium light skin tone
+true
+EMOJI
+1F936,1F3FD
+Mrs. Claus: medium skin tone
+true
+EMOJI
+1F936,1F3FE
+Mrs. Claus: medium dark skin tone
+true
+EMOJI
+1F936,1F3FF
+Mrs. Claus: dark skin tone
+true
+EMOJI
+1F9B8
+superhero
+true
+EMOJI
+1F9B8,1F3FB
+superhero: light skin tone
+true
+EMOJI
+1F9B8,1F3FC
+superhero: medium light skin tone
+true
+EMOJI
+1F9B8,1F3FD
+superhero: medium skin tone
+true
+EMOJI
+1F9B8,1F3FE
+superhero: medium dark skin tone
+true
+EMOJI
+1F9B8,1F3FF
+superhero: dark skin tone
+true
+EMOJI
+1F9B8,200D,2640,FE0F
+woman superhero
+true
+EMOJI
+1F9B8,200D,2640
+woman superhero
+false
+EMOJI
+1F9B8,1F3FB,200D,2640,FE0F
+woman superhero: light skin tone
+true
+EMOJI
+1F9B8,1F3FB,200D,2640
+woman superhero: light skin tone
+false
+EMOJI
+1F9B8,1F3FC,200D,2640,FE0F
+woman superhero: medium light skin tone
+true
+EMOJI
+1F9B8,1F3FC,200D,2640
+woman superhero: medium light skin tone
+false
+EMOJI
+1F9B8,1F3FD,200D,2640,FE0F
+woman superhero: medium skin tone
+true
+EMOJI
+1F9B8,1F3FD,200D,2640
+woman superhero: medium skin tone
+false
+EMOJI
+1F9B8,1F3FE,200D,2640,FE0F
+woman superhero: medium dark skin tone
+true
+EMOJI
+1F9B8,1F3FE,200D,2640
+woman superhero: medium dark skin tone
+false
+EMOJI
+1F9B8,1F3FF,200D,2640,FE0F
+woman superhero: dark skin tone
+true
+EMOJI
+1F9B8,1F3FF,200D,2640
+woman superhero: dark skin tone
+false
+EMOJI
+1F9B8,200D,2642,FE0F
+man superhero
+true
+EMOJI
+1F9B8,200D,2642
+man superhero
+false
+EMOJI
+1F9B8,1F3FB,200D,2642,FE0F
+man superhero: light skin tone
+true
+EMOJI
+1F9B8,1F3FB,200D,2642
+man superhero: light skin tone
+false
+EMOJI
+1F9B8,1F3FC,200D,2642,FE0F
+man superhero: medium light skin tone
+true
+EMOJI
+1F9B8,1F3FC,200D,2642
+man superhero: medium light skin tone
+false
+EMOJI
+1F9B8,1F3FD,200D,2642,FE0F
+man superhero: medium skin tone
+true
+EMOJI
+1F9B8,1F3FD,200D,2642
+man superhero: medium skin tone
+false
+EMOJI
+1F9B8,1F3FE,200D,2642,FE0F
+man superhero: medium dark skin tone
+true
+EMOJI
+1F9B8,1F3FE,200D,2642
+man superhero: medium dark skin tone
+false
+EMOJI
+1F9B8,1F3FF,200D,2642,FE0F
+man superhero: dark skin tone
+true
+EMOJI
+1F9B8,1F3FF,200D,2642
+man superhero: dark skin tone
+false
+EMOJI
+1F9B9
+supervillain
+true
+EMOJI
+1F9B9,1F3FB
+supervillain: light skin tone
+true
+EMOJI
+1F9B9,1F3FC
+supervillain: medium light skin tone
+true
+EMOJI
+1F9B9,1F3FD
+supervillain: medium skin tone
+true
+EMOJI
+1F9B9,1F3FE
+supervillain: medium dark skin tone
+true
+EMOJI
+1F9B9,1F3FF
+supervillain: dark skin tone
+true
+EMOJI
+1F9B9,200D,2640,FE0F
+woman supervillain
+true
+EMOJI
+1F9B9,200D,2640
+woman supervillain
+false
+EMOJI
+1F9B9,1F3FB,200D,2640,FE0F
+woman supervillain: light skin tone
+true
+EMOJI
+1F9B9,1F3FB,200D,2640
+woman supervillain: light skin tone
+false
+EMOJI
+1F9B9,1F3FC,200D,2640,FE0F
+woman supervillain: medium light skin tone
+true
+EMOJI
+1F9B9,1F3FC,200D,2640
+woman supervillain: medium light skin tone
+false
+EMOJI
+1F9B9,1F3FD,200D,2640,FE0F
+woman supervillain: medium skin tone
+true
+EMOJI
+1F9B9,1F3FD,200D,2640
+woman supervillain: medium skin tone
+false
+EMOJI
+1F9B9,1F3FE,200D,2640,FE0F
+woman supervillain: medium dark skin tone
+true
+EMOJI
+1F9B9,1F3FE,200D,2640
+woman supervillain: medium dark skin tone
+false
+EMOJI
+1F9B9,1F3FF,200D,2640,FE0F
+woman supervillain: dark skin tone
+true
+EMOJI
+1F9B9,1F3FF,200D,2640
+woman supervillain: dark skin tone
+false
+EMOJI
+1F9B9,200D,2642,FE0F
+man supervillain
+true
+EMOJI
+1F9B9,200D,2642
+man supervillain
+false
+EMOJI
+1F9B9,1F3FB,200D,2642,FE0F
+man supervillain: light skin tone
+true
+EMOJI
+1F9B9,1F3FB,200D,2642
+man supervillain: light skin tone
+false
+EMOJI
+1F9B9,1F3FC,200D,2642,FE0F
+man supervillain: medium light skin tone
+true
+EMOJI
+1F9B9,1F3FC,200D,2642
+man supervillain: medium light skin tone
+false
+EMOJI
+1F9B9,1F3FD,200D,2642,FE0F
+man supervillain: medium skin tone
+true
+EMOJI
+1F9B9,1F3FD,200D,2642
+man supervillain: medium skin tone
+false
+EMOJI
+1F9B9,1F3FE,200D,2642,FE0F
+man supervillain: medium dark skin tone
+true
+EMOJI
+1F9B9,1F3FE,200D,2642
+man supervillain: medium dark skin tone
+false
+EMOJI
+1F9B9,1F3FF,200D,2642,FE0F
+man supervillain: dark skin tone
+true
+EMOJI
+1F9B9,1F3FF,200D,2642
+man supervillain: dark skin tone
+false
+EMOJI
+1F9D9
+mage
+true
+EMOJI
+1F9D9,1F3FB
+mage: light skin tone
+true
+EMOJI
+1F9D9,1F3FC
+mage: medium light skin tone
+true
+EMOJI
+1F9D9,1F3FD
+mage: medium skin tone
+true
+EMOJI
+1F9D9,1F3FE
+mage: medium dark skin tone
+true
+EMOJI
+1F9D9,1F3FF
+mage: dark skin tone
+true
+EMOJI
+1F9D9,200D,2640,FE0F
+woman mage
+true
+EMOJI
+1F9D9,200D,2640
+woman mage
+false
+EMOJI
+1F9D9,1F3FB,200D,2640,FE0F
+woman mage: light skin tone
+true
+EMOJI
+1F9D9,1F3FB,200D,2640
+woman mage: light skin tone
+false
+EMOJI
+1F9D9,1F3FC,200D,2640,FE0F
+woman mage: medium light skin tone
+true
+EMOJI
+1F9D9,1F3FC,200D,2640
+woman mage: medium light skin tone
+false
+EMOJI
+1F9D9,1F3FD,200D,2640,FE0F
+woman mage: medium skin tone
+true
+EMOJI
+1F9D9,1F3FD,200D,2640
+woman mage: medium skin tone
+false
+EMOJI
+1F9D9,1F3FE,200D,2640,FE0F
+woman mage: medium dark skin tone
+true
+EMOJI
+1F9D9,1F3FE,200D,2640
+woman mage: medium dark skin tone
+false
+EMOJI
+1F9D9,1F3FF,200D,2640,FE0F
+woman mage: dark skin tone
+true
+EMOJI
+1F9D9,1F3FF,200D,2640
+woman mage: dark skin tone
+false
+EMOJI
+1F9D9,200D,2642,FE0F
+man mage
+true
+EMOJI
+1F9D9,200D,2642
+man mage
+false
+EMOJI
+1F9D9,1F3FB,200D,2642,FE0F
+man mage: light skin tone
+true
+EMOJI
+1F9D9,1F3FB,200D,2642
+man mage: light skin tone
+false
+EMOJI
+1F9D9,1F3FC,200D,2642,FE0F
+man mage: medium light skin tone
+true
+EMOJI
+1F9D9,1F3FC,200D,2642
+man mage: medium light skin tone
+false
+EMOJI
+1F9D9,1F3FD,200D,2642,FE0F
+man mage: medium skin tone
+true
+EMOJI
+1F9D9,1F3FD,200D,2642
+man mage: medium skin tone
+false
+EMOJI
+1F9D9,1F3FE,200D,2642,FE0F
+man mage: medium dark skin tone
+true
+EMOJI
+1F9D9,1F3FE,200D,2642
+man mage: medium dark skin tone
+false
+EMOJI
+1F9D9,1F3FF,200D,2642,FE0F
+man mage: dark skin tone
+true
+EMOJI
+1F9D9,1F3FF,200D,2642
+man mage: dark skin tone
+false
+EMOJI
+1F9DA
+fairy
+true
+EMOJI
+1F9DA,1F3FB
+fairy: light skin tone
+true
+EMOJI
+1F9DA,1F3FC
+fairy: medium light skin tone
+true
+EMOJI
+1F9DA,1F3FD
+fairy: medium skin tone
+true
+EMOJI
+1F9DA,1F3FE
+fairy: medium dark skin tone
+true
+EMOJI
+1F9DA,1F3FF
+fairy: dark skin tone
+true
+EMOJI
+1F9DA,200D,2640,FE0F
+woman fairy
+true
+EMOJI
+1F9DA,200D,2640
+woman fairy
+false
+EMOJI
+1F9DA,1F3FB,200D,2640,FE0F
+woman fairy: light skin tone
+true
+EMOJI
+1F9DA,1F3FB,200D,2640
+woman fairy: light skin tone
+false
+EMOJI
+1F9DA,1F3FC,200D,2640,FE0F
+woman fairy: medium light skin tone
+true
+EMOJI
+1F9DA,1F3FC,200D,2640
+woman fairy: medium light skin tone
+false
+EMOJI
+1F9DA,1F3FD,200D,2640,FE0F
+woman fairy: medium skin tone
+true
+EMOJI
+1F9DA,1F3FD,200D,2640
+woman fairy: medium skin tone
+false
+EMOJI
+1F9DA,1F3FE,200D,2640,FE0F
+woman fairy: medium dark skin tone
+true
+EMOJI
+1F9DA,1F3FE,200D,2640
+woman fairy: medium dark skin tone
+false
+EMOJI
+1F9DA,1F3FF,200D,2640,FE0F
+woman fairy: dark skin tone
+true
+EMOJI
+1F9DA,1F3FF,200D,2640
+woman fairy: dark skin tone
+false
+EMOJI
+1F9DA,200D,2642,FE0F
+man fairy
+true
+EMOJI
+1F9DA,200D,2642
+man fairy
+false
+EMOJI
+1F9DA,1F3FB,200D,2642,FE0F
+man fairy: light skin tone
+true
+EMOJI
+1F9DA,1F3FB,200D,2642
+man fairy: light skin tone
+false
+EMOJI
+1F9DA,1F3FC,200D,2642,FE0F
+man fairy: medium light skin tone
+true
+EMOJI
+1F9DA,1F3FC,200D,2642
+man fairy: medium light skin tone
+false
+EMOJI
+1F9DA,1F3FD,200D,2642,FE0F
+man fairy: medium skin tone
+true
+EMOJI
+1F9DA,1F3FD,200D,2642
+man fairy: medium skin tone
+false
+EMOJI
+1F9DA,1F3FE,200D,2642,FE0F
+man fairy: medium dark skin tone
+true
+EMOJI
+1F9DA,1F3FE,200D,2642
+man fairy: medium dark skin tone
+false
+EMOJI
+1F9DA,1F3FF,200D,2642,FE0F
+man fairy: dark skin tone
+true
+EMOJI
+1F9DA,1F3FF,200D,2642
+man fairy: dark skin tone
+false
+EMOJI
+1F9DB
+vampire
+true
+EMOJI
+1F9DB,1F3FB
+vampire: light skin tone
+true
+EMOJI
+1F9DB,1F3FC
+vampire: medium light skin tone
+true
+EMOJI
+1F9DB,1F3FD
+vampire: medium skin tone
+true
+EMOJI
+1F9DB,1F3FE
+vampire: medium dark skin tone
+true
+EMOJI
+1F9DB,1F3FF
+vampire: dark skin tone
+true
+EMOJI
+1F9DB,200D,2640,FE0F
+woman vampire
+true
+EMOJI
+1F9DB,200D,2640
+woman vampire
+false
+EMOJI
+1F9DB,1F3FB,200D,2640,FE0F
+woman vampire: light skin tone
+true
+EMOJI
+1F9DB,1F3FB,200D,2640
+woman vampire: light skin tone
+false
+EMOJI
+1F9DB,1F3FC,200D,2640,FE0F
+woman vampire: medium light skin tone
+true
+EMOJI
+1F9DB,1F3FC,200D,2640
+woman vampire: medium light skin tone
+false
+EMOJI
+1F9DB,1F3FD,200D,2640,FE0F
+woman vampire: medium skin tone
+true
+EMOJI
+1F9DB,1F3FD,200D,2640
+woman vampire: medium skin tone
+false
+EMOJI
+1F9DB,1F3FE,200D,2640,FE0F
+woman vampire: medium dark skin tone
+true
+EMOJI
+1F9DB,1F3FE,200D,2640
+woman vampire: medium dark skin tone
+false
+EMOJI
+1F9DB,1F3FF,200D,2640,FE0F
+woman vampire: dark skin tone
+true
+EMOJI
+1F9DB,1F3FF,200D,2640
+woman vampire: dark skin tone
+false
+EMOJI
+1F9DB,200D,2642,FE0F
+man vampire
+true
+EMOJI
+1F9DB,200D,2642
+man vampire
+false
+EMOJI
+1F9DB,1F3FB,200D,2642,FE0F
+man vampire: light skin tone
+true
+EMOJI
+1F9DB,1F3FB,200D,2642
+man vampire: light skin tone
+false
+EMOJI
+1F9DB,1F3FC,200D,2642,FE0F
+man vampire: medium light skin tone
+true
+EMOJI
+1F9DB,1F3FC,200D,2642
+man vampire: medium light skin tone
+false
+EMOJI
+1F9DB,1F3FD,200D,2642,FE0F
+man vampire: medium skin tone
+true
+EMOJI
+1F9DB,1F3FD,200D,2642
+man vampire: medium skin tone
+false
+EMOJI
+1F9DB,1F3FE,200D,2642,FE0F
+man vampire: medium dark skin tone
+true
+EMOJI
+1F9DB,1F3FE,200D,2642
+man vampire: medium dark skin tone
+false
+EMOJI
+1F9DB,1F3FF,200D,2642,FE0F
+man vampire: dark skin tone
+true
+EMOJI
+1F9DB,1F3FF,200D,2642
+man vampire: dark skin tone
+false
+EMOJI
+1F9DC
+merperson
+true
+EMOJI
+1F9DC,1F3FB
+merperson: light skin tone
+true
+EMOJI
+1F9DC,1F3FC
+merperson: medium light skin tone
+true
+EMOJI
+1F9DC,1F3FD
+merperson: medium skin tone
+true
+EMOJI
+1F9DC,1F3FE
+merperson: medium dark skin tone
+true
+EMOJI
+1F9DC,1F3FF
+merperson: dark skin tone
+true
+EMOJI
+1F9DC,200D,2640,FE0F
+mermaid
+true
+EMOJI
+1F9DC,200D,2640
+mermaid
+false
+EMOJI
+1F9DC,1F3FB,200D,2640,FE0F
+mermaid: light skin tone
+true
+EMOJI
+1F9DC,1F3FB,200D,2640
+mermaid: light skin tone
+false
+EMOJI
+1F9DC,1F3FC,200D,2640,FE0F
+mermaid: medium light skin tone
+true
+EMOJI
+1F9DC,1F3FC,200D,2640
+mermaid: medium light skin tone
+false
+EMOJI
+1F9DC,1F3FD,200D,2640,FE0F
+mermaid: medium skin tone
+true
+EMOJI
+1F9DC,1F3FD,200D,2640
+mermaid: medium skin tone
+false
+EMOJI
+1F9DC,1F3FE,200D,2640,FE0F
+mermaid: medium dark skin tone
+true
+EMOJI
+1F9DC,1F3FE,200D,2640
+mermaid: medium dark skin tone
+false
+EMOJI
+1F9DC,1F3FF,200D,2640,FE0F
+mermaid: dark skin tone
+true
+EMOJI
+1F9DC,1F3FF,200D,2640
+mermaid: dark skin tone
+false
+EMOJI
+1F9DC,200D,2642,FE0F
+merman
+true
+EMOJI
+1F9DC,200D,2642
+merman
+false
+EMOJI
+1F9DC,1F3FB,200D,2642,FE0F
+merman: light skin tone
+true
+EMOJI
+1F9DC,1F3FB,200D,2642
+merman: light skin tone
+false
+EMOJI
+1F9DC,1F3FC,200D,2642,FE0F
+merman: medium light skin tone
+true
+EMOJI
+1F9DC,1F3FC,200D,2642
+merman: medium light skin tone
+false
+EMOJI
+1F9DC,1F3FD,200D,2642,FE0F
+merman: medium skin tone
+true
+EMOJI
+1F9DC,1F3FD,200D,2642
+merman: medium skin tone
+false
+EMOJI
+1F9DC,1F3FE,200D,2642,FE0F
+merman: medium dark skin tone
+true
+EMOJI
+1F9DC,1F3FE,200D,2642
+merman: medium dark skin tone
+false
+EMOJI
+1F9DC,1F3FF,200D,2642,FE0F
+merman: dark skin tone
+true
+EMOJI
+1F9DC,1F3FF,200D,2642
+merman: dark skin tone
+false
+EMOJI
+1F9DD
+elf
+true
+EMOJI
+1F9DD,1F3FB
+elf: light skin tone
+true
+EMOJI
+1F9DD,1F3FC
+elf: medium light skin tone
+true
+EMOJI
+1F9DD,1F3FD
+elf: medium skin tone
+true
+EMOJI
+1F9DD,1F3FE
+elf: medium dark skin tone
+true
+EMOJI
+1F9DD,1F3FF
+elf: dark skin tone
+true
+EMOJI
+1F9DD,200D,2640,FE0F
+woman elf
+true
+EMOJI
+1F9DD,200D,2640
+woman elf
+false
+EMOJI
+1F9DD,1F3FB,200D,2640,FE0F
+woman elf: light skin tone
+true
+EMOJI
+1F9DD,1F3FB,200D,2640
+woman elf: light skin tone
+false
+EMOJI
+1F9DD,1F3FC,200D,2640,FE0F
+woman elf: medium light skin tone
+true
+EMOJI
+1F9DD,1F3FC,200D,2640
+woman elf: medium light skin tone
+false
+EMOJI
+1F9DD,1F3FD,200D,2640,FE0F
+woman elf: medium skin tone
+true
+EMOJI
+1F9DD,1F3FD,200D,2640
+woman elf: medium skin tone
+false
+EMOJI
+1F9DD,1F3FE,200D,2640,FE0F
+woman elf: medium dark skin tone
+true
+EMOJI
+1F9DD,1F3FE,200D,2640
+woman elf: medium dark skin tone
+false
+EMOJI
+1F9DD,1F3FF,200D,2640,FE0F
+woman elf: dark skin tone
+true
+EMOJI
+1F9DD,1F3FF,200D,2640
+woman elf: dark skin tone
+false
+EMOJI
+1F9DD,200D,2642,FE0F
+man elf
+true
+EMOJI
+1F9DD,200D,2642
+man elf
+false
+EMOJI
+1F9DD,1F3FB,200D,2642,FE0F
+man elf: light skin tone
+true
+EMOJI
+1F9DD,1F3FB,200D,2642
+man elf: light skin tone
+false
+EMOJI
+1F9DD,1F3FC,200D,2642,FE0F
+man elf: medium light skin tone
+true
+EMOJI
+1F9DD,1F3FC,200D,2642
+man elf: medium light skin tone
+false
+EMOJI
+1F9DD,1F3FD,200D,2642,FE0F
+man elf: medium skin tone
+true
+EMOJI
+1F9DD,1F3FD,200D,2642
+man elf: medium skin tone
+false
+EMOJI
+1F9DD,1F3FE,200D,2642,FE0F
+man elf: medium dark skin tone
+true
+EMOJI
+1F9DD,1F3FE,200D,2642
+man elf: medium dark skin tone
+false
+EMOJI
+1F9DD,1F3FF,200D,2642,FE0F
+man elf: dark skin tone
+true
+EMOJI
+1F9DD,1F3FF,200D,2642
+man elf: dark skin tone
+false
+EMOJI
+1F9DE
+genie
+true
+EMOJI
+1F9DE,200D,2640,FE0F
+woman genie
+true
+EMOJI
+1F9DE,200D,2640
+woman genie
+false
+EMOJI
+1F9DE,200D,2642,FE0F
+man genie
+true
+EMOJI
+1F9DE,200D,2642
+man genie
+false
+EMOJI
+1F9DF
+zombie
+true
+EMOJI
+1F9DF,200D,2640,FE0F
+woman zombie
+true
+EMOJI
+1F9DF,200D,2640
+woman zombie
+false
+EMOJI
+1F9DF,200D,2642,FE0F
+man zombie
+true
+EMOJI
+1F9DF,200D,2642
+man zombie
+false
+SEPARATOR
+subgroup: person gesture
+EMOJI
+1F64D
+person frowning
+true
+EMOJI
+1F64D,1F3FB
+person frowning: light skin tone
+true
+EMOJI
+1F64D,1F3FC
+person frowning: medium light skin tone
+true
+EMOJI
+1F64D,1F3FD
+person frowning: medium skin tone
+true
+EMOJI
+1F64D,1F3FE
+person frowning: medium dark skin tone
+true
+EMOJI
+1F64D,1F3FF
+person frowning: dark skin tone
+true
+EMOJI
+1F64D,200D,2642,FE0F
+man frowning
+true
+EMOJI
+1F64D,200D,2642
+man frowning
+false
+EMOJI
+1F64D,1F3FB,200D,2642,FE0F
+man frowning: light skin tone
+true
+EMOJI
+1F64D,1F3FB,200D,2642
+man frowning: light skin tone
+false
+EMOJI
+1F64D,1F3FC,200D,2642,FE0F
+man frowning: medium light skin tone
+true
+EMOJI
+1F64D,1F3FC,200D,2642
+man frowning: medium light skin tone
+false
+EMOJI
+1F64D,1F3FD,200D,2642,FE0F
+man frowning: medium skin tone
+true
+EMOJI
+1F64D,1F3FD,200D,2642
+man frowning: medium skin tone
+false
+EMOJI
+1F64D,1F3FE,200D,2642,FE0F
+man frowning: medium dark skin tone
+true
+EMOJI
+1F64D,1F3FE,200D,2642
+man frowning: medium dark skin tone
+false
+EMOJI
+1F64D,1F3FF,200D,2642,FE0F
+man frowning: dark skin tone
+true
+EMOJI
+1F64D,1F3FF,200D,2642
+man frowning: dark skin tone
+false
+EMOJI
+1F64D,200D,2640,FE0F
+woman frowning
+true
+EMOJI
+1F64D,200D,2640
+woman frowning
+false
+EMOJI
+1F64D,1F3FB,200D,2640,FE0F
+woman frowning: light skin tone
+true
+EMOJI
+1F64D,1F3FB,200D,2640
+woman frowning: light skin tone
+false
+EMOJI
+1F64D,1F3FC,200D,2640,FE0F
+woman frowning: medium light skin tone
+true
+EMOJI
+1F64D,1F3FC,200D,2640
+woman frowning: medium light skin tone
+false
+EMOJI
+1F64D,1F3FD,200D,2640,FE0F
+woman frowning: medium skin tone
+true
+EMOJI
+1F64D,1F3FD,200D,2640
+woman frowning: medium skin tone
+false
+EMOJI
+1F64D,1F3FE,200D,2640,FE0F
+woman frowning: medium dark skin tone
+true
+EMOJI
+1F64D,1F3FE,200D,2640
+woman frowning: medium dark skin tone
+false
+EMOJI
+1F64D,1F3FF,200D,2640,FE0F
+woman frowning: dark skin tone
+true
+EMOJI
+1F64D,1F3FF,200D,2640
+woman frowning: dark skin tone
+false
+EMOJI
+1F64E
+person pouting
+true
+EMOJI
+1F64E,1F3FB
+person pouting: light skin tone
+true
+EMOJI
+1F64E,1F3FC
+person pouting: medium light skin tone
+true
+EMOJI
+1F64E,1F3FD
+person pouting: medium skin tone
+true
+EMOJI
+1F64E,1F3FE
+person pouting: medium dark skin tone
+true
+EMOJI
+1F64E,1F3FF
+person pouting: dark skin tone
+true
+EMOJI
+1F64E,200D,2642,FE0F
+man pouting
+true
+EMOJI
+1F64E,200D,2642
+man pouting
+false
+EMOJI
+1F64E,1F3FB,200D,2642,FE0F
+man pouting: light skin tone
+true
+EMOJI
+1F64E,1F3FB,200D,2642
+man pouting: light skin tone
+false
+EMOJI
+1F64E,1F3FC,200D,2642,FE0F
+man pouting: medium light skin tone
+true
+EMOJI
+1F64E,1F3FC,200D,2642
+man pouting: medium light skin tone
+false
+EMOJI
+1F64E,1F3FD,200D,2642,FE0F
+man pouting: medium skin tone
+true
+EMOJI
+1F64E,1F3FD,200D,2642
+man pouting: medium skin tone
+false
+EMOJI
+1F64E,1F3FE,200D,2642,FE0F
+man pouting: medium dark skin tone
+true
+EMOJI
+1F64E,1F3FE,200D,2642
+man pouting: medium dark skin tone
+false
+EMOJI
+1F64E,1F3FF,200D,2642,FE0F
+man pouting: dark skin tone
+true
+EMOJI
+1F64E,1F3FF,200D,2642
+man pouting: dark skin tone
+false
+EMOJI
+1F64E,200D,2640,FE0F
+woman pouting
+true
+EMOJI
+1F64E,200D,2640
+woman pouting
+false
+EMOJI
+1F64E,1F3FB,200D,2640,FE0F
+woman pouting: light skin tone
+true
+EMOJI
+1F64E,1F3FB,200D,2640
+woman pouting: light skin tone
+false
+EMOJI
+1F64E,1F3FC,200D,2640,FE0F
+woman pouting: medium light skin tone
+true
+EMOJI
+1F64E,1F3FC,200D,2640
+woman pouting: medium light skin tone
+false
+EMOJI
+1F64E,1F3FD,200D,2640,FE0F
+woman pouting: medium skin tone
+true
+EMOJI
+1F64E,1F3FD,200D,2640
+woman pouting: medium skin tone
+false
+EMOJI
+1F64E,1F3FE,200D,2640,FE0F
+woman pouting: medium dark skin tone
+true
+EMOJI
+1F64E,1F3FE,200D,2640
+woman pouting: medium dark skin tone
+false
+EMOJI
+1F64E,1F3FF,200D,2640,FE0F
+woman pouting: dark skin tone
+true
+EMOJI
+1F64E,1F3FF,200D,2640
+woman pouting: dark skin tone
+false
+EMOJI
+1F645
+person gesturing NO
+true
+EMOJI
+1F645,1F3FB
+person gesturing NO: light skin tone
+true
+EMOJI
+1F645,1F3FC
+person gesturing NO: medium light skin tone
+true
+EMOJI
+1F645,1F3FD
+person gesturing NO: medium skin tone
+true
+EMOJI
+1F645,1F3FE
+person gesturing NO: medium dark skin tone
+true
+EMOJI
+1F645,1F3FF
+person gesturing NO: dark skin tone
+true
+EMOJI
+1F645,200D,2642,FE0F
+man gesturing NO
+true
+EMOJI
+1F645,200D,2642
+man gesturing NO
+false
+EMOJI
+1F645,1F3FB,200D,2642,FE0F
+man gesturing NO: light skin tone
+true
+EMOJI
+1F645,1F3FB,200D,2642
+man gesturing NO: light skin tone
+false
+EMOJI
+1F645,1F3FC,200D,2642,FE0F
+man gesturing NO: medium light skin tone
+true
+EMOJI
+1F645,1F3FC,200D,2642
+man gesturing NO: medium light skin tone
+false
+EMOJI
+1F645,1F3FD,200D,2642,FE0F
+man gesturing NO: medium skin tone
+true
+EMOJI
+1F645,1F3FD,200D,2642
+man gesturing NO: medium skin tone
+false
+EMOJI
+1F645,1F3FE,200D,2642,FE0F
+man gesturing NO: medium dark skin tone
+true
+EMOJI
+1F645,1F3FE,200D,2642
+man gesturing NO: medium dark skin tone
+false
+EMOJI
+1F645,1F3FF,200D,2642,FE0F
+man gesturing NO: dark skin tone
+true
+EMOJI
+1F645,1F3FF,200D,2642
+man gesturing NO: dark skin tone
+false
+EMOJI
+1F645,200D,2640,FE0F
+woman gesturing NO
+true
+EMOJI
+1F645,200D,2640
+woman gesturing NO
+false
+EMOJI
+1F645,1F3FB,200D,2640,FE0F
+woman gesturing NO: light skin tone
+true
+EMOJI
+1F645,1F3FB,200D,2640
+woman gesturing NO: light skin tone
+false
+EMOJI
+1F645,1F3FC,200D,2640,FE0F
+woman gesturing NO: medium light skin tone
+true
+EMOJI
+1F645,1F3FC,200D,2640
+woman gesturing NO: medium light skin tone
+false
+EMOJI
+1F645,1F3FD,200D,2640,FE0F
+woman gesturing NO: medium skin tone
+true
+EMOJI
+1F645,1F3FD,200D,2640
+woman gesturing NO: medium skin tone
+false
+EMOJI
+1F645,1F3FE,200D,2640,FE0F
+woman gesturing NO: medium dark skin tone
+true
+EMOJI
+1F645,1F3FE,200D,2640
+woman gesturing NO: medium dark skin tone
+false
+EMOJI
+1F645,1F3FF,200D,2640,FE0F
+woman gesturing NO: dark skin tone
+true
+EMOJI
+1F645,1F3FF,200D,2640
+woman gesturing NO: dark skin tone
+false
+EMOJI
+1F646
+person gesturing OK
+true
+EMOJI
+1F646,1F3FB
+person gesturing OK: light skin tone
+true
+EMOJI
+1F646,1F3FC
+person gesturing OK: medium light skin tone
+true
+EMOJI
+1F646,1F3FD
+person gesturing OK: medium skin tone
+true
+EMOJI
+1F646,1F3FE
+person gesturing OK: medium dark skin tone
+true
+EMOJI
+1F646,1F3FF
+person gesturing OK: dark skin tone
+true
+EMOJI
+1F646,200D,2642,FE0F
+man gesturing OK
+true
+EMOJI
+1F646,200D,2642
+man gesturing OK
+false
+EMOJI
+1F646,1F3FB,200D,2642,FE0F
+man gesturing OK: light skin tone
+true
+EMOJI
+1F646,1F3FB,200D,2642
+man gesturing OK: light skin tone
+false
+EMOJI
+1F646,1F3FC,200D,2642,FE0F
+man gesturing OK: medium light skin tone
+true
+EMOJI
+1F646,1F3FC,200D,2642
+man gesturing OK: medium light skin tone
+false
+EMOJI
+1F646,1F3FD,200D,2642,FE0F
+man gesturing OK: medium skin tone
+true
+EMOJI
+1F646,1F3FD,200D,2642
+man gesturing OK: medium skin tone
+false
+EMOJI
+1F646,1F3FE,200D,2642,FE0F
+man gesturing OK: medium dark skin tone
+true
+EMOJI
+1F646,1F3FE,200D,2642
+man gesturing OK: medium dark skin tone
+false
+EMOJI
+1F646,1F3FF,200D,2642,FE0F
+man gesturing OK: dark skin tone
+true
+EMOJI
+1F646,1F3FF,200D,2642
+man gesturing OK: dark skin tone
+false
+EMOJI
+1F646,200D,2640,FE0F
+woman gesturing OK
+true
+EMOJI
+1F646,200D,2640
+woman gesturing OK
+false
+EMOJI
+1F646,1F3FB,200D,2640,FE0F
+woman gesturing OK: light skin tone
+true
+EMOJI
+1F646,1F3FB,200D,2640
+woman gesturing OK: light skin tone
+false
+EMOJI
+1F646,1F3FC,200D,2640,FE0F
+woman gesturing OK: medium light skin tone
+true
+EMOJI
+1F646,1F3FC,200D,2640
+woman gesturing OK: medium light skin tone
+false
+EMOJI
+1F646,1F3FD,200D,2640,FE0F
+woman gesturing OK: medium skin tone
+true
+EMOJI
+1F646,1F3FD,200D,2640
+woman gesturing OK: medium skin tone
+false
+EMOJI
+1F646,1F3FE,200D,2640,FE0F
+woman gesturing OK: medium dark skin tone
+true
+EMOJI
+1F646,1F3FE,200D,2640
+woman gesturing OK: medium dark skin tone
+false
+EMOJI
+1F646,1F3FF,200D,2640,FE0F
+woman gesturing OK: dark skin tone
+true
+EMOJI
+1F646,1F3FF,200D,2640
+woman gesturing OK: dark skin tone
+false
+EMOJI
+1F481
+person tipping hand
+true
+EMOJI
+1F481,1F3FB
+person tipping hand: light skin tone
+true
+EMOJI
+1F481,1F3FC
+person tipping hand: medium light skin tone
+true
+EMOJI
+1F481,1F3FD
+person tipping hand: medium skin tone
+true
+EMOJI
+1F481,1F3FE
+person tipping hand: medium dark skin tone
+true
+EMOJI
+1F481,1F3FF
+person tipping hand: dark skin tone
+true
+EMOJI
+1F481,200D,2642,FE0F
+man tipping hand
+true
+EMOJI
+1F481,200D,2642
+man tipping hand
+false
+EMOJI
+1F481,1F3FB,200D,2642,FE0F
+man tipping hand: light skin tone
+true
+EMOJI
+1F481,1F3FB,200D,2642
+man tipping hand: light skin tone
+false
+EMOJI
+1F481,1F3FC,200D,2642,FE0F
+man tipping hand: medium light skin tone
+true
+EMOJI
+1F481,1F3FC,200D,2642
+man tipping hand: medium light skin tone
+false
+EMOJI
+1F481,1F3FD,200D,2642,FE0F
+man tipping hand: medium skin tone
+true
+EMOJI
+1F481,1F3FD,200D,2642
+man tipping hand: medium skin tone
+false
+EMOJI
+1F481,1F3FE,200D,2642,FE0F
+man tipping hand: medium dark skin tone
+true
+EMOJI
+1F481,1F3FE,200D,2642
+man tipping hand: medium dark skin tone
+false
+EMOJI
+1F481,1F3FF,200D,2642,FE0F
+man tipping hand: dark skin tone
+true
+EMOJI
+1F481,1F3FF,200D,2642
+man tipping hand: dark skin tone
+false
+EMOJI
+1F481,200D,2640,FE0F
+woman tipping hand
+true
+EMOJI
+1F481,200D,2640
+woman tipping hand
+false
+EMOJI
+1F481,1F3FB,200D,2640,FE0F
+woman tipping hand: light skin tone
+true
+EMOJI
+1F481,1F3FB,200D,2640
+woman tipping hand: light skin tone
+false
+EMOJI
+1F481,1F3FC,200D,2640,FE0F
+woman tipping hand: medium light skin tone
+true
+EMOJI
+1F481,1F3FC,200D,2640
+woman tipping hand: medium light skin tone
+false
+EMOJI
+1F481,1F3FD,200D,2640,FE0F
+woman tipping hand: medium skin tone
+true
+EMOJI
+1F481,1F3FD,200D,2640
+woman tipping hand: medium skin tone
+false
+EMOJI
+1F481,1F3FE,200D,2640,FE0F
+woman tipping hand: medium dark skin tone
+true
+EMOJI
+1F481,1F3FE,200D,2640
+woman tipping hand: medium dark skin tone
+false
+EMOJI
+1F481,1F3FF,200D,2640,FE0F
+woman tipping hand: dark skin tone
+true
+EMOJI
+1F481,1F3FF,200D,2640
+woman tipping hand: dark skin tone
+false
+EMOJI
+1F64B
+person raising hand
+true
+EMOJI
+1F64B,1F3FB
+person raising hand: light skin tone
+true
+EMOJI
+1F64B,1F3FC
+person raising hand: medium light skin tone
+true
+EMOJI
+1F64B,1F3FD
+person raising hand: medium skin tone
+true
+EMOJI
+1F64B,1F3FE
+person raising hand: medium dark skin tone
+true
+EMOJI
+1F64B,1F3FF
+person raising hand: dark skin tone
+true
+EMOJI
+1F64B,200D,2642,FE0F
+man raising hand
+true
+EMOJI
+1F64B,200D,2642
+man raising hand
+false
+EMOJI
+1F64B,1F3FB,200D,2642,FE0F
+man raising hand: light skin tone
+true
+EMOJI
+1F64B,1F3FB,200D,2642
+man raising hand: light skin tone
+false
+EMOJI
+1F64B,1F3FC,200D,2642,FE0F
+man raising hand: medium light skin tone
+true
+EMOJI
+1F64B,1F3FC,200D,2642
+man raising hand: medium light skin tone
+false
+EMOJI
+1F64B,1F3FD,200D,2642,FE0F
+man raising hand: medium skin tone
+true
+EMOJI
+1F64B,1F3FD,200D,2642
+man raising hand: medium skin tone
+false
+EMOJI
+1F64B,1F3FE,200D,2642,FE0F
+man raising hand: medium dark skin tone
+true
+EMOJI
+1F64B,1F3FE,200D,2642
+man raising hand: medium dark skin tone
+false
+EMOJI
+1F64B,1F3FF,200D,2642,FE0F
+man raising hand: dark skin tone
+true
+EMOJI
+1F64B,1F3FF,200D,2642
+man raising hand: dark skin tone
+false
+EMOJI
+1F64B,200D,2640,FE0F
+woman raising hand
+true
+EMOJI
+1F64B,200D,2640
+woman raising hand
+false
+EMOJI
+1F64B,1F3FB,200D,2640,FE0F
+woman raising hand: light skin tone
+true
+EMOJI
+1F64B,1F3FB,200D,2640
+woman raising hand: light skin tone
+false
+EMOJI
+1F64B,1F3FC,200D,2640,FE0F
+woman raising hand: medium light skin tone
+true
+EMOJI
+1F64B,1F3FC,200D,2640
+woman raising hand: medium light skin tone
+false
+EMOJI
+1F64B,1F3FD,200D,2640,FE0F
+woman raising hand: medium skin tone
+true
+EMOJI
+1F64B,1F3FD,200D,2640
+woman raising hand: medium skin tone
+false
+EMOJI
+1F64B,1F3FE,200D,2640,FE0F
+woman raising hand: medium dark skin tone
+true
+EMOJI
+1F64B,1F3FE,200D,2640
+woman raising hand: medium dark skin tone
+false
+EMOJI
+1F64B,1F3FF,200D,2640,FE0F
+woman raising hand: dark skin tone
+true
+EMOJI
+1F64B,1F3FF,200D,2640
+woman raising hand: dark skin tone
+false
+EMOJI
+1F647
+person bowing
+true
+EMOJI
+1F647,1F3FB
+person bowing: light skin tone
+true
+EMOJI
+1F647,1F3FC
+person bowing: medium light skin tone
+true
+EMOJI
+1F647,1F3FD
+person bowing: medium skin tone
+true
+EMOJI
+1F647,1F3FE
+person bowing: medium dark skin tone
+true
+EMOJI
+1F647,1F3FF
+person bowing: dark skin tone
+true
+EMOJI
+1F647,200D,2642,FE0F
+man bowing
+true
+EMOJI
+1F647,200D,2642
+man bowing
+false
+EMOJI
+1F647,1F3FB,200D,2642,FE0F
+man bowing: light skin tone
+true
+EMOJI
+1F647,1F3FB,200D,2642
+man bowing: light skin tone
+false
+EMOJI
+1F647,1F3FC,200D,2642,FE0F
+man bowing: medium light skin tone
+true
+EMOJI
+1F647,1F3FC,200D,2642
+man bowing: medium light skin tone
+false
+EMOJI
+1F647,1F3FD,200D,2642,FE0F
+man bowing: medium skin tone
+true
+EMOJI
+1F647,1F3FD,200D,2642
+man bowing: medium skin tone
+false
+EMOJI
+1F647,1F3FE,200D,2642,FE0F
+man bowing: medium dark skin tone
+true
+EMOJI
+1F647,1F3FE,200D,2642
+man bowing: medium dark skin tone
+false
+EMOJI
+1F647,1F3FF,200D,2642,FE0F
+man bowing: dark skin tone
+true
+EMOJI
+1F647,1F3FF,200D,2642
+man bowing: dark skin tone
+false
+EMOJI
+1F647,200D,2640,FE0F
+woman bowing
+true
+EMOJI
+1F647,200D,2640
+woman bowing
+false
+EMOJI
+1F647,1F3FB,200D,2640,FE0F
+woman bowing: light skin tone
+true
+EMOJI
+1F647,1F3FB,200D,2640
+woman bowing: light skin tone
+false
+EMOJI
+1F647,1F3FC,200D,2640,FE0F
+woman bowing: medium light skin tone
+true
+EMOJI
+1F647,1F3FC,200D,2640
+woman bowing: medium light skin tone
+false
+EMOJI
+1F647,1F3FD,200D,2640,FE0F
+woman bowing: medium skin tone
+true
+EMOJI
+1F647,1F3FD,200D,2640
+woman bowing: medium skin tone
+false
+EMOJI
+1F647,1F3FE,200D,2640,FE0F
+woman bowing: medium dark skin tone
+true
+EMOJI
+1F647,1F3FE,200D,2640
+woman bowing: medium dark skin tone
+false
+EMOJI
+1F647,1F3FF,200D,2640,FE0F
+woman bowing: dark skin tone
+true
+EMOJI
+1F647,1F3FF,200D,2640
+woman bowing: dark skin tone
+false
+EMOJI
+1F926
+person facepalming
+true
+EMOJI
+1F926,1F3FB
+person facepalming: light skin tone
+true
+EMOJI
+1F926,1F3FC
+person facepalming: medium light skin tone
+true
+EMOJI
+1F926,1F3FD
+person facepalming: medium skin tone
+true
+EMOJI
+1F926,1F3FE
+person facepalming: medium dark skin tone
+true
+EMOJI
+1F926,1F3FF
+person facepalming: dark skin tone
+true
+EMOJI
+1F926,200D,2642,FE0F
+man facepalming
+true
+EMOJI
+1F926,200D,2642
+man facepalming
+false
+EMOJI
+1F926,1F3FB,200D,2642,FE0F
+man facepalming: light skin tone
+true
+EMOJI
+1F926,1F3FB,200D,2642
+man facepalming: light skin tone
+false
+EMOJI
+1F926,1F3FC,200D,2642,FE0F
+man facepalming: medium light skin tone
+true
+EMOJI
+1F926,1F3FC,200D,2642
+man facepalming: medium light skin tone
+false
+EMOJI
+1F926,1F3FD,200D,2642,FE0F
+man facepalming: medium skin tone
+true
+EMOJI
+1F926,1F3FD,200D,2642
+man facepalming: medium skin tone
+false
+EMOJI
+1F926,1F3FE,200D,2642,FE0F
+man facepalming: medium dark skin tone
+true
+EMOJI
+1F926,1F3FE,200D,2642
+man facepalming: medium dark skin tone
+false
+EMOJI
+1F926,1F3FF,200D,2642,FE0F
+man facepalming: dark skin tone
+true
+EMOJI
+1F926,1F3FF,200D,2642
+man facepalming: dark skin tone
+false
+EMOJI
+1F926,200D,2640,FE0F
+woman facepalming
+true
+EMOJI
+1F926,200D,2640
+woman facepalming
+false
+EMOJI
+1F926,1F3FB,200D,2640,FE0F
+woman facepalming: light skin tone
+true
+EMOJI
+1F926,1F3FB,200D,2640
+woman facepalming: light skin tone
+false
+EMOJI
+1F926,1F3FC,200D,2640,FE0F
+woman facepalming: medium light skin tone
+true
+EMOJI
+1F926,1F3FC,200D,2640
+woman facepalming: medium light skin tone
+false
+EMOJI
+1F926,1F3FD,200D,2640,FE0F
+woman facepalming: medium skin tone
+true
+EMOJI
+1F926,1F3FD,200D,2640
+woman facepalming: medium skin tone
+false
+EMOJI
+1F926,1F3FE,200D,2640,FE0F
+woman facepalming: medium dark skin tone
+true
+EMOJI
+1F926,1F3FE,200D,2640
+woman facepalming: medium dark skin tone
+false
+EMOJI
+1F926,1F3FF,200D,2640,FE0F
+woman facepalming: dark skin tone
+true
+EMOJI
+1F926,1F3FF,200D,2640
+woman facepalming: dark skin tone
+false
+EMOJI
+1F937
+person shrugging
+true
+EMOJI
+1F937,1F3FB
+person shrugging: light skin tone
+true
+EMOJI
+1F937,1F3FC
+person shrugging: medium light skin tone
+true
+EMOJI
+1F937,1F3FD
+person shrugging: medium skin tone
+true
+EMOJI
+1F937,1F3FE
+person shrugging: medium dark skin tone
+true
+EMOJI
+1F937,1F3FF
+person shrugging: dark skin tone
+true
+EMOJI
+1F937,200D,2642,FE0F
+man shrugging
+true
+EMOJI
+1F937,200D,2642
+man shrugging
+false
+EMOJI
+1F937,1F3FB,200D,2642,FE0F
+man shrugging: light skin tone
+true
+EMOJI
+1F937,1F3FB,200D,2642
+man shrugging: light skin tone
+false
+EMOJI
+1F937,1F3FC,200D,2642,FE0F
+man shrugging: medium light skin tone
+true
+EMOJI
+1F937,1F3FC,200D,2642
+man shrugging: medium light skin tone
+false
+EMOJI
+1F937,1F3FD,200D,2642,FE0F
+man shrugging: medium skin tone
+true
+EMOJI
+1F937,1F3FD,200D,2642
+man shrugging: medium skin tone
+false
+EMOJI
+1F937,1F3FE,200D,2642,FE0F
+man shrugging: medium dark skin tone
+true
+EMOJI
+1F937,1F3FE,200D,2642
+man shrugging: medium dark skin tone
+false
+EMOJI
+1F937,1F3FF,200D,2642,FE0F
+man shrugging: dark skin tone
+true
+EMOJI
+1F937,1F3FF,200D,2642
+man shrugging: dark skin tone
+false
+EMOJI
+1F937,200D,2640,FE0F
+woman shrugging
+true
+EMOJI
+1F937,200D,2640
+woman shrugging
+false
+EMOJI
+1F937,1F3FB,200D,2640,FE0F
+woman shrugging: light skin tone
+true
+EMOJI
+1F937,1F3FB,200D,2640
+woman shrugging: light skin tone
+false
+EMOJI
+1F937,1F3FC,200D,2640,FE0F
+woman shrugging: medium light skin tone
+true
+EMOJI
+1F937,1F3FC,200D,2640
+woman shrugging: medium light skin tone
+false
+EMOJI
+1F937,1F3FD,200D,2640,FE0F
+woman shrugging: medium skin tone
+true
+EMOJI
+1F937,1F3FD,200D,2640
+woman shrugging: medium skin tone
+false
+EMOJI
+1F937,1F3FE,200D,2640,FE0F
+woman shrugging: medium dark skin tone
+true
+EMOJI
+1F937,1F3FE,200D,2640
+woman shrugging: medium dark skin tone
+false
+EMOJI
+1F937,1F3FF,200D,2640,FE0F
+woman shrugging: dark skin tone
+true
+EMOJI
+1F937,1F3FF,200D,2640
+woman shrugging: dark skin tone
+false
+SEPARATOR
+subgroup: person activity
+EMOJI
+1F486
+person getting massage
+true
+EMOJI
+1F486,1F3FB
+person getting massage: light skin tone
+true
+EMOJI
+1F486,1F3FC
+person getting massage: medium light skin tone
+true
+EMOJI
+1F486,1F3FD
+person getting massage: medium skin tone
+true
+EMOJI
+1F486,1F3FE
+person getting massage: medium dark skin tone
+true
+EMOJI
+1F486,1F3FF
+person getting massage: dark skin tone
+true
+EMOJI
+1F486,200D,2642,FE0F
+man getting massage
+true
+EMOJI
+1F486,200D,2642
+man getting massage
+false
+EMOJI
+1F486,1F3FB,200D,2642,FE0F
+man getting massage: light skin tone
+true
+EMOJI
+1F486,1F3FB,200D,2642
+man getting massage: light skin tone
+false
+EMOJI
+1F486,1F3FC,200D,2642,FE0F
+man getting massage: medium light skin tone
+true
+EMOJI
+1F486,1F3FC,200D,2642
+man getting massage: medium light skin tone
+false
+EMOJI
+1F486,1F3FD,200D,2642,FE0F
+man getting massage: medium skin tone
+true
+EMOJI
+1F486,1F3FD,200D,2642
+man getting massage: medium skin tone
+false
+EMOJI
+1F486,1F3FE,200D,2642,FE0F
+man getting massage: medium dark skin tone
+true
+EMOJI
+1F486,1F3FE,200D,2642
+man getting massage: medium dark skin tone
+false
+EMOJI
+1F486,1F3FF,200D,2642,FE0F
+man getting massage: dark skin tone
+true
+EMOJI
+1F486,1F3FF,200D,2642
+man getting massage: dark skin tone
+false
+EMOJI
+1F486,200D,2640,FE0F
+woman getting massage
+true
+EMOJI
+1F486,200D,2640
+woman getting massage
+false
+EMOJI
+1F486,1F3FB,200D,2640,FE0F
+woman getting massage: light skin tone
+true
+EMOJI
+1F486,1F3FB,200D,2640
+woman getting massage: light skin tone
+false
+EMOJI
+1F486,1F3FC,200D,2640,FE0F
+woman getting massage: medium light skin tone
+true
+EMOJI
+1F486,1F3FC,200D,2640
+woman getting massage: medium light skin tone
+false
+EMOJI
+1F486,1F3FD,200D,2640,FE0F
+woman getting massage: medium skin tone
+true
+EMOJI
+1F486,1F3FD,200D,2640
+woman getting massage: medium skin tone
+false
+EMOJI
+1F486,1F3FE,200D,2640,FE0F
+woman getting massage: medium dark skin tone
+true
+EMOJI
+1F486,1F3FE,200D,2640
+woman getting massage: medium dark skin tone
+false
+EMOJI
+1F486,1F3FF,200D,2640,FE0F
+woman getting massage: dark skin tone
+true
+EMOJI
+1F486,1F3FF,200D,2640
+woman getting massage: dark skin tone
+false
+EMOJI
+1F487
+person getting haircut
+true
+EMOJI
+1F487,1F3FB
+person getting haircut: light skin tone
+true
+EMOJI
+1F487,1F3FC
+person getting haircut: medium light skin tone
+true
+EMOJI
+1F487,1F3FD
+person getting haircut: medium skin tone
+true
+EMOJI
+1F487,1F3FE
+person getting haircut: medium dark skin tone
+true
+EMOJI
+1F487,1F3FF
+person getting haircut: dark skin tone
+true
+EMOJI
+1F487,200D,2642,FE0F
+man getting haircut
+true
+EMOJI
+1F487,200D,2642
+man getting haircut
+false
+EMOJI
+1F487,1F3FB,200D,2642,FE0F
+man getting haircut: light skin tone
+true
+EMOJI
+1F487,1F3FB,200D,2642
+man getting haircut: light skin tone
+false
+EMOJI
+1F487,1F3FC,200D,2642,FE0F
+man getting haircut: medium light skin tone
+true
+EMOJI
+1F487,1F3FC,200D,2642
+man getting haircut: medium light skin tone
+false
+EMOJI
+1F487,1F3FD,200D,2642,FE0F
+man getting haircut: medium skin tone
+true
+EMOJI
+1F487,1F3FD,200D,2642
+man getting haircut: medium skin tone
+false
+EMOJI
+1F487,1F3FE,200D,2642,FE0F
+man getting haircut: medium dark skin tone
+true
+EMOJI
+1F487,1F3FE,200D,2642
+man getting haircut: medium dark skin tone
+false
+EMOJI
+1F487,1F3FF,200D,2642,FE0F
+man getting haircut: dark skin tone
+true
+EMOJI
+1F487,1F3FF,200D,2642
+man getting haircut: dark skin tone
+false
+EMOJI
+1F487,200D,2640,FE0F
+woman getting haircut
+true
+EMOJI
+1F487,200D,2640
+woman getting haircut
+false
+EMOJI
+1F487,1F3FB,200D,2640,FE0F
+woman getting haircut: light skin tone
+true
+EMOJI
+1F487,1F3FB,200D,2640
+woman getting haircut: light skin tone
+false
+EMOJI
+1F487,1F3FC,200D,2640,FE0F
+woman getting haircut: medium light skin tone
+true
+EMOJI
+1F487,1F3FC,200D,2640
+woman getting haircut: medium light skin tone
+false
+EMOJI
+1F487,1F3FD,200D,2640,FE0F
+woman getting haircut: medium skin tone
+true
+EMOJI
+1F487,1F3FD,200D,2640
+woman getting haircut: medium skin tone
+false
+EMOJI
+1F487,1F3FE,200D,2640,FE0F
+woman getting haircut: medium dark skin tone
+true
+EMOJI
+1F487,1F3FE,200D,2640
+woman getting haircut: medium dark skin tone
+false
+EMOJI
+1F487,1F3FF,200D,2640,FE0F
+woman getting haircut: dark skin tone
+true
+EMOJI
+1F487,1F3FF,200D,2640
+woman getting haircut: dark skin tone
+false
+EMOJI
+1F6B6
+person walking
+true
+EMOJI
+1F6B6,1F3FB
+person walking: light skin tone
+true
+EMOJI
+1F6B6,1F3FC
+person walking: medium light skin tone
+true
+EMOJI
+1F6B6,1F3FD
+person walking: medium skin tone
+true
+EMOJI
+1F6B6,1F3FE
+person walking: medium dark skin tone
+true
+EMOJI
+1F6B6,1F3FF
+person walking: dark skin tone
+true
+EMOJI
+1F6B6,200D,2642,FE0F
+man walking
+true
+EMOJI
+1F6B6,200D,2642
+man walking
+false
+EMOJI
+1F6B6,1F3FB,200D,2642,FE0F
+man walking: light skin tone
+true
+EMOJI
+1F6B6,1F3FB,200D,2642
+man walking: light skin tone
+false
+EMOJI
+1F6B6,1F3FC,200D,2642,FE0F
+man walking: medium light skin tone
+true
+EMOJI
+1F6B6,1F3FC,200D,2642
+man walking: medium light skin tone
+false
+EMOJI
+1F6B6,1F3FD,200D,2642,FE0F
+man walking: medium skin tone
+true
+EMOJI
+1F6B6,1F3FD,200D,2642
+man walking: medium skin tone
+false
+EMOJI
+1F6B6,1F3FE,200D,2642,FE0F
+man walking: medium dark skin tone
+true
+EMOJI
+1F6B6,1F3FE,200D,2642
+man walking: medium dark skin tone
+false
+EMOJI
+1F6B6,1F3FF,200D,2642,FE0F
+man walking: dark skin tone
+true
+EMOJI
+1F6B6,1F3FF,200D,2642
+man walking: dark skin tone
+false
+EMOJI
+1F6B6,200D,2640,FE0F
+woman walking
+true
+EMOJI
+1F6B6,200D,2640
+woman walking
+false
+EMOJI
+1F6B6,1F3FB,200D,2640,FE0F
+woman walking: light skin tone
+true
+EMOJI
+1F6B6,1F3FB,200D,2640
+woman walking: light skin tone
+false
+EMOJI
+1F6B6,1F3FC,200D,2640,FE0F
+woman walking: medium light skin tone
+true
+EMOJI
+1F6B6,1F3FC,200D,2640
+woman walking: medium light skin tone
+false
+EMOJI
+1F6B6,1F3FD,200D,2640,FE0F
+woman walking: medium skin tone
+true
+EMOJI
+1F6B6,1F3FD,200D,2640
+woman walking: medium skin tone
+false
+EMOJI
+1F6B6,1F3FE,200D,2640,FE0F
+woman walking: medium dark skin tone
+true
+EMOJI
+1F6B6,1F3FE,200D,2640
+woman walking: medium dark skin tone
+false
+EMOJI
+1F6B6,1F3FF,200D,2640,FE0F
+woman walking: dark skin tone
+true
+EMOJI
+1F6B6,1F3FF,200D,2640
+woman walking: dark skin tone
+false
+EMOJI
+1F3C3
+person running
+true
+EMOJI
+1F3C3,1F3FB
+person running: light skin tone
+true
+EMOJI
+1F3C3,1F3FC
+person running: medium light skin tone
+true
+EMOJI
+1F3C3,1F3FD
+person running: medium skin tone
+true
+EMOJI
+1F3C3,1F3FE
+person running: medium dark skin tone
+true
+EMOJI
+1F3C3,1F3FF
+person running: dark skin tone
+true
+EMOJI
+1F3C3,200D,2642,FE0F
+man running
+true
+EMOJI
+1F3C3,200D,2642
+man running
+false
+EMOJI
+1F3C3,1F3FB,200D,2642,FE0F
+man running: light skin tone
+true
+EMOJI
+1F3C3,1F3FB,200D,2642
+man running: light skin tone
+false
+EMOJI
+1F3C3,1F3FC,200D,2642,FE0F
+man running: medium light skin tone
+true
+EMOJI
+1F3C3,1F3FC,200D,2642
+man running: medium light skin tone
+false
+EMOJI
+1F3C3,1F3FD,200D,2642,FE0F
+man running: medium skin tone
+true
+EMOJI
+1F3C3,1F3FD,200D,2642
+man running: medium skin tone
+false
+EMOJI
+1F3C3,1F3FE,200D,2642,FE0F
+man running: medium dark skin tone
+true
+EMOJI
+1F3C3,1F3FE,200D,2642
+man running: medium dark skin tone
+false
+EMOJI
+1F3C3,1F3FF,200D,2642,FE0F
+man running: dark skin tone
+true
+EMOJI
+1F3C3,1F3FF,200D,2642
+man running: dark skin tone
+false
+EMOJI
+1F3C3,200D,2640,FE0F
+woman running
+true
+EMOJI
+1F3C3,200D,2640
+woman running
+false
+EMOJI
+1F3C3,1F3FB,200D,2640,FE0F
+woman running: light skin tone
+true
+EMOJI
+1F3C3,1F3FB,200D,2640
+woman running: light skin tone
+false
+EMOJI
+1F3C3,1F3FC,200D,2640,FE0F
+woman running: medium light skin tone
+true
+EMOJI
+1F3C3,1F3FC,200D,2640
+woman running: medium light skin tone
+false
+EMOJI
+1F3C3,1F3FD,200D,2640,FE0F
+woman running: medium skin tone
+true
+EMOJI
+1F3C3,1F3FD,200D,2640
+woman running: medium skin tone
+false
+EMOJI
+1F3C3,1F3FE,200D,2640,FE0F
+woman running: medium dark skin tone
+true
+EMOJI
+1F3C3,1F3FE,200D,2640
+woman running: medium dark skin tone
+false
+EMOJI
+1F3C3,1F3FF,200D,2640,FE0F
+woman running: dark skin tone
+true
+EMOJI
+1F3C3,1F3FF,200D,2640
+woman running: dark skin tone
+false
+EMOJI
+1F483
+woman dancing
+true
+EMOJI
+1F483,1F3FB
+woman dancing: light skin tone
+true
+EMOJI
+1F483,1F3FC
+woman dancing: medium light skin tone
+true
+EMOJI
+1F483,1F3FD
+woman dancing: medium skin tone
+true
+EMOJI
+1F483,1F3FE
+woman dancing: medium dark skin tone
+true
+EMOJI
+1F483,1F3FF
+woman dancing: dark skin tone
+true
+EMOJI
+1F57A
+man dancing
+true
+EMOJI
+1F57A,1F3FB
+man dancing: light skin tone
+true
+EMOJI
+1F57A,1F3FC
+man dancing: medium light skin tone
+true
+EMOJI
+1F57A,1F3FD
+man dancing: medium skin tone
+true
+EMOJI
+1F57A,1F3FE
+man dancing: medium dark skin tone
+true
+EMOJI
+1F57A,1F3FF
+man dancing: dark skin tone
+true
+EMOJI
+1F46F
+people with bunny ears
+true
+EMOJI
+1F46F,200D,2642,FE0F
+men with bunny ears
+true
+EMOJI
+1F46F,200D,2642
+men with bunny ears
+false
+EMOJI
+1F46F,200D,2640,FE0F
+women with bunny ears
+true
+EMOJI
+1F46F,200D,2640
+women with bunny ears
+false
+EMOJI
+1F9D6
+person in steamy room
+true
+EMOJI
+1F9D6,1F3FB
+person in steamy room: light skin tone
+true
+EMOJI
+1F9D6,1F3FC
+person in steamy room: medium light skin tone
+true
+EMOJI
+1F9D6,1F3FD
+person in steamy room: medium skin tone
+true
+EMOJI
+1F9D6,1F3FE
+person in steamy room: medium dark skin tone
+true
+EMOJI
+1F9D6,1F3FF
+person in steamy room: dark skin tone
+true
+EMOJI
+1F9D6,200D,2640,FE0F
+woman in steamy room
+true
+EMOJI
+1F9D6,200D,2640
+woman in steamy room
+false
+EMOJI
+1F9D6,1F3FB,200D,2640,FE0F
+woman in steamy room: light skin tone
+true
+EMOJI
+1F9D6,1F3FB,200D,2640
+woman in steamy room: light skin tone
+false
+EMOJI
+1F9D6,1F3FC,200D,2640,FE0F
+woman in steamy room: medium light skin tone
+true
+EMOJI
+1F9D6,1F3FC,200D,2640
+woman in steamy room: medium light skin tone
+false
+EMOJI
+1F9D6,1F3FD,200D,2640,FE0F
+woman in steamy room: medium skin tone
+true
+EMOJI
+1F9D6,1F3FD,200D,2640
+woman in steamy room: medium skin tone
+false
+EMOJI
+1F9D6,1F3FE,200D,2640,FE0F
+woman in steamy room: medium dark skin tone
+true
+EMOJI
+1F9D6,1F3FE,200D,2640
+woman in steamy room: medium dark skin tone
+false
+EMOJI
+1F9D6,1F3FF,200D,2640,FE0F
+woman in steamy room: dark skin tone
+true
+EMOJI
+1F9D6,1F3FF,200D,2640
+woman in steamy room: dark skin tone
+false
+EMOJI
+1F9D6,200D,2642,FE0F
+man in steamy room
+true
+EMOJI
+1F9D6,200D,2642
+man in steamy room
+false
+EMOJI
+1F9D6,1F3FB,200D,2642,FE0F
+man in steamy room: light skin tone
+true
+EMOJI
+1F9D6,1F3FB,200D,2642
+man in steamy room: light skin tone
+false
+EMOJI
+1F9D6,1F3FC,200D,2642,FE0F
+man in steamy room: medium light skin tone
+true
+EMOJI
+1F9D6,1F3FC,200D,2642
+man in steamy room: medium light skin tone
+false
+EMOJI
+1F9D6,1F3FD,200D,2642,FE0F
+man in steamy room: medium skin tone
+true
+EMOJI
+1F9D6,1F3FD,200D,2642
+man in steamy room: medium skin tone
+false
+EMOJI
+1F9D6,1F3FE,200D,2642,FE0F
+man in steamy room: medium dark skin tone
+true
+EMOJI
+1F9D6,1F3FE,200D,2642
+man in steamy room: medium dark skin tone
+false
+EMOJI
+1F9D6,1F3FF,200D,2642,FE0F
+man in steamy room: dark skin tone
+true
+EMOJI
+1F9D6,1F3FF,200D,2642
+man in steamy room: dark skin tone
+false
+EMOJI
+1F9D7
+person climbing
+true
+EMOJI
+1F9D7,1F3FB
+person climbing: light skin tone
+true
+EMOJI
+1F9D7,1F3FC
+person climbing: medium light skin tone
+true
+EMOJI
+1F9D7,1F3FD
+person climbing: medium skin tone
+true
+EMOJI
+1F9D7,1F3FE
+person climbing: medium dark skin tone
+true
+EMOJI
+1F9D7,1F3FF
+person climbing: dark skin tone
+true
+EMOJI
+1F9D7,200D,2640,FE0F
+woman climbing
+true
+EMOJI
+1F9D7,200D,2640
+woman climbing
+false
+EMOJI
+1F9D7,1F3FB,200D,2640,FE0F
+woman climbing: light skin tone
+true
+EMOJI
+1F9D7,1F3FB,200D,2640
+woman climbing: light skin tone
+false
+EMOJI
+1F9D7,1F3FC,200D,2640,FE0F
+woman climbing: medium light skin tone
+true
+EMOJI
+1F9D7,1F3FC,200D,2640
+woman climbing: medium light skin tone
+false
+EMOJI
+1F9D7,1F3FD,200D,2640,FE0F
+woman climbing: medium skin tone
+true
+EMOJI
+1F9D7,1F3FD,200D,2640
+woman climbing: medium skin tone
+false
+EMOJI
+1F9D7,1F3FE,200D,2640,FE0F
+woman climbing: medium dark skin tone
+true
+EMOJI
+1F9D7,1F3FE,200D,2640
+woman climbing: medium dark skin tone
+false
+EMOJI
+1F9D7,1F3FF,200D,2640,FE0F
+woman climbing: dark skin tone
+true
+EMOJI
+1F9D7,1F3FF,200D,2640
+woman climbing: dark skin tone
+false
+EMOJI
+1F9D7,200D,2642,FE0F
+man climbing
+true
+EMOJI
+1F9D7,200D,2642
+man climbing
+false
+EMOJI
+1F9D7,1F3FB,200D,2642,FE0F
+man climbing: light skin tone
+true
+EMOJI
+1F9D7,1F3FB,200D,2642
+man climbing: light skin tone
+false
+EMOJI
+1F9D7,1F3FC,200D,2642,FE0F
+man climbing: medium light skin tone
+true
+EMOJI
+1F9D7,1F3FC,200D,2642
+man climbing: medium light skin tone
+false
+EMOJI
+1F9D7,1F3FD,200D,2642,FE0F
+man climbing: medium skin tone
+true
+EMOJI
+1F9D7,1F3FD,200D,2642
+man climbing: medium skin tone
+false
+EMOJI
+1F9D7,1F3FE,200D,2642,FE0F
+man climbing: medium dark skin tone
+true
+EMOJI
+1F9D7,1F3FE,200D,2642
+man climbing: medium dark skin tone
+false
+EMOJI
+1F9D7,1F3FF,200D,2642,FE0F
+man climbing: dark skin tone
+true
+EMOJI
+1F9D7,1F3FF,200D,2642
+man climbing: dark skin tone
+false
+EMOJI
+1F9D8
+person in lotus position
+true
+EMOJI
+1F9D8,1F3FB
+person in lotus position: light skin tone
+true
+EMOJI
+1F9D8,1F3FC
+person in lotus position: medium light skin tone
+true
+EMOJI
+1F9D8,1F3FD
+person in lotus position: medium skin tone
+true
+EMOJI
+1F9D8,1F3FE
+person in lotus position: medium dark skin tone
+true
+EMOJI
+1F9D8,1F3FF
+person in lotus position: dark skin tone
+true
+EMOJI
+1F9D8,200D,2640,FE0F
+woman in lotus position
+true
+EMOJI
+1F9D8,200D,2640
+woman in lotus position
+false
+EMOJI
+1F9D8,1F3FB,200D,2640,FE0F
+woman in lotus position: light skin tone
+true
+EMOJI
+1F9D8,1F3FB,200D,2640
+woman in lotus position: light skin tone
+false
+EMOJI
+1F9D8,1F3FC,200D,2640,FE0F
+woman in lotus position: medium light skin tone
+true
+EMOJI
+1F9D8,1F3FC,200D,2640
+woman in lotus position: medium light skin tone
+false
+EMOJI
+1F9D8,1F3FD,200D,2640,FE0F
+woman in lotus position: medium skin tone
+true
+EMOJI
+1F9D8,1F3FD,200D,2640
+woman in lotus position: medium skin tone
+false
+EMOJI
+1F9D8,1F3FE,200D,2640,FE0F
+woman in lotus position: medium dark skin tone
+true
+EMOJI
+1F9D8,1F3FE,200D,2640
+woman in lotus position: medium dark skin tone
+false
+EMOJI
+1F9D8,1F3FF,200D,2640,FE0F
+woman in lotus position: dark skin tone
+true
+EMOJI
+1F9D8,1F3FF,200D,2640
+woman in lotus position: dark skin tone
+false
+EMOJI
+1F9D8,200D,2642,FE0F
+man in lotus position
+true
+EMOJI
+1F9D8,200D,2642
+man in lotus position
+false
+EMOJI
+1F9D8,1F3FB,200D,2642,FE0F
+man in lotus position: light skin tone
+true
+EMOJI
+1F9D8,1F3FB,200D,2642
+man in lotus position: light skin tone
+false
+EMOJI
+1F9D8,1F3FC,200D,2642,FE0F
+man in lotus position: medium light skin tone
+true
+EMOJI
+1F9D8,1F3FC,200D,2642
+man in lotus position: medium light skin tone
+false
+EMOJI
+1F9D8,1F3FD,200D,2642,FE0F
+man in lotus position: medium skin tone
+true
+EMOJI
+1F9D8,1F3FD,200D,2642
+man in lotus position: medium skin tone
+false
+EMOJI
+1F9D8,1F3FE,200D,2642,FE0F
+man in lotus position: medium dark skin tone
+true
+EMOJI
+1F9D8,1F3FE,200D,2642
+man in lotus position: medium dark skin tone
+false
+EMOJI
+1F9D8,1F3FF,200D,2642,FE0F
+man in lotus position: dark skin tone
+true
+EMOJI
+1F9D8,1F3FF,200D,2642
+man in lotus position: dark skin tone
+false
+EMOJI
+1F6C0
+person taking bath
+true
+EMOJI
+1F6C0,1F3FB
+person taking bath: light skin tone
+true
+EMOJI
+1F6C0,1F3FC
+person taking bath: medium light skin tone
+true
+EMOJI
+1F6C0,1F3FD
+person taking bath: medium skin tone
+true
+EMOJI
+1F6C0,1F3FE
+person taking bath: medium dark skin tone
+true
+EMOJI
+1F6C0,1F3FF
+person taking bath: dark skin tone
+true
+EMOJI
+1F6CC
+person in bed
+true
+EMOJI
+1F6CC,1F3FB
+person in bed: light skin tone
+true
+EMOJI
+1F6CC,1F3FC
+person in bed: medium light skin tone
+true
+EMOJI
+1F6CC,1F3FD
+person in bed: medium skin tone
+true
+EMOJI
+1F6CC,1F3FE
+person in bed: medium dark skin tone
+true
+EMOJI
+1F6CC,1F3FF
+person in bed: dark skin tone
+true
+EMOJI
+1F574,FE0F
+man in suit levitating
+true
+EMOJI
+1F574
+man in suit levitating
+false
+EMOJI
+1F574,1F3FB
+man in suit levitating: light skin tone
+true
+EMOJI
+1F574,1F3FC
+man in suit levitating: medium light skin tone
+true
+EMOJI
+1F574,1F3FD
+man in suit levitating: medium skin tone
+true
+EMOJI
+1F574,1F3FE
+man in suit levitating: medium dark skin tone
+true
+EMOJI
+1F574,1F3FF
+man in suit levitating: dark skin tone
+true
+EMOJI
+1F5E3,FE0F
+speaking head
+true
+EMOJI
+1F5E3
+speaking head
+false
+EMOJI
+1F464
+bust in silhouette
+true
+EMOJI
+1F465
+busts in silhouette
+true
+SEPARATOR
+subgroup: person sport
+EMOJI
+1F93A
+person fencing
+true
+EMOJI
+1F3C7
+horse racing
+true
+EMOJI
+1F3C7,1F3FB
+horse racing: light skin tone
+true
+EMOJI
+1F3C7,1F3FC
+horse racing: medium light skin tone
+true
+EMOJI
+1F3C7,1F3FD
+horse racing: medium skin tone
+true
+EMOJI
+1F3C7,1F3FE
+horse racing: medium dark skin tone
+true
+EMOJI
+1F3C7,1F3FF
+horse racing: dark skin tone
+true
+EMOJI
+26F7,FE0F
+skier
+true
+EMOJI
+26F7
+skier
+false
+EMOJI
+1F3C2
+snowboarder
+true
+EMOJI
+1F3C2,1F3FB
+snowboarder: light skin tone
+true
+EMOJI
+1F3C2,1F3FC
+snowboarder: medium light skin tone
+true
+EMOJI
+1F3C2,1F3FD
+snowboarder: medium skin tone
+true
+EMOJI
+1F3C2,1F3FE
+snowboarder: medium dark skin tone
+true
+EMOJI
+1F3C2,1F3FF
+snowboarder: dark skin tone
+true
+EMOJI
+1F3CC,FE0F
+person golfing
+true
+EMOJI
+1F3CC
+person golfing
+false
+EMOJI
+1F3CC,1F3FB
+person golfing: light skin tone
+true
+EMOJI
+1F3CC,1F3FC
+person golfing: medium light skin tone
+true
+EMOJI
+1F3CC,1F3FD
+person golfing: medium skin tone
+true
+EMOJI
+1F3CC,1F3FE
+person golfing: medium dark skin tone
+true
+EMOJI
+1F3CC,1F3FF
+person golfing: dark skin tone
+true
+EMOJI
+1F3CC,FE0F,200D,2642,FE0F
+man golfing
+true
+EMOJI
+1F3CC,200D,2642,FE0F
+man golfing
+false
+EMOJI
+1F3CC,FE0F,200D,2642
+man golfing
+false
+EMOJI
+1F3CC,200D,2642
+man golfing
+false
+EMOJI
+1F3CC,1F3FB,200D,2642,FE0F
+man golfing: light skin tone
+true
+EMOJI
+1F3CC,1F3FB,200D,2642
+man golfing: light skin tone
+false
+EMOJI
+1F3CC,1F3FC,200D,2642,FE0F
+man golfing: medium light skin tone
+true
+EMOJI
+1F3CC,1F3FC,200D,2642
+man golfing: medium light skin tone
+false
+EMOJI
+1F3CC,1F3FD,200D,2642,FE0F
+man golfing: medium skin tone
+true
+EMOJI
+1F3CC,1F3FD,200D,2642
+man golfing: medium skin tone
+false
+EMOJI
+1F3CC,1F3FE,200D,2642,FE0F
+man golfing: medium dark skin tone
+true
+EMOJI
+1F3CC,1F3FE,200D,2642
+man golfing: medium dark skin tone
+false
+EMOJI
+1F3CC,1F3FF,200D,2642,FE0F
+man golfing: dark skin tone
+true
+EMOJI
+1F3CC,1F3FF,200D,2642
+man golfing: dark skin tone
+false
+EMOJI
+1F3CC,FE0F,200D,2640,FE0F
+woman golfing
+true
+EMOJI
+1F3CC,200D,2640,FE0F
+woman golfing
+false
+EMOJI
+1F3CC,FE0F,200D,2640
+woman golfing
+false
+EMOJI
+1F3CC,200D,2640
+woman golfing
+false
+EMOJI
+1F3CC,1F3FB,200D,2640,FE0F
+woman golfing: light skin tone
+true
+EMOJI
+1F3CC,1F3FB,200D,2640
+woman golfing: light skin tone
+false
+EMOJI
+1F3CC,1F3FC,200D,2640,FE0F
+woman golfing: medium light skin tone
+true
+EMOJI
+1F3CC,1F3FC,200D,2640
+woman golfing: medium light skin tone
+false
+EMOJI
+1F3CC,1F3FD,200D,2640,FE0F
+woman golfing: medium skin tone
+true
+EMOJI
+1F3CC,1F3FD,200D,2640
+woman golfing: medium skin tone
+false
+EMOJI
+1F3CC,1F3FE,200D,2640,FE0F
+woman golfing: medium dark skin tone
+true
+EMOJI
+1F3CC,1F3FE,200D,2640
+woman golfing: medium dark skin tone
+false
+EMOJI
+1F3CC,1F3FF,200D,2640,FE0F
+woman golfing: dark skin tone
+true
+EMOJI
+1F3CC,1F3FF,200D,2640
+woman golfing: dark skin tone
+false
+EMOJI
+1F3C4
+person surfing
+true
+EMOJI
+1F3C4,1F3FB
+person surfing: light skin tone
+true
+EMOJI
+1F3C4,1F3FC
+person surfing: medium light skin tone
+true
+EMOJI
+1F3C4,1F3FD
+person surfing: medium skin tone
+true
+EMOJI
+1F3C4,1F3FE
+person surfing: medium dark skin tone
+true
+EMOJI
+1F3C4,1F3FF
+person surfing: dark skin tone
+true
+EMOJI
+1F3C4,200D,2642,FE0F
+man surfing
+true
+EMOJI
+1F3C4,200D,2642
+man surfing
+false
+EMOJI
+1F3C4,1F3FB,200D,2642,FE0F
+man surfing: light skin tone
+true
+EMOJI
+1F3C4,1F3FB,200D,2642
+man surfing: light skin tone
+false
+EMOJI
+1F3C4,1F3FC,200D,2642,FE0F
+man surfing: medium light skin tone
+true
+EMOJI
+1F3C4,1F3FC,200D,2642
+man surfing: medium light skin tone
+false
+EMOJI
+1F3C4,1F3FD,200D,2642,FE0F
+man surfing: medium skin tone
+true
+EMOJI
+1F3C4,1F3FD,200D,2642
+man surfing: medium skin tone
+false
+EMOJI
+1F3C4,1F3FE,200D,2642,FE0F
+man surfing: medium dark skin tone
+true
+EMOJI
+1F3C4,1F3FE,200D,2642
+man surfing: medium dark skin tone
+false
+EMOJI
+1F3C4,1F3FF,200D,2642,FE0F
+man surfing: dark skin tone
+true
+EMOJI
+1F3C4,1F3FF,200D,2642
+man surfing: dark skin tone
+false
+EMOJI
+1F3C4,200D,2640,FE0F
+woman surfing
+true
+EMOJI
+1F3C4,200D,2640
+woman surfing
+false
+EMOJI
+1F3C4,1F3FB,200D,2640,FE0F
+woman surfing: light skin tone
+true
+EMOJI
+1F3C4,1F3FB,200D,2640
+woman surfing: light skin tone
+false
+EMOJI
+1F3C4,1F3FC,200D,2640,FE0F
+woman surfing: medium light skin tone
+true
+EMOJI
+1F3C4,1F3FC,200D,2640
+woman surfing: medium light skin tone
+false
+EMOJI
+1F3C4,1F3FD,200D,2640,FE0F
+woman surfing: medium skin tone
+true
+EMOJI
+1F3C4,1F3FD,200D,2640
+woman surfing: medium skin tone
+false
+EMOJI
+1F3C4,1F3FE,200D,2640,FE0F
+woman surfing: medium dark skin tone
+true
+EMOJI
+1F3C4,1F3FE,200D,2640
+woman surfing: medium dark skin tone
+false
+EMOJI
+1F3C4,1F3FF,200D,2640,FE0F
+woman surfing: dark skin tone
+true
+EMOJI
+1F3C4,1F3FF,200D,2640
+woman surfing: dark skin tone
+false
+EMOJI
+1F6A3
+person rowing boat
+true
+EMOJI
+1F6A3,1F3FB
+person rowing boat: light skin tone
+true
+EMOJI
+1F6A3,1F3FC
+person rowing boat: medium light skin tone
+true
+EMOJI
+1F6A3,1F3FD
+person rowing boat: medium skin tone
+true
+EMOJI
+1F6A3,1F3FE
+person rowing boat: medium dark skin tone
+true
+EMOJI
+1F6A3,1F3FF
+person rowing boat: dark skin tone
+true
+EMOJI
+1F6A3,200D,2642,FE0F
+man rowing boat
+true
+EMOJI
+1F6A3,200D,2642
+man rowing boat
+false
+EMOJI
+1F6A3,1F3FB,200D,2642,FE0F
+man rowing boat: light skin tone
+true
+EMOJI
+1F6A3,1F3FB,200D,2642
+man rowing boat: light skin tone
+false
+EMOJI
+1F6A3,1F3FC,200D,2642,FE0F
+man rowing boat: medium light skin tone
+true
+EMOJI
+1F6A3,1F3FC,200D,2642
+man rowing boat: medium light skin tone
+false
+EMOJI
+1F6A3,1F3FD,200D,2642,FE0F
+man rowing boat: medium skin tone
+true
+EMOJI
+1F6A3,1F3FD,200D,2642
+man rowing boat: medium skin tone
+false
+EMOJI
+1F6A3,1F3FE,200D,2642,FE0F
+man rowing boat: medium dark skin tone
+true
+EMOJI
+1F6A3,1F3FE,200D,2642
+man rowing boat: medium dark skin tone
+false
+EMOJI
+1F6A3,1F3FF,200D,2642,FE0F
+man rowing boat: dark skin tone
+true
+EMOJI
+1F6A3,1F3FF,200D,2642
+man rowing boat: dark skin tone
+false
+EMOJI
+1F6A3,200D,2640,FE0F
+woman rowing boat
+true
+EMOJI
+1F6A3,200D,2640
+woman rowing boat
+false
+EMOJI
+1F6A3,1F3FB,200D,2640,FE0F
+woman rowing boat: light skin tone
+true
+EMOJI
+1F6A3,1F3FB,200D,2640
+woman rowing boat: light skin tone
+false
+EMOJI
+1F6A3,1F3FC,200D,2640,FE0F
+woman rowing boat: medium light skin tone
+true
+EMOJI
+1F6A3,1F3FC,200D,2640
+woman rowing boat: medium light skin tone
+false
+EMOJI
+1F6A3,1F3FD,200D,2640,FE0F
+woman rowing boat: medium skin tone
+true
+EMOJI
+1F6A3,1F3FD,200D,2640
+woman rowing boat: medium skin tone
+false
+EMOJI
+1F6A3,1F3FE,200D,2640,FE0F
+woman rowing boat: medium dark skin tone
+true
+EMOJI
+1F6A3,1F3FE,200D,2640
+woman rowing boat: medium dark skin tone
+false
+EMOJI
+1F6A3,1F3FF,200D,2640,FE0F
+woman rowing boat: dark skin tone
+true
+EMOJI
+1F6A3,1F3FF,200D,2640
+woman rowing boat: dark skin tone
+false
+EMOJI
+1F3CA
+person swimming
+true
+EMOJI
+1F3CA,1F3FB
+person swimming: light skin tone
+true
+EMOJI
+1F3CA,1F3FC
+person swimming: medium light skin tone
+true
+EMOJI
+1F3CA,1F3FD
+person swimming: medium skin tone
+true
+EMOJI
+1F3CA,1F3FE
+person swimming: medium dark skin tone
+true
+EMOJI
+1F3CA,1F3FF
+person swimming: dark skin tone
+true
+EMOJI
+1F3CA,200D,2642,FE0F
+man swimming
+true
+EMOJI
+1F3CA,200D,2642
+man swimming
+false
+EMOJI
+1F3CA,1F3FB,200D,2642,FE0F
+man swimming: light skin tone
+true
+EMOJI
+1F3CA,1F3FB,200D,2642
+man swimming: light skin tone
+false
+EMOJI
+1F3CA,1F3FC,200D,2642,FE0F
+man swimming: medium light skin tone
+true
+EMOJI
+1F3CA,1F3FC,200D,2642
+man swimming: medium light skin tone
+false
+EMOJI
+1F3CA,1F3FD,200D,2642,FE0F
+man swimming: medium skin tone
+true
+EMOJI
+1F3CA,1F3FD,200D,2642
+man swimming: medium skin tone
+false
+EMOJI
+1F3CA,1F3FE,200D,2642,FE0F
+man swimming: medium dark skin tone
+true
+EMOJI
+1F3CA,1F3FE,200D,2642
+man swimming: medium dark skin tone
+false
+EMOJI
+1F3CA,1F3FF,200D,2642,FE0F
+man swimming: dark skin tone
+true
+EMOJI
+1F3CA,1F3FF,200D,2642
+man swimming: dark skin tone
+false
+EMOJI
+1F3CA,200D,2640,FE0F
+woman swimming
+true
+EMOJI
+1F3CA,200D,2640
+woman swimming
+false
+EMOJI
+1F3CA,1F3FB,200D,2640,FE0F
+woman swimming: light skin tone
+true
+EMOJI
+1F3CA,1F3FB,200D,2640
+woman swimming: light skin tone
+false
+EMOJI
+1F3CA,1F3FC,200D,2640,FE0F
+woman swimming: medium light skin tone
+true
+EMOJI
+1F3CA,1F3FC,200D,2640
+woman swimming: medium light skin tone
+false
+EMOJI
+1F3CA,1F3FD,200D,2640,FE0F
+woman swimming: medium skin tone
+true
+EMOJI
+1F3CA,1F3FD,200D,2640
+woman swimming: medium skin tone
+false
+EMOJI
+1F3CA,1F3FE,200D,2640,FE0F
+woman swimming: medium dark skin tone
+true
+EMOJI
+1F3CA,1F3FE,200D,2640
+woman swimming: medium dark skin tone
+false
+EMOJI
+1F3CA,1F3FF,200D,2640,FE0F
+woman swimming: dark skin tone
+true
+EMOJI
+1F3CA,1F3FF,200D,2640
+woman swimming: dark skin tone
+false
+EMOJI
+26F9,FE0F
+person bouncing ball
+true
+EMOJI
+26F9
+person bouncing ball
+false
+EMOJI
+26F9,1F3FB
+person bouncing ball: light skin tone
+true
+EMOJI
+26F9,1F3FC
+person bouncing ball: medium light skin tone
+true
+EMOJI
+26F9,1F3FD
+person bouncing ball: medium skin tone
+true
+EMOJI
+26F9,1F3FE
+person bouncing ball: medium dark skin tone
+true
+EMOJI
+26F9,1F3FF
+person bouncing ball: dark skin tone
+true
+EMOJI
+26F9,FE0F,200D,2642,FE0F
+man bouncing ball
+true
+EMOJI
+26F9,200D,2642,FE0F
+man bouncing ball
+false
+EMOJI
+26F9,FE0F,200D,2642
+man bouncing ball
+false
+EMOJI
+26F9,200D,2642
+man bouncing ball
+false
+EMOJI
+26F9,1F3FB,200D,2642,FE0F
+man bouncing ball: light skin tone
+true
+EMOJI
+26F9,1F3FB,200D,2642
+man bouncing ball: light skin tone
+false
+EMOJI
+26F9,1F3FC,200D,2642,FE0F
+man bouncing ball: medium light skin tone
+true
+EMOJI
+26F9,1F3FC,200D,2642
+man bouncing ball: medium light skin tone
+false
+EMOJI
+26F9,1F3FD,200D,2642,FE0F
+man bouncing ball: medium skin tone
+true
+EMOJI
+26F9,1F3FD,200D,2642
+man bouncing ball: medium skin tone
+false
+EMOJI
+26F9,1F3FE,200D,2642,FE0F
+man bouncing ball: medium dark skin tone
+true
+EMOJI
+26F9,1F3FE,200D,2642
+man bouncing ball: medium dark skin tone
+false
+EMOJI
+26F9,1F3FF,200D,2642,FE0F
+man bouncing ball: dark skin tone
+true
+EMOJI
+26F9,1F3FF,200D,2642
+man bouncing ball: dark skin tone
+false
+EMOJI
+26F9,FE0F,200D,2640,FE0F
+woman bouncing ball
+true
+EMOJI
+26F9,200D,2640,FE0F
+woman bouncing ball
+false
+EMOJI
+26F9,FE0F,200D,2640
+woman bouncing ball
+false
+EMOJI
+26F9,200D,2640
+woman bouncing ball
+false
+EMOJI
+26F9,1F3FB,200D,2640,FE0F
+woman bouncing ball: light skin tone
+true
+EMOJI
+26F9,1F3FB,200D,2640
+woman bouncing ball: light skin tone
+false
+EMOJI
+26F9,1F3FC,200D,2640,FE0F
+woman bouncing ball: medium light skin tone
+true
+EMOJI
+26F9,1F3FC,200D,2640
+woman bouncing ball: medium light skin tone
+false
+EMOJI
+26F9,1F3FD,200D,2640,FE0F
+woman bouncing ball: medium skin tone
+true
+EMOJI
+26F9,1F3FD,200D,2640
+woman bouncing ball: medium skin tone
+false
+EMOJI
+26F9,1F3FE,200D,2640,FE0F
+woman bouncing ball: medium dark skin tone
+true
+EMOJI
+26F9,1F3FE,200D,2640
+woman bouncing ball: medium dark skin tone
+false
+EMOJI
+26F9,1F3FF,200D,2640,FE0F
+woman bouncing ball: dark skin tone
+true
+EMOJI
+26F9,1F3FF,200D,2640
+woman bouncing ball: dark skin tone
+false
+EMOJI
+1F3CB,FE0F
+person lifting weights
+true
+EMOJI
+1F3CB
+person lifting weights
+false
+EMOJI
+1F3CB,1F3FB
+person lifting weights: light skin tone
+true
+EMOJI
+1F3CB,1F3FC
+person lifting weights: medium light skin tone
+true
+EMOJI
+1F3CB,1F3FD
+person lifting weights: medium skin tone
+true
+EMOJI
+1F3CB,1F3FE
+person lifting weights: medium dark skin tone
+true
+EMOJI
+1F3CB,1F3FF
+person lifting weights: dark skin tone
+true
+EMOJI
+1F3CB,FE0F,200D,2642,FE0F
+man lifting weights
+true
+EMOJI
+1F3CB,200D,2642,FE0F
+man lifting weights
+false
+EMOJI
+1F3CB,FE0F,200D,2642
+man lifting weights
+false
+EMOJI
+1F3CB,200D,2642
+man lifting weights
+false
+EMOJI
+1F3CB,1F3FB,200D,2642,FE0F
+man lifting weights: light skin tone
+true
+EMOJI
+1F3CB,1F3FB,200D,2642
+man lifting weights: light skin tone
+false
+EMOJI
+1F3CB,1F3FC,200D,2642,FE0F
+man lifting weights: medium light skin tone
+true
+EMOJI
+1F3CB,1F3FC,200D,2642
+man lifting weights: medium light skin tone
+false
+EMOJI
+1F3CB,1F3FD,200D,2642,FE0F
+man lifting weights: medium skin tone
+true
+EMOJI
+1F3CB,1F3FD,200D,2642
+man lifting weights: medium skin tone
+false
+EMOJI
+1F3CB,1F3FE,200D,2642,FE0F
+man lifting weights: medium dark skin tone
+true
+EMOJI
+1F3CB,1F3FE,200D,2642
+man lifting weights: medium dark skin tone
+false
+EMOJI
+1F3CB,1F3FF,200D,2642,FE0F
+man lifting weights: dark skin tone
+true
+EMOJI
+1F3CB,1F3FF,200D,2642
+man lifting weights: dark skin tone
+false
+EMOJI
+1F3CB,FE0F,200D,2640,FE0F
+woman lifting weights
+true
+EMOJI
+1F3CB,200D,2640,FE0F
+woman lifting weights
+false
+EMOJI
+1F3CB,FE0F,200D,2640
+woman lifting weights
+false
+EMOJI
+1F3CB,200D,2640
+woman lifting weights
+false
+EMOJI
+1F3CB,1F3FB,200D,2640,FE0F
+woman lifting weights: light skin tone
+true
+EMOJI
+1F3CB,1F3FB,200D,2640
+woman lifting weights: light skin tone
+false
+EMOJI
+1F3CB,1F3FC,200D,2640,FE0F
+woman lifting weights: medium light skin tone
+true
+EMOJI
+1F3CB,1F3FC,200D,2640
+woman lifting weights: medium light skin tone
+false
+EMOJI
+1F3CB,1F3FD,200D,2640,FE0F
+woman lifting weights: medium skin tone
+true
+EMOJI
+1F3CB,1F3FD,200D,2640
+woman lifting weights: medium skin tone
+false
+EMOJI
+1F3CB,1F3FE,200D,2640,FE0F
+woman lifting weights: medium dark skin tone
+true
+EMOJI
+1F3CB,1F3FE,200D,2640
+woman lifting weights: medium dark skin tone
+false
+EMOJI
+1F3CB,1F3FF,200D,2640,FE0F
+woman lifting weights: dark skin tone
+true
+EMOJI
+1F3CB,1F3FF,200D,2640
+woman lifting weights: dark skin tone
+false
+EMOJI
+1F6B4
+person biking
+true
+EMOJI
+1F6B4,1F3FB
+person biking: light skin tone
+true
+EMOJI
+1F6B4,1F3FC
+person biking: medium light skin tone
+true
+EMOJI
+1F6B4,1F3FD
+person biking: medium skin tone
+true
+EMOJI
+1F6B4,1F3FE
+person biking: medium dark skin tone
+true
+EMOJI
+1F6B4,1F3FF
+person biking: dark skin tone
+true
+EMOJI
+1F6B4,200D,2642,FE0F
+man biking
+true
+EMOJI
+1F6B4,200D,2642
+man biking
+false
+EMOJI
+1F6B4,1F3FB,200D,2642,FE0F
+man biking: light skin tone
+true
+EMOJI
+1F6B4,1F3FB,200D,2642
+man biking: light skin tone
+false
+EMOJI
+1F6B4,1F3FC,200D,2642,FE0F
+man biking: medium light skin tone
+true
+EMOJI
+1F6B4,1F3FC,200D,2642
+man biking: medium light skin tone
+false
+EMOJI
+1F6B4,1F3FD,200D,2642,FE0F
+man biking: medium skin tone
+true
+EMOJI
+1F6B4,1F3FD,200D,2642
+man biking: medium skin tone
+false
+EMOJI
+1F6B4,1F3FE,200D,2642,FE0F
+man biking: medium dark skin tone
+true
+EMOJI
+1F6B4,1F3FE,200D,2642
+man biking: medium dark skin tone
+false
+EMOJI
+1F6B4,1F3FF,200D,2642,FE0F
+man biking: dark skin tone
+true
+EMOJI
+1F6B4,1F3FF,200D,2642
+man biking: dark skin tone
+false
+EMOJI
+1F6B4,200D,2640,FE0F
+woman biking
+true
+EMOJI
+1F6B4,200D,2640
+woman biking
+false
+EMOJI
+1F6B4,1F3FB,200D,2640,FE0F
+woman biking: light skin tone
+true
+EMOJI
+1F6B4,1F3FB,200D,2640
+woman biking: light skin tone
+false
+EMOJI
+1F6B4,1F3FC,200D,2640,FE0F
+woman biking: medium light skin tone
+true
+EMOJI
+1F6B4,1F3FC,200D,2640
+woman biking: medium light skin tone
+false
+EMOJI
+1F6B4,1F3FD,200D,2640,FE0F
+woman biking: medium skin tone
+true
+EMOJI
+1F6B4,1F3FD,200D,2640
+woman biking: medium skin tone
+false
+EMOJI
+1F6B4,1F3FE,200D,2640,FE0F
+woman biking: medium dark skin tone
+true
+EMOJI
+1F6B4,1F3FE,200D,2640
+woman biking: medium dark skin tone
+false
+EMOJI
+1F6B4,1F3FF,200D,2640,FE0F
+woman biking: dark skin tone
+true
+EMOJI
+1F6B4,1F3FF,200D,2640
+woman biking: dark skin tone
+false
+EMOJI
+1F6B5
+person mountain biking
+true
+EMOJI
+1F6B5,1F3FB
+person mountain biking: light skin tone
+true
+EMOJI
+1F6B5,1F3FC
+person mountain biking: medium light skin tone
+true
+EMOJI
+1F6B5,1F3FD
+person mountain biking: medium skin tone
+true
+EMOJI
+1F6B5,1F3FE
+person mountain biking: medium dark skin tone
+true
+EMOJI
+1F6B5,1F3FF
+person mountain biking: dark skin tone
+true
+EMOJI
+1F6B5,200D,2642,FE0F
+man mountain biking
+true
+EMOJI
+1F6B5,200D,2642
+man mountain biking
+false
+EMOJI
+1F6B5,1F3FB,200D,2642,FE0F
+man mountain biking: light skin tone
+true
+EMOJI
+1F6B5,1F3FB,200D,2642
+man mountain biking: light skin tone
+false
+EMOJI
+1F6B5,1F3FC,200D,2642,FE0F
+man mountain biking: medium light skin tone
+true
+EMOJI
+1F6B5,1F3FC,200D,2642
+man mountain biking: medium light skin tone
+false
+EMOJI
+1F6B5,1F3FD,200D,2642,FE0F
+man mountain biking: medium skin tone
+true
+EMOJI
+1F6B5,1F3FD,200D,2642
+man mountain biking: medium skin tone
+false
+EMOJI
+1F6B5,1F3FE,200D,2642,FE0F
+man mountain biking: medium dark skin tone
+true
+EMOJI
+1F6B5,1F3FE,200D,2642
+man mountain biking: medium dark skin tone
+false
+EMOJI
+1F6B5,1F3FF,200D,2642,FE0F
+man mountain biking: dark skin tone
+true
+EMOJI
+1F6B5,1F3FF,200D,2642
+man mountain biking: dark skin tone
+false
+EMOJI
+1F6B5,200D,2640,FE0F
+woman mountain biking
+true
+EMOJI
+1F6B5,200D,2640
+woman mountain biking
+false
+EMOJI
+1F6B5,1F3FB,200D,2640,FE0F
+woman mountain biking: light skin tone
+true
+EMOJI
+1F6B5,1F3FB,200D,2640
+woman mountain biking: light skin tone
+false
+EMOJI
+1F6B5,1F3FC,200D,2640,FE0F
+woman mountain biking: medium light skin tone
+true
+EMOJI
+1F6B5,1F3FC,200D,2640
+woman mountain biking: medium light skin tone
+false
+EMOJI
+1F6B5,1F3FD,200D,2640,FE0F
+woman mountain biking: medium skin tone
+true
+EMOJI
+1F6B5,1F3FD,200D,2640
+woman mountain biking: medium skin tone
+false
+EMOJI
+1F6B5,1F3FE,200D,2640,FE0F
+woman mountain biking: medium dark skin tone
+true
+EMOJI
+1F6B5,1F3FE,200D,2640
+woman mountain biking: medium dark skin tone
+false
+EMOJI
+1F6B5,1F3FF,200D,2640,FE0F
+woman mountain biking: dark skin tone
+true
+EMOJI
+1F6B5,1F3FF,200D,2640
+woman mountain biking: dark skin tone
+false
+EMOJI
+1F3CE,FE0F
+racing car
+true
+EMOJI
+1F3CE
+racing car
+false
+EMOJI
+1F3CD,FE0F
+motorcycle
+true
+EMOJI
+1F3CD
+motorcycle
+false
+EMOJI
+1F938
+person cartwheeling
+true
+EMOJI
+1F938,1F3FB
+person cartwheeling: light skin tone
+true
+EMOJI
+1F938,1F3FC
+person cartwheeling: medium light skin tone
+true
+EMOJI
+1F938,1F3FD
+person cartwheeling: medium skin tone
+true
+EMOJI
+1F938,1F3FE
+person cartwheeling: medium dark skin tone
+true
+EMOJI
+1F938,1F3FF
+person cartwheeling: dark skin tone
+true
+EMOJI
+1F938,200D,2642,FE0F
+man cartwheeling
+true
+EMOJI
+1F938,200D,2642
+man cartwheeling
+false
+EMOJI
+1F938,1F3FB,200D,2642,FE0F
+man cartwheeling: light skin tone
+true
+EMOJI
+1F938,1F3FB,200D,2642
+man cartwheeling: light skin tone
+false
+EMOJI
+1F938,1F3FC,200D,2642,FE0F
+man cartwheeling: medium light skin tone
+true
+EMOJI
+1F938,1F3FC,200D,2642
+man cartwheeling: medium light skin tone
+false
+EMOJI
+1F938,1F3FD,200D,2642,FE0F
+man cartwheeling: medium skin tone
+true
+EMOJI
+1F938,1F3FD,200D,2642
+man cartwheeling: medium skin tone
+false
+EMOJI
+1F938,1F3FE,200D,2642,FE0F
+man cartwheeling: medium dark skin tone
+true
+EMOJI
+1F938,1F3FE,200D,2642
+man cartwheeling: medium dark skin tone
+false
+EMOJI
+1F938,1F3FF,200D,2642,FE0F
+man cartwheeling: dark skin tone
+true
+EMOJI
+1F938,1F3FF,200D,2642
+man cartwheeling: dark skin tone
+false
+EMOJI
+1F938,200D,2640,FE0F
+woman cartwheeling
+true
+EMOJI
+1F938,200D,2640
+woman cartwheeling
+false
+EMOJI
+1F938,1F3FB,200D,2640,FE0F
+woman cartwheeling: light skin tone
+true
+EMOJI
+1F938,1F3FB,200D,2640
+woman cartwheeling: light skin tone
+false
+EMOJI
+1F938,1F3FC,200D,2640,FE0F
+woman cartwheeling: medium light skin tone
+true
+EMOJI
+1F938,1F3FC,200D,2640
+woman cartwheeling: medium light skin tone
+false
+EMOJI
+1F938,1F3FD,200D,2640,FE0F
+woman cartwheeling: medium skin tone
+true
+EMOJI
+1F938,1F3FD,200D,2640
+woman cartwheeling: medium skin tone
+false
+EMOJI
+1F938,1F3FE,200D,2640,FE0F
+woman cartwheeling: medium dark skin tone
+true
+EMOJI
+1F938,1F3FE,200D,2640
+woman cartwheeling: medium dark skin tone
+false
+EMOJI
+1F938,1F3FF,200D,2640,FE0F
+woman cartwheeling: dark skin tone
+true
+EMOJI
+1F938,1F3FF,200D,2640
+woman cartwheeling: dark skin tone
+false
+EMOJI
+1F93C
+people wrestling
+true
+EMOJI
+1F93C,200D,2642,FE0F
+men wrestling
+true
+EMOJI
+1F93C,200D,2642
+men wrestling
+false
+EMOJI
+1F93C,200D,2640,FE0F
+women wrestling
+true
+EMOJI
+1F93C,200D,2640
+women wrestling
+false
+EMOJI
+1F93D
+person playing water polo
+true
+EMOJI
+1F93D,1F3FB
+person playing water polo: light skin tone
+true
+EMOJI
+1F93D,1F3FC
+person playing water polo: medium light skin tone
+true
+EMOJI
+1F93D,1F3FD
+person playing water polo: medium skin tone
+true
+EMOJI
+1F93D,1F3FE
+person playing water polo: medium dark skin tone
+true
+EMOJI
+1F93D,1F3FF
+person playing water polo: dark skin tone
+true
+EMOJI
+1F93D,200D,2642,FE0F
+man playing water polo
+true
+EMOJI
+1F93D,200D,2642
+man playing water polo
+false
+EMOJI
+1F93D,1F3FB,200D,2642,FE0F
+man playing water polo: light skin tone
+true
+EMOJI
+1F93D,1F3FB,200D,2642
+man playing water polo: light skin tone
+false
+EMOJI
+1F93D,1F3FC,200D,2642,FE0F
+man playing water polo: medium light skin tone
+true
+EMOJI
+1F93D,1F3FC,200D,2642
+man playing water polo: medium light skin tone
+false
+EMOJI
+1F93D,1F3FD,200D,2642,FE0F
+man playing water polo: medium skin tone
+true
+EMOJI
+1F93D,1F3FD,200D,2642
+man playing water polo: medium skin tone
+false
+EMOJI
+1F93D,1F3FE,200D,2642,FE0F
+man playing water polo: medium dark skin tone
+true
+EMOJI
+1F93D,1F3FE,200D,2642
+man playing water polo: medium dark skin tone
+false
+EMOJI
+1F93D,1F3FF,200D,2642,FE0F
+man playing water polo: dark skin tone
+true
+EMOJI
+1F93D,1F3FF,200D,2642
+man playing water polo: dark skin tone
+false
+EMOJI
+1F93D,200D,2640,FE0F
+woman playing water polo
+true
+EMOJI
+1F93D,200D,2640
+woman playing water polo
+false
+EMOJI
+1F93D,1F3FB,200D,2640,FE0F
+woman playing water polo: light skin tone
+true
+EMOJI
+1F93D,1F3FB,200D,2640
+woman playing water polo: light skin tone
+false
+EMOJI
+1F93D,1F3FC,200D,2640,FE0F
+woman playing water polo: medium light skin tone
+true
+EMOJI
+1F93D,1F3FC,200D,2640
+woman playing water polo: medium light skin tone
+false
+EMOJI
+1F93D,1F3FD,200D,2640,FE0F
+woman playing water polo: medium skin tone
+true
+EMOJI
+1F93D,1F3FD,200D,2640
+woman playing water polo: medium skin tone
+false
+EMOJI
+1F93D,1F3FE,200D,2640,FE0F
+woman playing water polo: medium dark skin tone
+true
+EMOJI
+1F93D,1F3FE,200D,2640
+woman playing water polo: medium dark skin tone
+false
+EMOJI
+1F93D,1F3FF,200D,2640,FE0F
+woman playing water polo: dark skin tone
+true
+EMOJI
+1F93D,1F3FF,200D,2640
+woman playing water polo: dark skin tone
+false
+EMOJI
+1F93E
+person playing handball
+true
+EMOJI
+1F93E,1F3FB
+person playing handball: light skin tone
+true
+EMOJI
+1F93E,1F3FC
+person playing handball: medium light skin tone
+true
+EMOJI
+1F93E,1F3FD
+person playing handball: medium skin tone
+true
+EMOJI
+1F93E,1F3FE
+person playing handball: medium dark skin tone
+true
+EMOJI
+1F93E,1F3FF
+person playing handball: dark skin tone
+true
+EMOJI
+1F93E,200D,2642,FE0F
+man playing handball
+true
+EMOJI
+1F93E,200D,2642
+man playing handball
+false
+EMOJI
+1F93E,1F3FB,200D,2642,FE0F
+man playing handball: light skin tone
+true
+EMOJI
+1F93E,1F3FB,200D,2642
+man playing handball: light skin tone
+false
+EMOJI
+1F93E,1F3FC,200D,2642,FE0F
+man playing handball: medium light skin tone
+true
+EMOJI
+1F93E,1F3FC,200D,2642
+man playing handball: medium light skin tone
+false
+EMOJI
+1F93E,1F3FD,200D,2642,FE0F
+man playing handball: medium skin tone
+true
+EMOJI
+1F93E,1F3FD,200D,2642
+man playing handball: medium skin tone
+false
+EMOJI
+1F93E,1F3FE,200D,2642,FE0F
+man playing handball: medium dark skin tone
+true
+EMOJI
+1F93E,1F3FE,200D,2642
+man playing handball: medium dark skin tone
+false
+EMOJI
+1F93E,1F3FF,200D,2642,FE0F
+man playing handball: dark skin tone
+true
+EMOJI
+1F93E,1F3FF,200D,2642
+man playing handball: dark skin tone
+false
+EMOJI
+1F93E,200D,2640,FE0F
+woman playing handball
+true
+EMOJI
+1F93E,200D,2640
+woman playing handball
+false
+EMOJI
+1F93E,1F3FB,200D,2640,FE0F
+woman playing handball: light skin tone
+true
+EMOJI
+1F93E,1F3FB,200D,2640
+woman playing handball: light skin tone
+false
+EMOJI
+1F93E,1F3FC,200D,2640,FE0F
+woman playing handball: medium light skin tone
+true
+EMOJI
+1F93E,1F3FC,200D,2640
+woman playing handball: medium light skin tone
+false
+EMOJI
+1F93E,1F3FD,200D,2640,FE0F
+woman playing handball: medium skin tone
+true
+EMOJI
+1F93E,1F3FD,200D,2640
+woman playing handball: medium skin tone
+false
+EMOJI
+1F93E,1F3FE,200D,2640,FE0F
+woman playing handball: medium dark skin tone
+true
+EMOJI
+1F93E,1F3FE,200D,2640
+woman playing handball: medium dark skin tone
+false
+EMOJI
+1F93E,1F3FF,200D,2640,FE0F
+woman playing handball: dark skin tone
+true
+EMOJI
+1F93E,1F3FF,200D,2640
+woman playing handball: dark skin tone
+false
+EMOJI
+1F939
+person juggling
+true
+EMOJI
+1F939,1F3FB
+person juggling: light skin tone
+true
+EMOJI
+1F939,1F3FC
+person juggling: medium light skin tone
+true
+EMOJI
+1F939,1F3FD
+person juggling: medium skin tone
+true
+EMOJI
+1F939,1F3FE
+person juggling: medium dark skin tone
+true
+EMOJI
+1F939,1F3FF
+person juggling: dark skin tone
+true
+EMOJI
+1F939,200D,2642,FE0F
+man juggling
+true
+EMOJI
+1F939,200D,2642
+man juggling
+false
+EMOJI
+1F939,1F3FB,200D,2642,FE0F
+man juggling: light skin tone
+true
+EMOJI
+1F939,1F3FB,200D,2642
+man juggling: light skin tone
+false
+EMOJI
+1F939,1F3FC,200D,2642,FE0F
+man juggling: medium light skin tone
+true
+EMOJI
+1F939,1F3FC,200D,2642
+man juggling: medium light skin tone
+false
+EMOJI
+1F939,1F3FD,200D,2642,FE0F
+man juggling: medium skin tone
+true
+EMOJI
+1F939,1F3FD,200D,2642
+man juggling: medium skin tone
+false
+EMOJI
+1F939,1F3FE,200D,2642,FE0F
+man juggling: medium dark skin tone
+true
+EMOJI
+1F939,1F3FE,200D,2642
+man juggling: medium dark skin tone
+false
+EMOJI
+1F939,1F3FF,200D,2642,FE0F
+man juggling: dark skin tone
+true
+EMOJI
+1F939,1F3FF,200D,2642
+man juggling: dark skin tone
+false
+EMOJI
+1F939,200D,2640,FE0F
+woman juggling
+true
+EMOJI
+1F939,200D,2640
+woman juggling
+false
+EMOJI
+1F939,1F3FB,200D,2640,FE0F
+woman juggling: light skin tone
+true
+EMOJI
+1F939,1F3FB,200D,2640
+woman juggling: light skin tone
+false
+EMOJI
+1F939,1F3FC,200D,2640,FE0F
+woman juggling: medium light skin tone
+true
+EMOJI
+1F939,1F3FC,200D,2640
+woman juggling: medium light skin tone
+false
+EMOJI
+1F939,1F3FD,200D,2640,FE0F
+woman juggling: medium skin tone
+true
+EMOJI
+1F939,1F3FD,200D,2640
+woman juggling: medium skin tone
+false
+EMOJI
+1F939,1F3FE,200D,2640,FE0F
+woman juggling: medium dark skin tone
+true
+EMOJI
+1F939,1F3FE,200D,2640
+woman juggling: medium dark skin tone
+false
+EMOJI
+1F939,1F3FF,200D,2640,FE0F
+woman juggling: dark skin tone
+true
+EMOJI
+1F939,1F3FF,200D,2640
+woman juggling: dark skin tone
+false
+SEPARATOR
+subgroup: family
+EMOJI
+1F46B
+man and woman holding hands
+true
+EMOJI
+1F46C
+two men holding hands
+true
+EMOJI
+1F46D
+two women holding hands
+true
+EMOJI
+1F48F
+kiss
+true
+EMOJI
+1F469,200D,2764,FE0F,200D,1F48B,200D,1F468
+kiss: woman, man
+true
+EMOJI
+1F469,200D,2764,200D,1F48B,200D,1F468
+kiss: woman, man
+false
+EMOJI
+1F468,200D,2764,FE0F,200D,1F48B,200D,1F468
+kiss: man, man
+true
+EMOJI
+1F468,200D,2764,200D,1F48B,200D,1F468
+kiss: man, man
+false
+EMOJI
+1F469,200D,2764,FE0F,200D,1F48B,200D,1F469
+kiss: woman, woman
+true
+EMOJI
+1F469,200D,2764,200D,1F48B,200D,1F469
+kiss: woman, woman
+false
+EMOJI
+1F491
+couple with heart
+true
+EMOJI
+1F469,200D,2764,FE0F,200D,1F468
+couple with heart: woman, man
+true
+EMOJI
+1F469,200D,2764,200D,1F468
+couple with heart: woman, man
+false
+EMOJI
+1F468,200D,2764,FE0F,200D,1F468
+couple with heart: man, man
+true
+EMOJI
+1F468,200D,2764,200D,1F468
+couple with heart: man, man
+false
+EMOJI
+1F469,200D,2764,FE0F,200D,1F469
+couple with heart: woman, woman
+true
+EMOJI
+1F469,200D,2764,200D,1F469
+couple with heart: woman, woman
+false
+EMOJI
+1F46A
+family
+true
+EMOJI
+1F468,200D,1F469,200D,1F466
+family: man, woman, boy
+true
+EMOJI
+1F468,200D,1F469,200D,1F467
+family: man, woman, girl
+true
+EMOJI
+1F468,200D,1F469,200D,1F467,200D,1F466
+family: man, woman, girl, boy
+true
+EMOJI
+1F468,200D,1F469,200D,1F466,200D,1F466
+family: man, woman, boy, boy
+true
+EMOJI
+1F468,200D,1F469,200D,1F467,200D,1F467
+family: man, woman, girl, girl
+true
+EMOJI
+1F468,200D,1F468,200D,1F466
+family: man, man, boy
+true
+EMOJI
+1F468,200D,1F468,200D,1F467
+family: man, man, girl
+true
+EMOJI
+1F468,200D,1F468,200D,1F467,200D,1F466
+family: man, man, girl, boy
+true
+EMOJI
+1F468,200D,1F468,200D,1F466,200D,1F466
+family: man, man, boy, boy
+true
+EMOJI
+1F468,200D,1F468,200D,1F467,200D,1F467
+family: man, man, girl, girl
+true
+EMOJI
+1F469,200D,1F469,200D,1F466
+family: woman, woman, boy
+true
+EMOJI
+1F469,200D,1F469,200D,1F467
+family: woman, woman, girl
+true
+EMOJI
+1F469,200D,1F469,200D,1F467,200D,1F466
+family: woman, woman, girl, boy
+true
+EMOJI
+1F469,200D,1F469,200D,1F466,200D,1F466
+family: woman, woman, boy, boy
+true
+EMOJI
+1F469,200D,1F469,200D,1F467,200D,1F467
+family: woman, woman, girl, girl
+true
+EMOJI
+1F468,200D,1F466
+family: man, boy
+true
+EMOJI
+1F468,200D,1F466,200D,1F466
+family: man, boy, boy
+true
+EMOJI
+1F468,200D,1F467
+family: man, girl
+true
+EMOJI
+1F468,200D,1F467,200D,1F466
+family: man, girl, boy
+true
+EMOJI
+1F468,200D,1F467,200D,1F467
+family: man, girl, girl
+true
+EMOJI
+1F469,200D,1F466
+family: woman, boy
+true
+EMOJI
+1F469,200D,1F466,200D,1F466
+family: woman, boy, boy
+true
+EMOJI
+1F469,200D,1F467
+family: woman, girl
+true
+EMOJI
+1F469,200D,1F467,200D,1F466
+family: woman, girl, boy
+true
+EMOJI
+1F469,200D,1F467,200D,1F467
+family: woman, girl, girl
+true
+SEPARATOR
+subgroup: body
+EMOJI
+1F933
+selfie
+true
+EMOJI
+1F933,1F3FB
+selfie: light skin tone
+true
+EMOJI
+1F933,1F3FC
+selfie: medium light skin tone
+true
+EMOJI
+1F933,1F3FD
+selfie: medium skin tone
+true
+EMOJI
+1F933,1F3FE
+selfie: medium dark skin tone
+true
+EMOJI
+1F933,1F3FF
+selfie: dark skin tone
+true
+EMOJI
+1F4AA
+flexed biceps
+true
+EMOJI
+1F4AA,1F3FB
+flexed biceps: light skin tone
+true
+EMOJI
+1F4AA,1F3FC
+flexed biceps: medium light skin tone
+true
+EMOJI
+1F4AA,1F3FD
+flexed biceps: medium skin tone
+true
+EMOJI
+1F4AA,1F3FE
+flexed biceps: medium dark skin tone
+true
+EMOJI
+1F4AA,1F3FF
+flexed biceps: dark skin tone
+true
+EMOJI
+1F9B5
+leg
+true
+EMOJI
+1F9B5,1F3FB
+leg: light skin tone
+true
+EMOJI
+1F9B5,1F3FC
+leg: medium light skin tone
+true
+EMOJI
+1F9B5,1F3FD
+leg: medium skin tone
+true
+EMOJI
+1F9B5,1F3FE
+leg: medium dark skin tone
+true
+EMOJI
+1F9B5,1F3FF
+leg: dark skin tone
+true
+EMOJI
+1F9B6
+foot
+true
+EMOJI
+1F9B6,1F3FB
+foot: light skin tone
+true
+EMOJI
+1F9B6,1F3FC
+foot: medium light skin tone
+true
+EMOJI
+1F9B6,1F3FD
+foot: medium skin tone
+true
+EMOJI
+1F9B6,1F3FE
+foot: medium dark skin tone
+true
+EMOJI
+1F9B6,1F3FF
+foot: dark skin tone
+true
+EMOJI
+1F448
+backhand index pointing left
+true
+EMOJI
+1F448,1F3FB
+backhand index pointing left: light skin tone
+true
+EMOJI
+1F448,1F3FC
+backhand index pointing left: medium light skin tone
+true
+EMOJI
+1F448,1F3FD
+backhand index pointing left: medium skin tone
+true
+EMOJI
+1F448,1F3FE
+backhand index pointing left: medium dark skin tone
+true
+EMOJI
+1F448,1F3FF
+backhand index pointing left: dark skin tone
+true
+EMOJI
+1F449
+backhand index pointing right
+true
+EMOJI
+1F449,1F3FB
+backhand index pointing right: light skin tone
+true
+EMOJI
+1F449,1F3FC
+backhand index pointing right: medium light skin tone
+true
+EMOJI
+1F449,1F3FD
+backhand index pointing right: medium skin tone
+true
+EMOJI
+1F449,1F3FE
+backhand index pointing right: medium dark skin tone
+true
+EMOJI
+1F449,1F3FF
+backhand index pointing right: dark skin tone
+true
+EMOJI
+261D,FE0F
+index pointing up
+true
+EMOJI
+261D
+index pointing up
+false
+EMOJI
+261D,1F3FB
+index pointing up: light skin tone
+true
+EMOJI
+261D,1F3FC
+index pointing up: medium light skin tone
+true
+EMOJI
+261D,1F3FD
+index pointing up: medium skin tone
+true
+EMOJI
+261D,1F3FE
+index pointing up: medium dark skin tone
+true
+EMOJI
+261D,1F3FF
+index pointing up: dark skin tone
+true
+EMOJI
+1F446
+backhand index pointing up
+true
+EMOJI
+1F446,1F3FB
+backhand index pointing up: light skin tone
+true
+EMOJI
+1F446,1F3FC
+backhand index pointing up: medium light skin tone
+true
+EMOJI
+1F446,1F3FD
+backhand index pointing up: medium skin tone
+true
+EMOJI
+1F446,1F3FE
+backhand index pointing up: medium dark skin tone
+true
+EMOJI
+1F446,1F3FF
+backhand index pointing up: dark skin tone
+true
+EMOJI
+1F595
+middle finger
+true
+EMOJI
+1F595,1F3FB
+middle finger: light skin tone
+true
+EMOJI
+1F595,1F3FC
+middle finger: medium light skin tone
+true
+EMOJI
+1F595,1F3FD
+middle finger: medium skin tone
+true
+EMOJI
+1F595,1F3FE
+middle finger: medium dark skin tone
+true
+EMOJI
+1F595,1F3FF
+middle finger: dark skin tone
+true
+EMOJI
+1F447
+backhand index pointing down
+true
+EMOJI
+1F447,1F3FB
+backhand index pointing down: light skin tone
+true
+EMOJI
+1F447,1F3FC
+backhand index pointing down: medium light skin tone
+true
+EMOJI
+1F447,1F3FD
+backhand index pointing down: medium skin tone
+true
+EMOJI
+1F447,1F3FE
+backhand index pointing down: medium dark skin tone
+true
+EMOJI
+1F447,1F3FF
+backhand index pointing down: dark skin tone
+true
+EMOJI
+270C,FE0F
+victory hand
+true
+EMOJI
+270C
+victory hand
+false
+EMOJI
+270C,1F3FB
+victory hand: light skin tone
+true
+EMOJI
+270C,1F3FC
+victory hand: medium light skin tone
+true
+EMOJI
+270C,1F3FD
+victory hand: medium skin tone
+true
+EMOJI
+270C,1F3FE
+victory hand: medium dark skin tone
+true
+EMOJI
+270C,1F3FF
+victory hand: dark skin tone
+true
+EMOJI
+1F91E
+crossed fingers
+true
+EMOJI
+1F91E,1F3FB
+crossed fingers: light skin tone
+true
+EMOJI
+1F91E,1F3FC
+crossed fingers: medium light skin tone
+true
+EMOJI
+1F91E,1F3FD
+crossed fingers: medium skin tone
+true
+EMOJI
+1F91E,1F3FE
+crossed fingers: medium dark skin tone
+true
+EMOJI
+1F91E,1F3FF
+crossed fingers: dark skin tone
+true
+EMOJI
+1F596
+vulcan salute
+true
+EMOJI
+1F596,1F3FB
+vulcan salute: light skin tone
+true
+EMOJI
+1F596,1F3FC
+vulcan salute: medium light skin tone
+true
+EMOJI
+1F596,1F3FD
+vulcan salute: medium skin tone
+true
+EMOJI
+1F596,1F3FE
+vulcan salute: medium dark skin tone
+true
+EMOJI
+1F596,1F3FF
+vulcan salute: dark skin tone
+true
+EMOJI
+1F918
+sign of the horns
+true
+EMOJI
+1F918,1F3FB
+sign of the horns: light skin tone
+true
+EMOJI
+1F918,1F3FC
+sign of the horns: medium light skin tone
+true
+EMOJI
+1F918,1F3FD
+sign of the horns: medium skin tone
+true
+EMOJI
+1F918,1F3FE
+sign of the horns: medium dark skin tone
+true
+EMOJI
+1F918,1F3FF
+sign of the horns: dark skin tone
+true
+EMOJI
+1F919
+call me hand
+true
+EMOJI
+1F919,1F3FB
+call me hand: light skin tone
+true
+EMOJI
+1F919,1F3FC
+call me hand: medium light skin tone
+true
+EMOJI
+1F919,1F3FD
+call me hand: medium skin tone
+true
+EMOJI
+1F919,1F3FE
+call me hand: medium dark skin tone
+true
+EMOJI
+1F919,1F3FF
+call me hand: dark skin tone
+true
+EMOJI
+1F590,FE0F
+hand with fingers splayed
+true
+EMOJI
+1F590
+hand with fingers splayed
+false
+EMOJI
+1F590,1F3FB
+hand with fingers splayed: light skin tone
+true
+EMOJI
+1F590,1F3FC
+hand with fingers splayed: medium light skin tone
+true
+EMOJI
+1F590,1F3FD
+hand with fingers splayed: medium skin tone
+true
+EMOJI
+1F590,1F3FE
+hand with fingers splayed: medium dark skin tone
+true
+EMOJI
+1F590,1F3FF
+hand with fingers splayed: dark skin tone
+true
+EMOJI
+270B
+raised hand
+true
+EMOJI
+270B,1F3FB
+raised hand: light skin tone
+true
+EMOJI
+270B,1F3FC
+raised hand: medium light skin tone
+true
+EMOJI
+270B,1F3FD
+raised hand: medium skin tone
+true
+EMOJI
+270B,1F3FE
+raised hand: medium dark skin tone
+true
+EMOJI
+270B,1F3FF
+raised hand: dark skin tone
+true
+EMOJI
+1F44C
+OK hand
+true
+EMOJI
+1F44C,1F3FB
+OK hand: light skin tone
+true
+EMOJI
+1F44C,1F3FC
+OK hand: medium light skin tone
+true
+EMOJI
+1F44C,1F3FD
+OK hand: medium skin tone
+true
+EMOJI
+1F44C,1F3FE
+OK hand: medium dark skin tone
+true
+EMOJI
+1F44C,1F3FF
+OK hand: dark skin tone
+true
+EMOJI
+1F44D
+thumbs up
+true
+EMOJI
+1F44D,1F3FB
+thumbs up: light skin tone
+true
+EMOJI
+1F44D,1F3FC
+thumbs up: medium light skin tone
+true
+EMOJI
+1F44D,1F3FD
+thumbs up: medium skin tone
+true
+EMOJI
+1F44D,1F3FE
+thumbs up: medium dark skin tone
+true
+EMOJI
+1F44D,1F3FF
+thumbs up: dark skin tone
+true
+EMOJI
+1F44E
+thumbs down
+true
+EMOJI
+1F44E,1F3FB
+thumbs down: light skin tone
+true
+EMOJI
+1F44E,1F3FC
+thumbs down: medium light skin tone
+true
+EMOJI
+1F44E,1F3FD
+thumbs down: medium skin tone
+true
+EMOJI
+1F44E,1F3FE
+thumbs down: medium dark skin tone
+true
+EMOJI
+1F44E,1F3FF
+thumbs down: dark skin tone
+true
+EMOJI
+270A
+raised fist
+true
+EMOJI
+270A,1F3FB
+raised fist: light skin tone
+true
+EMOJI
+270A,1F3FC
+raised fist: medium light skin tone
+true
+EMOJI
+270A,1F3FD
+raised fist: medium skin tone
+true
+EMOJI
+270A,1F3FE
+raised fist: medium dark skin tone
+true
+EMOJI
+270A,1F3FF
+raised fist: dark skin tone
+true
+EMOJI
+1F44A
+oncoming fist
+true
+EMOJI
+1F44A,1F3FB
+oncoming fist: light skin tone
+true
+EMOJI
+1F44A,1F3FC
+oncoming fist: medium light skin tone
+true
+EMOJI
+1F44A,1F3FD
+oncoming fist: medium skin tone
+true
+EMOJI
+1F44A,1F3FE
+oncoming fist: medium dark skin tone
+true
+EMOJI
+1F44A,1F3FF
+oncoming fist: dark skin tone
+true
+EMOJI
+1F91B
+left facing fist
+true
+EMOJI
+1F91B,1F3FB
+left facing fist: light skin tone
+true
+EMOJI
+1F91B,1F3FC
+left facing fist: medium light skin tone
+true
+EMOJI
+1F91B,1F3FD
+left facing fist: medium skin tone
+true
+EMOJI
+1F91B,1F3FE
+left facing fist: medium dark skin tone
+true
+EMOJI
+1F91B,1F3FF
+left facing fist: dark skin tone
+true
+EMOJI
+1F91C
+right facing fist
+true
+EMOJI
+1F91C,1F3FB
+right facing fist: light skin tone
+true
+EMOJI
+1F91C,1F3FC
+right facing fist: medium light skin tone
+true
+EMOJI
+1F91C,1F3FD
+right facing fist: medium skin tone
+true
+EMOJI
+1F91C,1F3FE
+right facing fist: medium dark skin tone
+true
+EMOJI
+1F91C,1F3FF
+right facing fist: dark skin tone
+true
+EMOJI
+1F91A
+raised back of hand
+true
+EMOJI
+1F91A,1F3FB
+raised back of hand: light skin tone
+true
+EMOJI
+1F91A,1F3FC
+raised back of hand: medium light skin tone
+true
+EMOJI
+1F91A,1F3FD
+raised back of hand: medium skin tone
+true
+EMOJI
+1F91A,1F3FE
+raised back of hand: medium dark skin tone
+true
+EMOJI
+1F91A,1F3FF
+raised back of hand: dark skin tone
+true
+EMOJI
+1F44B
+waving hand
+true
+EMOJI
+1F44B,1F3FB
+waving hand: light skin tone
+true
+EMOJI
+1F44B,1F3FC
+waving hand: medium light skin tone
+true
+EMOJI
+1F44B,1F3FD
+waving hand: medium skin tone
+true
+EMOJI
+1F44B,1F3FE
+waving hand: medium dark skin tone
+true
+EMOJI
+1F44B,1F3FF
+waving hand: dark skin tone
+true
+EMOJI
+1F91F
+love you gesture
+true
+EMOJI
+1F91F,1F3FB
+love you gesture: light skin tone
+true
+EMOJI
+1F91F,1F3FC
+love you gesture: medium light skin tone
+true
+EMOJI
+1F91F,1F3FD
+love you gesture: medium skin tone
+true
+EMOJI
+1F91F,1F3FE
+love you gesture: medium dark skin tone
+true
+EMOJI
+1F91F,1F3FF
+love you gesture: dark skin tone
+true
+EMOJI
+270D,FE0F
+writing hand
+true
+EMOJI
+270D
+writing hand
+false
+EMOJI
+270D,1F3FB
+writing hand: light skin tone
+true
+EMOJI
+270D,1F3FC
+writing hand: medium light skin tone
+true
+EMOJI
+270D,1F3FD
+writing hand: medium skin tone
+true
+EMOJI
+270D,1F3FE
+writing hand: medium dark skin tone
+true
+EMOJI
+270D,1F3FF
+writing hand: dark skin tone
+true
+EMOJI
+1F44F
+clapping hands
+true
+EMOJI
+1F44F,1F3FB
+clapping hands: light skin tone
+true
+EMOJI
+1F44F,1F3FC
+clapping hands: medium light skin tone
+true
+EMOJI
+1F44F,1F3FD
+clapping hands: medium skin tone
+true
+EMOJI
+1F44F,1F3FE
+clapping hands: medium dark skin tone
+true
+EMOJI
+1F44F,1F3FF
+clapping hands: dark skin tone
+true
+EMOJI
+1F450
+open hands
+true
+EMOJI
+1F450,1F3FB
+open hands: light skin tone
+true
+EMOJI
+1F450,1F3FC
+open hands: medium light skin tone
+true
+EMOJI
+1F450,1F3FD
+open hands: medium skin tone
+true
+EMOJI
+1F450,1F3FE
+open hands: medium dark skin tone
+true
+EMOJI
+1F450,1F3FF
+open hands: dark skin tone
+true
+EMOJI
+1F64C
+raising hands
+true
+EMOJI
+1F64C,1F3FB
+raising hands: light skin tone
+true
+EMOJI
+1F64C,1F3FC
+raising hands: medium light skin tone
+true
+EMOJI
+1F64C,1F3FD
+raising hands: medium skin tone
+true
+EMOJI
+1F64C,1F3FE
+raising hands: medium dark skin tone
+true
+EMOJI
+1F64C,1F3FF
+raising hands: dark skin tone
+true
+EMOJI
+1F932
+palms up together
+true
+EMOJI
+1F932,1F3FB
+palms up together: light skin tone
+true
+EMOJI
+1F932,1F3FC
+palms up together: medium light skin tone
+true
+EMOJI
+1F932,1F3FD
+palms up together: medium skin tone
+true
+EMOJI
+1F932,1F3FE
+palms up together: medium dark skin tone
+true
+EMOJI
+1F932,1F3FF
+palms up together: dark skin tone
+true
+EMOJI
+1F64F
+folded hands
+true
+EMOJI
+1F64F,1F3FB
+folded hands: light skin tone
+true
+EMOJI
+1F64F,1F3FC
+folded hands: medium light skin tone
+true
+EMOJI
+1F64F,1F3FD
+folded hands: medium skin tone
+true
+EMOJI
+1F64F,1F3FE
+folded hands: medium dark skin tone
+true
+EMOJI
+1F64F,1F3FF
+folded hands: dark skin tone
+true
+EMOJI
+1F91D
+handshake
+true
+EMOJI
+1F485
+nail polish
+true
+EMOJI
+1F485,1F3FB
+nail polish: light skin tone
+true
+EMOJI
+1F485,1F3FC
+nail polish: medium light skin tone
+true
+EMOJI
+1F485,1F3FD
+nail polish: medium skin tone
+true
+EMOJI
+1F485,1F3FE
+nail polish: medium dark skin tone
+true
+EMOJI
+1F485,1F3FF
+nail polish: dark skin tone
+true
+EMOJI
+1F442
+ear
+true
+EMOJI
+1F442,1F3FB
+ear: light skin tone
+true
+EMOJI
+1F442,1F3FC
+ear: medium light skin tone
+true
+EMOJI
+1F442,1F3FD
+ear: medium skin tone
+true
+EMOJI
+1F442,1F3FE
+ear: medium dark skin tone
+true
+EMOJI
+1F442,1F3FF
+ear: dark skin tone
+true
+EMOJI
+1F443
+nose
+true
+EMOJI
+1F443,1F3FB
+nose: light skin tone
+true
+EMOJI
+1F443,1F3FC
+nose: medium light skin tone
+true
+EMOJI
+1F443,1F3FD
+nose: medium skin tone
+true
+EMOJI
+1F443,1F3FE
+nose: medium dark skin tone
+true
+EMOJI
+1F443,1F3FF
+nose: dark skin tone
+true
+EMOJI
+1F9B0
+red haired
+true
+EMOJI
+1F9B1
+curly haired
+true
+EMOJI
+1F9B2
+bald
+true
+EMOJI
+1F9B3
+white haired
+true
+EMOJI
+1F463
+footprints
+true
+EMOJI
+1F440
+eyes
+true
+EMOJI
+1F441,FE0F
+eye
+true
+EMOJI
+1F441
+eye
+false
+EMOJI
+1F441,FE0F,200D,1F5E8,FE0F
+eye in speech bubble
+true
+EMOJI
+1F441,200D,1F5E8,FE0F
+eye in speech bubble
+false
+EMOJI
+1F441,FE0F,200D,1F5E8
+eye in speech bubble
+false
+EMOJI
+1F441,200D,1F5E8
+eye in speech bubble
+false
+EMOJI
+1F9E0
+brain
+true
+EMOJI
+1F9B4
+bone
+true
+EMOJI
+1F9B7
+tooth
+true
+EMOJI
+1F445
+tongue
+true
+EMOJI
+1F444
+mouth
+true
+SEPARATOR
+subgroup: emotion
+EMOJI
+1F48B
+kiss mark
+true
+EMOJI
+1F498
+heart with arrow
+true
+EMOJI
+2764,FE0F
+red heart
+true
+EMOJI
+2764
+red heart
+false
+EMOJI
+1F493
+beating heart
+true
+EMOJI
+1F494
+broken heart
+true
+EMOJI
+1F495
+two hearts
+true
+EMOJI
+1F496
+sparkling heart
+true
+EMOJI
+1F497
+growing heart
+true
+EMOJI
+1F499
+blue heart
+true
+EMOJI
+1F49A
+green heart
+true
+EMOJI
+1F49B
+yellow heart
+true
+EMOJI
+1F9E1
+orange heart
+true
+EMOJI
+1F49C
+purple heart
+true
+EMOJI
+1F5A4
+black heart
+true
+EMOJI
+1F49D
+heart with ribbon
+true
+EMOJI
+1F49E
+revolving hearts
+true
+EMOJI
+1F49F
+heart decoration
+true
+EMOJI
+2763,FE0F
+heavy heart exclamation
+true
+EMOJI
+2763
+heavy heart exclamation
+false
+EMOJI
+1F48C
+love letter
+true
+EMOJI
+1F4A4
+zzz
+true
+EMOJI
+1F4A2
+anger symbol
+true
+EMOJI
+1F4A3
+bomb
+true
+EMOJI
+1F4A5
+collision
+true
+EMOJI
+1F4A6
+sweat droplets
+true
+EMOJI
+1F4A8
+dashing away
+true
+EMOJI
+1F4AB
+dizzy
+true
+EMOJI
+1F4AC
+speech balloon
+true
+EMOJI
+1F5E8,FE0F
+left speech bubble
+true
+EMOJI
+1F5E8
+left speech bubble
+false
+EMOJI
+1F5EF,FE0F
+right anger bubble
+true
+EMOJI
+1F5EF
+right anger bubble
+false
+EMOJI
+1F4AD
+thought balloon
+true
+EMOJI
+1F573,FE0F
+hole
+true
+EMOJI
+1F573
+hole
+false
+SEPARATOR
+subgroup: clothing
+EMOJI
+1F453
+glasses
+true
+EMOJI
+1F576,FE0F
+sunglasses
+true
+EMOJI
+1F576
+sunglasses
+false
+EMOJI
+1F97D
+goggles
+true
+EMOJI
+1F97C
+lab coat
+true
+EMOJI
+1F454
+necktie
+true
+EMOJI
+1F455
+t shirt
+true
+EMOJI
+1F456
+jeans
+true
+EMOJI
+1F9E3
+scarf
+true
+EMOJI
+1F9E4
+gloves
+true
+EMOJI
+1F9E5
+coat
+true
+EMOJI
+1F9E6
+socks
+true
+EMOJI
+1F457
+dress
+true
+EMOJI
+1F458
+kimono
+true
+EMOJI
+1F459
+bikini
+true
+EMOJI
+1F45A
+woman’s clothes
+true
+EMOJI
+1F45B
+purse
+true
+EMOJI
+1F45C
+handbag
+true
+EMOJI
+1F45D
+clutch bag
+true
+EMOJI
+1F6CD,FE0F
+shopping bags
+true
+EMOJI
+1F6CD
+shopping bags
+false
+EMOJI
+1F392
+school backpack
+true
+EMOJI
+1F45E
+man’s shoe
+true
+EMOJI
+1F45F
+running shoe
+true
+EMOJI
+1F97E
+hiking boot
+true
+EMOJI
+1F97F
+woman’s flat shoe
+true
+EMOJI
+1F460
+high heeled shoe
+true
+EMOJI
+1F461
+woman’s sandal
+true
+EMOJI
+1F462
+woman’s boot
+true
+EMOJI
+1F451
+crown
+true
+EMOJI
+1F452
+woman’s hat
+true
+EMOJI
+1F3A9
+top hat
+true
+EMOJI
+1F393
+graduation cap
+true
+EMOJI
+1F9E2
+billed cap
+true
+EMOJI
+26D1,FE0F
+rescue worker’s helmet
+true
+EMOJI
+26D1
+rescue worker’s helmet
+false
+EMOJI
+1F4FF
+prayer beads
+true
+EMOJI
+1F484
+lipstick
+true
+EMOJI
+1F48D
+ring
+true
+EMOJI
+1F48E
+gem stone
+true
+SEPARATOR
+Smileys & People subtotal:		2210
+SEPARATOR
+Smileys & People subtotal:		625	w/o modifiers
+SEPARATOR
+group: Animals & Nature
+SEPARATOR
+subgroup: animal mammal
+EMOJI
+1F435
+monkey face
+true
+EMOJI
+1F412
+monkey
+true
+EMOJI
+1F98D
+gorilla
+true
+EMOJI
+1F436
+dog face
+true
+EMOJI
+1F415
+dog
+true
+EMOJI
+1F429
+poodle
+true
+EMOJI
+1F43A
+wolf face
+true
+EMOJI
+1F98A
+fox face
+true
+EMOJI
+1F99D
+raccoon
+true
+EMOJI
+1F431
+cat face
+true
+EMOJI
+1F408
+cat
+true
+EMOJI
+1F981
+lion face
+true
+EMOJI
+1F42F
+tiger face
+true
+EMOJI
+1F405
+tiger
+true
+EMOJI
+1F406
+leopard
+true
+EMOJI
+1F434
+horse face
+true
+EMOJI
+1F40E
+horse
+true
+EMOJI
+1F984
+unicorn face
+true
+EMOJI
+1F993
+zebra
+true
+EMOJI
+1F98C
+deer
+true
+EMOJI
+1F42E
+cow face
+true
+EMOJI
+1F402
+ox
+true
+EMOJI
+1F403
+water buffalo
+true
+EMOJI
+1F404
+cow
+true
+EMOJI
+1F437
+pig face
+true
+EMOJI
+1F416
+pig
+true
+EMOJI
+1F417
+boar
+true
+EMOJI
+1F43D
+pig nose
+true
+EMOJI
+1F40F
+ram
+true
+EMOJI
+1F411
+ewe
+true
+EMOJI
+1F410
+goat
+true
+EMOJI
+1F42A
+camel
+true
+EMOJI
+1F42B
+two hump camel
+true
+EMOJI
+1F999
+llama
+true
+EMOJI
+1F992
+giraffe
+true
+EMOJI
+1F418
+elephant
+true
+EMOJI
+1F98F
+rhinoceros
+true
+EMOJI
+1F99B
+hippopotamus
+true
+EMOJI
+1F42D
+mouse face
+true
+EMOJI
+1F401
+mouse
+true
+EMOJI
+1F400
+rat
+true
+EMOJI
+1F439
+hamster face
+true
+EMOJI
+1F430
+rabbit face
+true
+EMOJI
+1F407
+rabbit
+true
+EMOJI
+1F43F,FE0F
+chipmunk
+true
+EMOJI
+1F43F
+chipmunk
+false
+EMOJI
+1F994
+hedgehog
+true
+EMOJI
+1F987
+bat
+true
+EMOJI
+1F43B
+bear face
+true
+EMOJI
+1F428
+koala
+true
+EMOJI
+1F43C
+panda face
+true
+EMOJI
+1F998
+kangaroo
+true
+EMOJI
+1F9A1
+badger
+true
+EMOJI
+1F43E
+paw prints
+true
+SEPARATOR
+subgroup: animal bird
+EMOJI
+1F983
+turkey
+true
+EMOJI
+1F414
+chicken
+true
+EMOJI
+1F413
+rooster
+true
+EMOJI
+1F423
+hatching chick
+true
+EMOJI
+1F424
+baby chick
+true
+EMOJI
+1F425
+front facing baby chick
+true
+EMOJI
+1F426
+bird
+true
+EMOJI
+1F427
+penguin
+true
+EMOJI
+1F54A,FE0F
+dove
+true
+EMOJI
+1F54A
+dove
+false
+EMOJI
+1F985
+eagle
+true
+EMOJI
+1F986
+duck
+true
+EMOJI
+1F9A2
+swan
+true
+EMOJI
+1F989
+owl
+true
+EMOJI
+1F99A
+peacock
+true
+EMOJI
+1F99C
+parrot
+true
+SEPARATOR
+subgroup: animal amphibian
+EMOJI
+1F438
+frog face
+true
+SEPARATOR
+subgroup: animal reptile
+EMOJI
+1F40A
+crocodile
+true
+EMOJI
+1F422
+turtle
+true
+EMOJI
+1F98E
+lizard
+true
+EMOJI
+1F40D
+snake
+true
+EMOJI
+1F432
+dragon face
+true
+EMOJI
+1F409
+dragon
+true
+EMOJI
+1F995
+sauropod
+true
+EMOJI
+1F996
+T Rex
+true
+SEPARATOR
+subgroup: animal marine
+EMOJI
+1F433
+spouting whale
+true
+EMOJI
+1F40B
+whale
+true
+EMOJI
+1F42C
+dolphin
+true
+EMOJI
+1F41F
+fish
+true
+EMOJI
+1F420
+tropical fish
+true
+EMOJI
+1F421
+blowfish
+true
+EMOJI
+1F988
+shark
+true
+EMOJI
+1F419
+octopus
+true
+EMOJI
+1F41A
+spiral shell
+true
+EMOJI
+1F980
+crab
+true
+EMOJI
+1F99E
+lobster
+true
+EMOJI
+1F990
+shrimp
+true
+EMOJI
+1F991
+squid
+true
+SEPARATOR
+subgroup: animal bug
+EMOJI
+1F40C
+snail
+true
+EMOJI
+1F98B
+butterfly
+true
+EMOJI
+1F41B
+bug
+true
+EMOJI
+1F41C
+ant
+true
+EMOJI
+1F41D
+honeybee
+true
+EMOJI
+1F41E
+lady beetle
+true
+EMOJI
+1F997
+cricket
+true
+EMOJI
+1F577,FE0F
+spider
+true
+EMOJI
+1F577
+spider
+false
+EMOJI
+1F578,FE0F
+spider web
+true
+EMOJI
+1F578
+spider web
+false
+EMOJI
+1F982
+scorpion
+true
+EMOJI
+1F99F
+mosquito
+true
+EMOJI
+1F9A0
+microbe
+true
+SEPARATOR
+subgroup: plant flower
+EMOJI
+1F490
+bouquet
+true
+EMOJI
+1F338
+cherry blossom
+true
+EMOJI
+1F4AE
+white flower
+true
+EMOJI
+1F3F5,FE0F
+rosette
+true
+EMOJI
+1F3F5
+rosette
+false
+EMOJI
+1F339
+rose
+true
+EMOJI
+1F940
+wilted flower
+true
+EMOJI
+1F33A
+hibiscus
+true
+EMOJI
+1F33B
+sunflower
+true
+EMOJI
+1F33C
+blossom
+true
+EMOJI
+1F337
+tulip
+true
+SEPARATOR
+subgroup: plant other
+EMOJI
+1F331
+seedling
+true
+EMOJI
+1F332
+evergreen tree
+true
+EMOJI
+1F333
+deciduous tree
+true
+EMOJI
+1F334
+palm tree
+true
+EMOJI
+1F335
+cactus
+true
+EMOJI
+1F33E
+sheaf of rice
+true
+EMOJI
+1F33F
+herb
+true
+EMOJI
+2618,FE0F
+shamrock
+true
+EMOJI
+2618
+shamrock
+false
+EMOJI
+1F340
+four leaf clover
+true
+EMOJI
+1F341
+maple leaf
+true
+EMOJI
+1F342
+fallen leaf
+true
+EMOJI
+1F343
+leaf fluttering in wind
+true
+SEPARATOR
+Animals & Nature subtotal:		130
+SEPARATOR
+Animals & Nature subtotal:		130	w/o modifiers
+SEPARATOR
+group: Food & Drink
+SEPARATOR
+subgroup: food fruit
+EMOJI
+1F347
+grapes
+true
+EMOJI
+1F348
+melon
+true
+EMOJI
+1F349
+watermelon
+true
+EMOJI
+1F34A
+tangerine
+true
+EMOJI
+1F34B
+lemon
+true
+EMOJI
+1F34C
+banana
+true
+EMOJI
+1F34D
+pineapple
+true
+EMOJI
+1F96D
+mango
+true
+EMOJI
+1F34E
+red apple
+true
+EMOJI
+1F34F
+green apple
+true
+EMOJI
+1F350
+pear
+true
+EMOJI
+1F351
+peach
+true
+EMOJI
+1F352
+cherries
+true
+EMOJI
+1F353
+strawberry
+true
+EMOJI
+1F95D
+kiwi fruit
+true
+EMOJI
+1F345
+tomato
+true
+EMOJI
+1F965
+coconut
+true
+SEPARATOR
+subgroup: food vegetable
+EMOJI
+1F951
+avocado
+true
+EMOJI
+1F346
+eggplant
+true
+EMOJI
+1F954
+potato
+true
+EMOJI
+1F955
+carrot
+true
+EMOJI
+1F33D
+ear of corn
+true
+EMOJI
+1F336,FE0F
+hot pepper
+true
+EMOJI
+1F336
+hot pepper
+false
+EMOJI
+1F952
+cucumber
+true
+EMOJI
+1F96C
+leafy green
+true
+EMOJI
+1F966
+broccoli
+true
+EMOJI
+1F344
+mushroom
+true
+EMOJI
+1F95C
+peanuts
+true
+EMOJI
+1F330
+chestnut
+true
+SEPARATOR
+subgroup: food prepared
+EMOJI
+1F35E
+bread
+true
+EMOJI
+1F950
+croissant
+true
+EMOJI
+1F956
+baguette bread
+true
+EMOJI
+1F968
+pretzel
+true
+EMOJI
+1F96F
+bagel
+true
+EMOJI
+1F95E
+pancakes
+true
+EMOJI
+1F9C0
+cheese wedge
+true
+EMOJI
+1F356
+meat on bone
+true
+EMOJI
+1F357
+poultry leg
+true
+EMOJI
+1F969
+cut of meat
+true
+EMOJI
+1F953
+bacon
+true
+EMOJI
+1F354
+hamburger
+true
+EMOJI
+1F35F
+french fries
+true
+EMOJI
+1F355
+pizza
+true
+EMOJI
+1F32D
+hot dog
+true
+EMOJI
+1F96A
+sandwich
+true
+EMOJI
+1F32E
+taco
+true
+EMOJI
+1F32F
+burrito
+true
+EMOJI
+1F959
+stuffed flatbread
+true
+EMOJI
+1F95A
+egg
+true
+EMOJI
+1F373
+cooking
+true
+EMOJI
+1F958
+shallow pan of food
+true
+EMOJI
+1F372
+pot of food
+true
+EMOJI
+1F963
+bowl with spoon
+true
+EMOJI
+1F957
+green salad
+true
+EMOJI
+1F37F
+popcorn
+true
+EMOJI
+1F9C2
+salt
+true
+EMOJI
+1F96B
+canned food
+true
+SEPARATOR
+subgroup: food asian
+EMOJI
+1F371
+bento box
+true
+EMOJI
+1F358
+rice cracker
+true
+EMOJI
+1F359
+rice ball
+true
+EMOJI
+1F35A
+cooked rice
+true
+EMOJI
+1F35B
+curry rice
+true
+EMOJI
+1F35C
+steaming bowl
+true
+EMOJI
+1F35D
+spaghetti
+true
+EMOJI
+1F360
+roasted sweet potato
+true
+EMOJI
+1F362
+oden
+true
+EMOJI
+1F363
+sushi
+true
+EMOJI
+1F364
+fried shrimp
+true
+EMOJI
+1F365
+fish cake with swirl
+true
+EMOJI
+1F96E
+moon cake
+true
+EMOJI
+1F361
+dango
+true
+EMOJI
+1F95F
+dumpling
+true
+EMOJI
+1F960
+fortune cookie
+true
+EMOJI
+1F961
+takeout box
+true
+SEPARATOR
+subgroup: food sweet
+EMOJI
+1F366
+soft ice cream
+true
+EMOJI
+1F367
+shaved ice
+true
+EMOJI
+1F368
+ice cream
+true
+EMOJI
+1F369
+doughnut
+true
+EMOJI
+1F36A
+cookie
+true
+EMOJI
+1F382
+birthday cake
+true
+EMOJI
+1F370
+shortcake
+true
+EMOJI
+1F9C1
+cupcake
+true
+EMOJI
+1F967
+pie
+true
+EMOJI
+1F36B
+chocolate bar
+true
+EMOJI
+1F36C
+candy
+true
+EMOJI
+1F36D
+lollipop
+true
+EMOJI
+1F36E
+custard
+true
+EMOJI
+1F36F
+honey pot
+true
+SEPARATOR
+subgroup: drink
+EMOJI
+1F37C
+baby bottle
+true
+EMOJI
+1F95B
+glass of milk
+true
+EMOJI
+2615
+hot beverage
+true
+EMOJI
+1F375
+teacup without handle
+true
+EMOJI
+1F376
+sake
+true
+EMOJI
+1F37E
+bottle with popping cork
+true
+EMOJI
+1F377
+wine glass
+true
+EMOJI
+1F378
+cocktail glass
+true
+EMOJI
+1F379
+tropical drink
+true
+EMOJI
+1F37A
+beer mug
+true
+EMOJI
+1F37B
+clinking beer mugs
+true
+EMOJI
+1F942
+clinking glasses
+true
+EMOJI
+1F943
+tumbler glass
+true
+EMOJI
+1F964
+cup with straw
+true
+SEPARATOR
+subgroup: dishware
+EMOJI
+1F962
+chopsticks
+true
+EMOJI
+1F37D,FE0F
+fork and knife with plate
+true
+EMOJI
+1F37D
+fork and knife with plate
+false
+EMOJI
+1F374
+fork and knife
+true
+EMOJI
+1F944
+spoon
+true
+EMOJI
+1F52A
+kitchen knife
+true
+EMOJI
+1F3FA
+amphora
+true
+SEPARATOR
+Food & Drink subtotal:		110
+SEPARATOR
+Food & Drink subtotal:		110	w/o modifiers
+SEPARATOR
+group: Travel & Places
+SEPARATOR
+subgroup: place map
+EMOJI
+1F30D
+globe showing Europe Africa
+true
+EMOJI
+1F30E
+globe showing Americas
+true
+EMOJI
+1F30F
+globe showing Asia Australia
+true
+EMOJI
+1F310
+globe with meridians
+true
+EMOJI
+1F5FA,FE0F
+world map
+true
+EMOJI
+1F5FA
+world map
+false
+EMOJI
+1F5FE
+map of Japan
+true
+EMOJI
+1F9ED
+compass
+true
+SEPARATOR
+subgroup: place geographic
+EMOJI
+1F3D4,FE0F
+snow capped mountain
+true
+EMOJI
+1F3D4
+snow capped mountain
+false
+EMOJI
+26F0,FE0F
+mountain
+true
+EMOJI
+26F0
+mountain
+false
+EMOJI
+1F30B
+volcano
+true
+EMOJI
+1F5FB
+mount fuji
+true
+EMOJI
+1F3D5,FE0F
+camping
+true
+EMOJI
+1F3D5
+camping
+false
+EMOJI
+1F3D6,FE0F
+beach with umbrella
+true
+EMOJI
+1F3D6
+beach with umbrella
+false
+EMOJI
+1F3DC,FE0F
+desert
+true
+EMOJI
+1F3DC
+desert
+false
+EMOJI
+1F3DD,FE0F
+desert island
+true
+EMOJI
+1F3DD
+desert island
+false
+EMOJI
+1F3DE,FE0F
+national park
+true
+EMOJI
+1F3DE
+national park
+false
+SEPARATOR
+subgroup: place building
+EMOJI
+1F3DF,FE0F
+stadium
+true
+EMOJI
+1F3DF
+stadium
+false
+EMOJI
+1F3DB,FE0F
+classical building
+true
+EMOJI
+1F3DB
+classical building
+false
+EMOJI
+1F3D7,FE0F
+building construction
+true
+EMOJI
+1F3D7
+building construction
+false
+EMOJI
+1F9F1
+bricks
+true
+EMOJI
+1F3D8,FE0F
+houses
+true
+EMOJI
+1F3D8
+houses
+false
+EMOJI
+1F3DA,FE0F
+derelict house
+true
+EMOJI
+1F3DA
+derelict house
+false
+EMOJI
+1F3E0
+house
+true
+EMOJI
+1F3E1
+house with garden
+true
+EMOJI
+1F3E2
+office building
+true
+EMOJI
+1F3E3
+Japanese post office
+true
+EMOJI
+1F3E4
+post office
+true
+EMOJI
+1F3E5
+hospital
+true
+EMOJI
+1F3E6
+bank
+true
+EMOJI
+1F3E8
+hotel
+true
+EMOJI
+1F3E9
+love hotel
+true
+EMOJI
+1F3EA
+convenience store
+true
+EMOJI
+1F3EB
+school
+true
+EMOJI
+1F3EC
+department store
+true
+EMOJI
+1F3ED
+factory
+true
+EMOJI
+1F3EF
+Japanese castle
+true
+EMOJI
+1F3F0
+castle
+true
+EMOJI
+1F492
+wedding
+true
+EMOJI
+1F5FC
+Tokyo tower
+true
+EMOJI
+1F5FD
+Statue of Liberty
+true
+SEPARATOR
+subgroup: place religious
+EMOJI
+26EA
+church
+true
+EMOJI
+1F54C
+mosque
+true
+EMOJI
+1F54D
+synagogue
+true
+EMOJI
+26E9,FE0F
+shinto shrine
+true
+EMOJI
+26E9
+shinto shrine
+false
+EMOJI
+1F54B
+kaaba
+true
+SEPARATOR
+subgroup: place other
+EMOJI
+26F2
+fountain
+true
+EMOJI
+26FA
+tent
+true
+EMOJI
+1F301
+foggy
+true
+EMOJI
+1F303
+night with stars
+true
+EMOJI
+1F3D9,FE0F
+cityscape
+true
+EMOJI
+1F3D9
+cityscape
+false
+EMOJI
+1F304
+sunrise over mountains
+true
+EMOJI
+1F305
+sunrise
+true
+EMOJI
+1F306
+cityscape at dusk
+true
+EMOJI
+1F307
+sunset
+true
+EMOJI
+1F309
+bridge at night
+true
+EMOJI
+2668,FE0F
+hot springs
+true
+EMOJI
+2668
+hot springs
+false
+EMOJI
+1F30C
+milky way
+true
+EMOJI
+1F3A0
+carousel horse
+true
+EMOJI
+1F3A1
+ferris wheel
+true
+EMOJI
+1F3A2
+roller coaster
+true
+EMOJI
+1F488
+barber pole
+true
+EMOJI
+1F3AA
+circus tent
+true
+SEPARATOR
+subgroup: transport ground
+EMOJI
+1F682
+locomotive
+true
+EMOJI
+1F683
+railway car
+true
+EMOJI
+1F684
+high speed train
+true
+EMOJI
+1F685
+bullet train
+true
+EMOJI
+1F686
+train
+true
+EMOJI
+1F687
+metro
+true
+EMOJI
+1F688
+light rail
+true
+EMOJI
+1F689
+station
+true
+EMOJI
+1F68A
+tram
+true
+EMOJI
+1F69D
+monorail
+true
+EMOJI
+1F69E
+mountain railway
+true
+EMOJI
+1F68B
+tram car
+true
+EMOJI
+1F68C
+bus
+true
+EMOJI
+1F68D
+oncoming bus
+true
+EMOJI
+1F68E
+trolleybus
+true
+EMOJI
+1F690
+minibus
+true
+EMOJI
+1F691
+ambulance
+true
+EMOJI
+1F692
+fire engine
+true
+EMOJI
+1F693
+police car
+true
+EMOJI
+1F694
+oncoming police car
+true
+EMOJI
+1F695
+taxi
+true
+EMOJI
+1F696
+oncoming taxi
+true
+EMOJI
+1F697
+automobile
+true
+EMOJI
+1F698
+oncoming automobile
+true
+EMOJI
+1F699
+sport utility vehicle
+true
+EMOJI
+1F69A
+delivery truck
+true
+EMOJI
+1F69B
+articulated lorry
+true
+EMOJI
+1F69C
+tractor
+true
+EMOJI
+1F6B2
+bicycle
+true
+EMOJI
+1F6F4
+kick scooter
+true
+EMOJI
+1F6F9
+skateboard
+true
+EMOJI
+1F6F5
+motor scooter
+true
+EMOJI
+1F68F
+bus stop
+true
+EMOJI
+1F6E3,FE0F
+motorway
+true
+EMOJI
+1F6E3
+motorway
+false
+EMOJI
+1F6E4,FE0F
+railway track
+true
+EMOJI
+1F6E4
+railway track
+false
+EMOJI
+1F6E2,FE0F
+oil drum
+true
+EMOJI
+1F6E2
+oil drum
+false
+EMOJI
+26FD
+fuel pump
+true
+EMOJI
+1F6A8
+police car light
+true
+EMOJI
+1F6A5
+horizontal traffic light
+true
+EMOJI
+1F6A6
+vertical traffic light
+true
+EMOJI
+1F6D1
+stop sign
+true
+EMOJI
+1F6A7
+construction
+true
+SEPARATOR
+subgroup: transport water
+EMOJI
+2693
+anchor
+true
+EMOJI
+26F5
+sailboat
+true
+EMOJI
+1F6F6
+canoe
+true
+EMOJI
+1F6A4
+speedboat
+true
+EMOJI
+1F6F3,FE0F
+passenger ship
+true
+EMOJI
+1F6F3
+passenger ship
+false
+EMOJI
+26F4,FE0F
+ferry
+true
+EMOJI
+26F4
+ferry
+false
+EMOJI
+1F6E5,FE0F
+motor boat
+true
+EMOJI
+1F6E5
+motor boat
+false
+EMOJI
+1F6A2
+ship
+true
+SEPARATOR
+subgroup: transport air
+EMOJI
+2708,FE0F
+airplane
+true
+EMOJI
+2708
+airplane
+false
+EMOJI
+1F6E9,FE0F
+small airplane
+true
+EMOJI
+1F6E9
+small airplane
+false
+EMOJI
+1F6EB
+airplane departure
+true
+EMOJI
+1F6EC
+airplane arrival
+true
+EMOJI
+1F4BA
+seat
+true
+EMOJI
+1F681
+helicopter
+true
+EMOJI
+1F69F
+suspension railway
+true
+EMOJI
+1F6A0
+mountain cableway
+true
+EMOJI
+1F6A1
+aerial tramway
+true
+EMOJI
+1F6F0,FE0F
+satellite
+true
+EMOJI
+1F6F0
+satellite
+false
+EMOJI
+1F680
+rocket
+true
+EMOJI
+1F6F8
+flying saucer
+true
+SEPARATOR
+subgroup: hotel
+EMOJI
+1F6CE,FE0F
+bellhop bell
+true
+EMOJI
+1F6CE
+bellhop bell
+false
+EMOJI
+1F9F3
+luggage
+true
+SEPARATOR
+subgroup: time
+EMOJI
+231B
+hourglass done
+true
+EMOJI
+23F3
+hourglass not done
+true
+EMOJI
+231A
+watch
+true
+EMOJI
+23F0
+alarm clock
+true
+EMOJI
+23F1,FE0F
+stopwatch
+true
+EMOJI
+23F1
+stopwatch
+false
+EMOJI
+23F2,FE0F
+timer clock
+true
+EMOJI
+23F2
+timer clock
+false
+EMOJI
+1F570,FE0F
+mantelpiece clock
+true
+EMOJI
+1F570
+mantelpiece clock
+false
+EMOJI
+1F55B
+twelve o’clock
+true
+EMOJI
+1F567
+twelve thirty
+true
+EMOJI
+1F550
+one o’clock
+true
+EMOJI
+1F55C
+one thirty
+true
+EMOJI
+1F551
+two o’clock
+true
+EMOJI
+1F55D
+two thirty
+true
+EMOJI
+1F552
+three o’clock
+true
+EMOJI
+1F55E
+three thirty
+true
+EMOJI
+1F553
+four o’clock
+true
+EMOJI
+1F55F
+four thirty
+true
+EMOJI
+1F554
+five o’clock
+true
+EMOJI
+1F560
+five thirty
+true
+EMOJI
+1F555
+six o’clock
+true
+EMOJI
+1F561
+six thirty
+true
+EMOJI
+1F556
+seven o’clock
+true
+EMOJI
+1F562
+seven thirty
+true
+EMOJI
+1F557
+eight o’clock
+true
+EMOJI
+1F563
+eight thirty
+true
+EMOJI
+1F558
+nine o’clock
+true
+EMOJI
+1F564
+nine thirty
+true
+EMOJI
+1F559
+ten o’clock
+true
+EMOJI
+1F565
+ten thirty
+true
+EMOJI
+1F55A
+eleven o’clock
+true
+EMOJI
+1F566
+eleven thirty
+true
+SEPARATOR
+subgroup: sky & weather
+EMOJI
+1F311
+new moon
+true
+EMOJI
+1F312
+waxing crescent moon
+true
+EMOJI
+1F313
+first quarter moon
+true
+EMOJI
+1F314
+waxing gibbous moon
+true
+EMOJI
+1F315
+full moon
+true
+EMOJI
+1F316
+waning gibbous moon
+true
+EMOJI
+1F317
+last quarter moon
+true
+EMOJI
+1F318
+waning crescent moon
+true
+EMOJI
+1F319
+crescent moon
+true
+EMOJI
+1F31A
+new moon face
+true
+EMOJI
+1F31B
+first quarter moon face
+true
+EMOJI
+1F31C
+last quarter moon face
+true
+EMOJI
+1F321,FE0F
+thermometer
+true
+EMOJI
+1F321
+thermometer
+false
+EMOJI
+2600,FE0F
+sun
+true
+EMOJI
+2600
+sun
+false
+EMOJI
+1F31D
+full moon face
+true
+EMOJI
+1F31E
+sun with face
+true
+EMOJI
+2B50
+star
+true
+EMOJI
+1F31F
+glowing star
+true
+EMOJI
+1F320
+shooting star
+true
+EMOJI
+2601,FE0F
+cloud
+true
+EMOJI
+2601
+cloud
+false
+EMOJI
+26C5
+sun behind cloud
+true
+EMOJI
+26C8,FE0F
+cloud with lightning and rain
+true
+EMOJI
+26C8
+cloud with lightning and rain
+false
+EMOJI
+1F324,FE0F
+sun behind small cloud
+true
+EMOJI
+1F324
+sun behind small cloud
+false
+EMOJI
+1F325,FE0F
+sun behind large cloud
+true
+EMOJI
+1F325
+sun behind large cloud
+false
+EMOJI
+1F326,FE0F
+sun behind rain cloud
+true
+EMOJI
+1F326
+sun behind rain cloud
+false
+EMOJI
+1F327,FE0F
+cloud with rain
+true
+EMOJI
+1F327
+cloud with rain
+false
+EMOJI
+1F328,FE0F
+cloud with snow
+true
+EMOJI
+1F328
+cloud with snow
+false
+EMOJI
+1F329,FE0F
+cloud with lightning
+true
+EMOJI
+1F329
+cloud with lightning
+false
+EMOJI
+1F32A,FE0F
+tornado
+true
+EMOJI
+1F32A
+tornado
+false
+EMOJI
+1F32B,FE0F
+fog
+true
+EMOJI
+1F32B
+fog
+false
+EMOJI
+1F32C,FE0F
+wind face
+true
+EMOJI
+1F32C
+wind face
+false
+EMOJI
+1F300
+cyclone
+true
+EMOJI
+1F308
+rainbow
+true
+EMOJI
+1F302
+closed umbrella
+true
+EMOJI
+2602,FE0F
+umbrella
+true
+EMOJI
+2602
+umbrella
+false
+EMOJI
+2614
+umbrella with rain drops
+true
+EMOJI
+26F1,FE0F
+umbrella on ground
+true
+EMOJI
+26F1
+umbrella on ground
+false
+EMOJI
+26A1
+high voltage
+true
+EMOJI
+2744,FE0F
+snowflake
+true
+EMOJI
+2744
+snowflake
+false
+EMOJI
+2603,FE0F
+snowman
+true
+EMOJI
+2603
+snowman
+false
+EMOJI
+26C4
+snowman without snow
+true
+EMOJI
+2604,FE0F
+comet
+true
+EMOJI
+2604
+comet
+false
+EMOJI
+1F525
+fire
+true
+EMOJI
+1F4A7
+droplet
+true
+EMOJI
+1F30A
+water wave
+true
+SEPARATOR
+Travel & Places subtotal:		249
+SEPARATOR
+Travel & Places subtotal:		249	w/o modifiers
+SEPARATOR
+group: Activities
+SEPARATOR
+subgroup: event
+EMOJI
+1F383
+jack o lantern
+true
+EMOJI
+1F384
+Christmas tree
+true
+EMOJI
+1F386
+fireworks
+true
+EMOJI
+1F387
+sparkler
+true
+EMOJI
+1F9E8
+firecracker
+true
+EMOJI
+2728
+sparkles
+true
+EMOJI
+1F388
+balloon
+true
+EMOJI
+1F389
+party popper
+true
+EMOJI
+1F38A
+confetti ball
+true
+EMOJI
+1F38B
+tanabata tree
+true
+EMOJI
+1F38D
+pine decoration
+true
+EMOJI
+1F38E
+Japanese dolls
+true
+EMOJI
+1F38F
+carp streamer
+true
+EMOJI
+1F390
+wind chime
+true
+EMOJI
+1F391
+moon viewing ceremony
+true
+EMOJI
+1F9E7
+red envelope
+true
+EMOJI
+1F380
+ribbon
+true
+EMOJI
+1F381
+wrapped gift
+true
+EMOJI
+1F397,FE0F
+reminder ribbon
+true
+EMOJI
+1F397
+reminder ribbon
+false
+EMOJI
+1F39F,FE0F
+admission tickets
+true
+EMOJI
+1F39F
+admission tickets
+false
+EMOJI
+1F3AB
+ticket
+true
+SEPARATOR
+subgroup: award medal
+EMOJI
+1F396,FE0F
+military medal
+true
+EMOJI
+1F396
+military medal
+false
+EMOJI
+1F3C6
+trophy
+true
+EMOJI
+1F3C5
+sports medal
+true
+EMOJI
+1F947
+1st place medal
+true
+EMOJI
+1F948
+2nd place medal
+true
+EMOJI
+1F949
+3rd place medal
+true
+SEPARATOR
+subgroup: sport
+EMOJI
+26BD
+soccer ball
+true
+EMOJI
+26BE
+baseball
+true
+EMOJI
+1F94E
+softball
+true
+EMOJI
+1F3C0
+basketball
+true
+EMOJI
+1F3D0
+volleyball
+true
+EMOJI
+1F3C8
+american football
+true
+EMOJI
+1F3C9
+rugby football
+true
+EMOJI
+1F3BE
+tennis
+true
+EMOJI
+1F94F
+flying disc
+true
+EMOJI
+1F3B3
+bowling
+true
+EMOJI
+1F3CF
+cricket game
+true
+EMOJI
+1F3D1
+field hockey
+true
+EMOJI
+1F3D2
+ice hockey
+true
+EMOJI
+1F94D
+lacrosse
+true
+EMOJI
+1F3D3
+ping pong
+true
+EMOJI
+1F3F8
+badminton
+true
+EMOJI
+1F94A
+boxing glove
+true
+EMOJI
+1F94B
+martial arts uniform
+true
+EMOJI
+1F945
+goal net
+true
+EMOJI
+26F3
+flag in hole
+true
+EMOJI
+26F8,FE0F
+ice skate
+true
+EMOJI
+26F8
+ice skate
+false
+EMOJI
+1F3A3
+fishing pole
+true
+EMOJI
+1F3BD
+running shirt
+true
+EMOJI
+1F3BF
+skis
+true
+EMOJI
+1F6F7
+sled
+true
+EMOJI
+1F94C
+curling stone
+true
+SEPARATOR
+subgroup: game
+EMOJI
+1F3AF
+direct hit
+true
+EMOJI
+1F3B1
+pool 8 ball
+true
+EMOJI
+1F52E
+crystal ball
+true
+EMOJI
+1F9FF
+nazar amulet
+true
+EMOJI
+1F3AE
+video game
+true
+EMOJI
+1F579,FE0F
+joystick
+true
+EMOJI
+1F579
+joystick
+false
+EMOJI
+1F3B0
+slot machine
+true
+EMOJI
+1F3B2
+game die
+true
+EMOJI
+1F9E9
+jigsaw
+true
+EMOJI
+1F9F8
+teddy bear
+true
+EMOJI
+2660,FE0F
+spade suit
+true
+EMOJI
+2660
+spade suit
+false
+EMOJI
+2665,FE0F
+heart suit
+true
+EMOJI
+2665
+heart suit
+false
+EMOJI
+2666,FE0F
+diamond suit
+true
+EMOJI
+2666
+diamond suit
+false
+EMOJI
+2663,FE0F
+club suit
+true
+EMOJI
+2663
+club suit
+false
+EMOJI
+265F,FE0F
+chess pawn
+true
+EMOJI
+265F
+chess pawn
+false
+EMOJI
+1F0CF
+joker
+true
+EMOJI
+1F004
+mahjong red dragon
+true
+EMOJI
+1F3B4
+flower playing cards
+true
+SEPARATOR
+subgroup: arts & crafts
+EMOJI
+1F3AD
+performing arts
+true
+EMOJI
+1F5BC,FE0F
+framed picture
+true
+EMOJI
+1F5BC
+framed picture
+false
+EMOJI
+1F3A8
+artist palette
+true
+EMOJI
+1F9F5
+thread
+true
+EMOJI
+1F9F6
+yarn
+true
+SEPARATOR
+Activities subtotal:		87
+SEPARATOR
+Activities subtotal:		87	w/o modifiers
+SEPARATOR
+group: Objects
+SEPARATOR
+subgroup: sound
+EMOJI
+1F507
+muted speaker
+true
+EMOJI
+1F508
+speaker low volume
+true
+EMOJI
+1F509
+speaker medium volume
+true
+EMOJI
+1F50A
+speaker high volume
+true
+EMOJI
+1F4E2
+loudspeaker
+true
+EMOJI
+1F4E3
+megaphone
+true
+EMOJI
+1F4EF
+postal horn
+true
+EMOJI
+1F514
+bell
+true
+EMOJI
+1F515
+bell with slash
+true
+SEPARATOR
+subgroup: music
+EMOJI
+1F3BC
+musical score
+true
+EMOJI
+1F3B5
+musical note
+true
+EMOJI
+1F3B6
+musical notes
+true
+EMOJI
+1F399,FE0F
+studio microphone
+true
+EMOJI
+1F399
+studio microphone
+false
+EMOJI
+1F39A,FE0F
+level slider
+true
+EMOJI
+1F39A
+level slider
+false
+EMOJI
+1F39B,FE0F
+control knobs
+true
+EMOJI
+1F39B
+control knobs
+false
+EMOJI
+1F3A4
+microphone
+true
+EMOJI
+1F3A7
+headphone
+true
+EMOJI
+1F4FB
+radio
+true
+SEPARATOR
+subgroup: musical instrument
+EMOJI
+1F3B7
+saxophone
+true
+EMOJI
+1F3B8
+guitar
+true
+EMOJI
+1F3B9
+musical keyboard
+true
+EMOJI
+1F3BA
+trumpet
+true
+EMOJI
+1F3BB
+violin
+true
+EMOJI
+1F941
+drum
+true
+SEPARATOR
+subgroup: phone
+EMOJI
+1F4F1
+mobile phone
+true
+EMOJI
+1F4F2
+mobile phone with arrow
+true
+EMOJI
+260E,FE0F
+telephone
+true
+EMOJI
+260E
+telephone
+false
+EMOJI
+1F4DE
+telephone receiver
+true
+EMOJI
+1F4DF
+pager
+true
+EMOJI
+1F4E0
+fax machine
+true
+SEPARATOR
+subgroup: computer
+EMOJI
+1F50B
+battery
+true
+EMOJI
+1F50C
+electric plug
+true
+EMOJI
+1F4BB
+laptop computer
+true
+EMOJI
+1F5A5,FE0F
+desktop computer
+true
+EMOJI
+1F5A5
+desktop computer
+false
+EMOJI
+1F5A8,FE0F
+printer
+true
+EMOJI
+1F5A8
+printer
+false
+EMOJI
+2328,FE0F
+keyboard
+true
+EMOJI
+2328
+keyboard
+false
+EMOJI
+1F5B1,FE0F
+computer mouse
+true
+EMOJI
+1F5B1
+computer mouse
+false
+EMOJI
+1F5B2,FE0F
+trackball
+true
+EMOJI
+1F5B2
+trackball
+false
+EMOJI
+1F4BD
+computer disk
+true
+EMOJI
+1F4BE
+floppy disk
+true
+EMOJI
+1F4BF
+optical disk
+true
+EMOJI
+1F4C0
+dvd
+true
+EMOJI
+1F9EE
+abacus
+true
+SEPARATOR
+subgroup: light & video
+EMOJI
+1F3A5
+movie camera
+true
+EMOJI
+1F39E,FE0F
+film frames
+true
+EMOJI
+1F39E
+film frames
+false
+EMOJI
+1F4FD,FE0F
+film projector
+true
+EMOJI
+1F4FD
+film projector
+false
+EMOJI
+1F3AC
+clapper board
+true
+EMOJI
+1F4FA
+television
+true
+EMOJI
+1F4F7
+camera
+true
+EMOJI
+1F4F8
+camera with flash
+true
+EMOJI
+1F4F9
+video camera
+true
+EMOJI
+1F4FC
+videocassette
+true
+EMOJI
+1F50D
+magnifying glass tilted left
+true
+EMOJI
+1F50E
+magnifying glass tilted right
+true
+EMOJI
+1F56F,FE0F
+candle
+true
+EMOJI
+1F56F
+candle
+false
+EMOJI
+1F4A1
+light bulb
+true
+EMOJI
+1F526
+flashlight
+true
+EMOJI
+1F3EE
+red paper lantern
+true
+SEPARATOR
+subgroup: book paper
+EMOJI
+1F4D4
+notebook with decorative cover
+true
+EMOJI
+1F4D5
+closed book
+true
+EMOJI
+1F4D6
+open book
+true
+EMOJI
+1F4D7
+green book
+true
+EMOJI
+1F4D8
+blue book
+true
+EMOJI
+1F4D9
+orange book
+true
+EMOJI
+1F4DA
+books
+true
+EMOJI
+1F4D3
+notebook
+true
+EMOJI
+1F4D2
+ledger
+true
+EMOJI
+1F4C3
+page with curl
+true
+EMOJI
+1F4DC
+scroll
+true
+EMOJI
+1F4C4
+page facing up
+true
+EMOJI
+1F4F0
+newspaper
+true
+EMOJI
+1F5DE,FE0F
+rolled up newspaper
+true
+EMOJI
+1F5DE
+rolled up newspaper
+false
+EMOJI
+1F4D1
+bookmark tabs
+true
+EMOJI
+1F516
+bookmark
+true
+EMOJI
+1F3F7,FE0F
+label
+true
+EMOJI
+1F3F7
+label
+false
+SEPARATOR
+subgroup: money
+EMOJI
+1F4B0
+money bag
+true
+EMOJI
+1F4B4
+yen banknote
+true
+EMOJI
+1F4B5
+dollar banknote
+true
+EMOJI
+1F4B6
+euro banknote
+true
+EMOJI
+1F4B7
+pound banknote
+true
+EMOJI
+1F4B8
+money with wings
+true
+EMOJI
+1F4B3
+credit card
+true
+EMOJI
+1F9FE
+receipt
+true
+EMOJI
+1F4B9
+chart increasing with yen
+true
+EMOJI
+1F4B1
+currency exchange
+true
+EMOJI
+1F4B2
+heavy dollar sign
+true
+SEPARATOR
+subgroup: mail
+EMOJI
+2709,FE0F
+envelope
+true
+EMOJI
+2709
+envelope
+false
+EMOJI
+1F4E7
+e mail
+true
+EMOJI
+1F4E8
+incoming envelope
+true
+EMOJI
+1F4E9
+envelope with arrow
+true
+EMOJI
+1F4E4
+outbox tray
+true
+EMOJI
+1F4E5
+inbox tray
+true
+EMOJI
+1F4E6
+package
+true
+EMOJI
+1F4EB
+closed mailbox with raised flag
+true
+EMOJI
+1F4EA
+closed mailbox with lowered flag
+true
+EMOJI
+1F4EC
+open mailbox with raised flag
+true
+EMOJI
+1F4ED
+open mailbox with lowered flag
+true
+EMOJI
+1F4EE
+postbox
+true
+EMOJI
+1F5F3,FE0F
+ballot box with ballot
+true
+EMOJI
+1F5F3
+ballot box with ballot
+false
+SEPARATOR
+subgroup: writing
+EMOJI
+270F,FE0F
+pencil
+true
+EMOJI
+270F
+pencil
+false
+EMOJI
+2712,FE0F
+black nib
+true
+EMOJI
+2712
+black nib
+false
+EMOJI
+1F58B,FE0F
+fountain pen
+true
+EMOJI
+1F58B
+fountain pen
+false
+EMOJI
+1F58A,FE0F
+pen
+true
+EMOJI
+1F58A
+pen
+false
+EMOJI
+1F58C,FE0F
+paintbrush
+true
+EMOJI
+1F58C
+paintbrush
+false
+EMOJI
+1F58D,FE0F
+crayon
+true
+EMOJI
+1F58D
+crayon
+false
+EMOJI
+1F4DD
+memo
+true
+SEPARATOR
+subgroup: office
+EMOJI
+1F4BC
+briefcase
+true
+EMOJI
+1F4C1
+file folder
+true
+EMOJI
+1F4C2
+open file folder
+true
+EMOJI
+1F5C2,FE0F
+card index dividers
+true
+EMOJI
+1F5C2
+card index dividers
+false
+EMOJI
+1F4C5
+calendar
+true
+EMOJI
+1F4C6
+tear off calendar
+true
+EMOJI
+1F5D2,FE0F
+spiral notepad
+true
+EMOJI
+1F5D2
+spiral notepad
+false
+EMOJI
+1F5D3,FE0F
+spiral calendar
+true
+EMOJI
+1F5D3
+spiral calendar
+false
+EMOJI
+1F4C7
+card index
+true
+EMOJI
+1F4C8
+chart increasing
+true
+EMOJI
+1F4C9
+chart decreasing
+true
+EMOJI
+1F4CA
+bar chart
+true
+EMOJI
+1F4CB
+clipboard
+true
+EMOJI
+1F4CC
+pushpin
+true
+EMOJI
+1F4CD
+round pushpin
+true
+EMOJI
+1F4CE
+paperclip
+true
+EMOJI
+1F587,FE0F
+linked paperclips
+true
+EMOJI
+1F587
+linked paperclips
+false
+EMOJI
+1F4CF
+straight ruler
+true
+EMOJI
+1F4D0
+triangular ruler
+true
+EMOJI
+2702,FE0F
+scissors
+true
+EMOJI
+2702
+scissors
+false
+EMOJI
+1F5C3,FE0F
+card file box
+true
+EMOJI
+1F5C3
+card file box
+false
+EMOJI
+1F5C4,FE0F
+file cabinet
+true
+EMOJI
+1F5C4
+file cabinet
+false
+EMOJI
+1F5D1,FE0F
+wastebasket
+true
+EMOJI
+1F5D1
+wastebasket
+false
+SEPARATOR
+subgroup: lock
+EMOJI
+1F512
+locked
+true
+EMOJI
+1F513
+unlocked
+true
+EMOJI
+1F50F
+locked with pen
+true
+EMOJI
+1F510
+locked with key
+true
+EMOJI
+1F511
+key
+true
+EMOJI
+1F5DD,FE0F
+old key
+true
+EMOJI
+1F5DD
+old key
+false
+SEPARATOR
+subgroup: tool
+EMOJI
+1F528
+hammer
+true
+EMOJI
+26CF,FE0F
+pick
+true
+EMOJI
+26CF
+pick
+false
+EMOJI
+2692,FE0F
+hammer and pick
+true
+EMOJI
+2692
+hammer and pick
+false
+EMOJI
+1F6E0,FE0F
+hammer and wrench
+true
+EMOJI
+1F6E0
+hammer and wrench
+false
+EMOJI
+1F5E1,FE0F
+dagger
+true
+EMOJI
+1F5E1
+dagger
+false
+EMOJI
+2694,FE0F
+crossed swords
+true
+EMOJI
+2694
+crossed swords
+false
+EMOJI
+1F52B
+pistol
+true
+EMOJI
+1F3F9
+bow and arrow
+true
+EMOJI
+1F6E1,FE0F
+shield
+true
+EMOJI
+1F6E1
+shield
+false
+EMOJI
+1F527
+wrench
+true
+EMOJI
+1F529
+nut and bolt
+true
+EMOJI
+2699,FE0F
+gear
+true
+EMOJI
+2699
+gear
+false
+EMOJI
+1F5DC,FE0F
+clamp
+true
+EMOJI
+1F5DC
+clamp
+false
+EMOJI
+2696,FE0F
+balance scale
+true
+EMOJI
+2696
+balance scale
+false
+EMOJI
+1F517
+link
+true
+EMOJI
+26D3,FE0F
+chains
+true
+EMOJI
+26D3
+chains
+false
+EMOJI
+1F9F0
+toolbox
+true
+EMOJI
+1F9F2
+magnet
+true
+SEPARATOR
+subgroup: science
+EMOJI
+2697,FE0F
+alembic
+true
+EMOJI
+2697
+alembic
+false
+EMOJI
+1F9EA
+test tube
+true
+EMOJI
+1F9EB
+petri dish
+true
+EMOJI
+1F9EC
+dna
+true
+EMOJI
+1F52C
+microscope
+true
+EMOJI
+1F52D
+telescope
+true
+EMOJI
+1F4E1
+satellite antenna
+true
+SEPARATOR
+subgroup: medical
+EMOJI
+1F489
+syringe
+true
+EMOJI
+1F48A
+pill
+true
+SEPARATOR
+subgroup: household
+EMOJI
+1F6AA
+door
+true
+EMOJI
+1F6CF,FE0F
+bed
+true
+EMOJI
+1F6CF
+bed
+false
+EMOJI
+1F6CB,FE0F
+couch and lamp
+true
+EMOJI
+1F6CB
+couch and lamp
+false
+EMOJI
+1F6BD
+toilet
+true
+EMOJI
+1F6BF
+shower
+true
+EMOJI
+1F6C1
+bathtub
+true
+EMOJI
+1F9F4
+lotion bottle
+true
+EMOJI
+1F9F7
+safety pin
+true
+EMOJI
+1F9F9
+broom
+true
+EMOJI
+1F9FA
+basket
+true
+EMOJI
+1F9FB
+roll of paper
+true
+EMOJI
+1F9FC
+soap
+true
+EMOJI
+1F9FD
+sponge
+true
+EMOJI
+1F9EF
+fire extinguisher
+true
+EMOJI
+1F6D2
+shopping cart
+true
+SEPARATOR
+subgroup: other object
+EMOJI
+1F6AC
+cigarette
+true
+EMOJI
+26B0,FE0F
+coffin
+true
+EMOJI
+26B0
+coffin
+false
+EMOJI
+26B1,FE0F
+funeral urn
+true
+EMOJI
+26B1
+funeral urn
+false
+EMOJI
+1F5FF
+moai
+true
+SEPARATOR
+Objects subtotal:		227
+SEPARATOR
+Objects subtotal:		227	w/o modifiers
+SEPARATOR
+group: Symbols
+SEPARATOR
+subgroup: transport sign
+EMOJI
+1F3E7
+ATM sign
+true
+EMOJI
+1F6AE
+litter in bin sign
+true
+EMOJI
+1F6B0
+potable water
+true
+EMOJI
+267F
+wheelchair symbol
+true
+EMOJI
+1F6B9
+men’s room
+true
+EMOJI
+1F6BA
+women’s room
+true
+EMOJI
+1F6BB
+restroom
+true
+EMOJI
+1F6BC
+baby symbol
+true
+EMOJI
+1F6BE
+water closet
+true
+EMOJI
+1F6C2
+passport control
+true
+EMOJI
+1F6C3
+customs
+true
+EMOJI
+1F6C4
+baggage claim
+true
+EMOJI
+1F6C5
+left luggage
+true
+SEPARATOR
+subgroup: warning
+EMOJI
+26A0,FE0F
+warning
+true
+EMOJI
+26A0
+warning
+false
+EMOJI
+1F6B8
+children crossing
+true
+EMOJI
+26D4
+no entry
+true
+EMOJI
+1F6AB
+prohibited
+true
+EMOJI
+1F6B3
+no bicycles
+true
+EMOJI
+1F6AD
+no smoking
+true
+EMOJI
+1F6AF
+no littering
+true
+EMOJI
+1F6B1
+non potable water
+true
+EMOJI
+1F6B7
+no pedestrians
+true
+EMOJI
+1F4F5
+no mobile phones
+true
+EMOJI
+1F51E
+no one under eighteen
+true
+EMOJI
+2622,FE0F
+radioactive
+true
+EMOJI
+2622
+radioactive
+false
+EMOJI
+2623,FE0F
+biohazard
+true
+EMOJI
+2623
+biohazard
+false
+SEPARATOR
+subgroup: arrow
+EMOJI
+2B06,FE0F
+up arrow
+true
+EMOJI
+2B06
+up arrow
+false
+EMOJI
+2197,FE0F
+up right arrow
+true
+EMOJI
+2197
+up right arrow
+false
+EMOJI
+27A1,FE0F
+right arrow
+true
+EMOJI
+27A1
+right arrow
+false
+EMOJI
+2198,FE0F
+down right arrow
+true
+EMOJI
+2198
+down right arrow
+false
+EMOJI
+2B07,FE0F
+down arrow
+true
+EMOJI
+2B07
+down arrow
+false
+EMOJI
+2199,FE0F
+down left arrow
+true
+EMOJI
+2199
+down left arrow
+false
+EMOJI
+2B05,FE0F
+left arrow
+true
+EMOJI
+2B05
+left arrow
+false
+EMOJI
+2196,FE0F
+up left arrow
+true
+EMOJI
+2196
+up left arrow
+false
+EMOJI
+2195,FE0F
+up down arrow
+true
+EMOJI
+2195
+up down arrow
+false
+EMOJI
+2194,FE0F
+left right arrow
+true
+EMOJI
+2194
+left right arrow
+false
+EMOJI
+21A9,FE0F
+right arrow curving left
+true
+EMOJI
+21A9
+right arrow curving left
+false
+EMOJI
+21AA,FE0F
+left arrow curving right
+true
+EMOJI
+21AA
+left arrow curving right
+false
+EMOJI
+2934,FE0F
+right arrow curving up
+true
+EMOJI
+2934
+right arrow curving up
+false
+EMOJI
+2935,FE0F
+right arrow curving down
+true
+EMOJI
+2935
+right arrow curving down
+false
+EMOJI
+1F503
+clockwise vertical arrows
+true
+EMOJI
+1F504
+counterclockwise arrows button
+true
+EMOJI
+1F519
+BACK arrow
+true
+EMOJI
+1F51A
+END arrow
+true
+EMOJI
+1F51B
+ON! arrow
+true
+EMOJI
+1F51C
+SOON arrow
+true
+EMOJI
+1F51D
+TOP arrow
+true
+SEPARATOR
+subgroup: religion
+EMOJI
+1F6D0
+place of worship
+true
+EMOJI
+269B,FE0F
+atom symbol
+true
+EMOJI
+269B
+atom symbol
+false
+EMOJI
+1F549,FE0F
+om
+true
+EMOJI
+1F549
+om
+false
+EMOJI
+2721,FE0F
+star of David
+true
+EMOJI
+2721
+star of David
+false
+EMOJI
+2638,FE0F
+wheel of dharma
+true
+EMOJI
+2638
+wheel of dharma
+false
+EMOJI
+262F,FE0F
+yin yang
+true
+EMOJI
+262F
+yin yang
+false
+EMOJI
+271D,FE0F
+latin cross
+true
+EMOJI
+271D
+latin cross
+false
+EMOJI
+2626,FE0F
+orthodox cross
+true
+EMOJI
+2626
+orthodox cross
+false
+EMOJI
+262A,FE0F
+star and crescent
+true
+EMOJI
+262A
+star and crescent
+false
+EMOJI
+262E,FE0F
+peace symbol
+true
+EMOJI
+262E
+peace symbol
+false
+EMOJI
+1F54E
+menorah
+true
+EMOJI
+1F52F
+dotted six pointed star
+true
+SEPARATOR
+subgroup: zodiac
+EMOJI
+2648
+Aries
+true
+EMOJI
+2649
+Taurus
+true
+EMOJI
+264A
+Gemini
+true
+EMOJI
+264B
+Cancer
+true
+EMOJI
+264C
+Leo
+true
+EMOJI
+264D
+Virgo
+true
+EMOJI
+264E
+Libra
+true
+EMOJI
+264F
+Scorpio
+true
+EMOJI
+2650
+Sagittarius
+true
+EMOJI
+2651
+Capricorn
+true
+EMOJI
+2652
+Aquarius
+true
+EMOJI
+2653
+Pisces
+true
+EMOJI
+26CE
+Ophiuchus
+true
+SEPARATOR
+subgroup: av symbol
+EMOJI
+1F500
+shuffle tracks button
+true
+EMOJI
+1F501
+repeat button
+true
+EMOJI
+1F502
+repeat single button
+true
+EMOJI
+25B6,FE0F
+play button
+true
+EMOJI
+25B6
+play button
+false
+EMOJI
+23E9
+fast forward button
+true
+EMOJI
+23ED,FE0F
+next track button
+true
+EMOJI
+23ED
+next track button
+false
+EMOJI
+23EF,FE0F
+play or pause button
+true
+EMOJI
+23EF
+play or pause button
+false
+EMOJI
+25C0,FE0F
+reverse button
+true
+EMOJI
+25C0
+reverse button
+false
+EMOJI
+23EA
+fast reverse button
+true
+EMOJI
+23EE,FE0F
+last track button
+true
+EMOJI
+23EE
+last track button
+false
+EMOJI
+1F53C
+upwards button
+true
+EMOJI
+23EB
+fast up button
+true
+EMOJI
+1F53D
+downwards button
+true
+EMOJI
+23EC
+fast down button
+true
+EMOJI
+23F8,FE0F
+pause button
+true
+EMOJI
+23F8
+pause button
+false
+EMOJI
+23F9,FE0F
+stop button
+true
+EMOJI
+23F9
+stop button
+false
+EMOJI
+23FA,FE0F
+record button
+true
+EMOJI
+23FA
+record button
+false
+EMOJI
+23CF,FE0F
+eject button
+true
+EMOJI
+23CF
+eject button
+false
+EMOJI
+1F3A6
+cinema
+true
+EMOJI
+1F505
+dim button
+true
+EMOJI
+1F506
+bright button
+true
+EMOJI
+1F4F6
+antenna bars
+true
+EMOJI
+1F4F3
+vibration mode
+true
+EMOJI
+1F4F4
+mobile phone off
+true
+SEPARATOR
+subgroup: other symbol
+EMOJI
+2640,FE0F
+female sign
+true
+EMOJI
+2640
+female sign
+false
+EMOJI
+2642,FE0F
+male sign
+true
+EMOJI
+2642
+male sign
+false
+EMOJI
+2695,FE0F
+medical symbol
+true
+EMOJI
+2695
+medical symbol
+false
+EMOJI
+267E,FE0F
+infinity
+true
+EMOJI
+267E
+infinity
+false
+EMOJI
+267B,FE0F
+recycling symbol
+true
+EMOJI
+267B
+recycling symbol
+false
+EMOJI
+269C,FE0F
+fleur de lis
+true
+EMOJI
+269C
+fleur de lis
+false
+EMOJI
+1F531
+trident emblem
+true
+EMOJI
+1F4DB
+name badge
+true
+EMOJI
+1F530
+Japanese symbol for beginner
+true
+EMOJI
+2B55
+heavy large circle
+true
+EMOJI
+2705
+white heavy check mark
+true
+EMOJI
+2611,FE0F
+ballot box with check
+true
+EMOJI
+2611
+ballot box with check
+false
+EMOJI
+2714,FE0F
+heavy check mark
+true
+EMOJI
+2714
+heavy check mark
+false
+EMOJI
+2716,FE0F
+heavy multiplication x
+true
+EMOJI
+2716
+heavy multiplication x
+false
+EMOJI
+274C
+cross mark
+true
+EMOJI
+274E
+cross mark button
+true
+EMOJI
+2795
+heavy plus sign
+true
+EMOJI
+2796
+heavy minus sign
+true
+EMOJI
+2797
+heavy division sign
+true
+EMOJI
+27B0
+curly loop
+true
+EMOJI
+27BF
+double curly loop
+true
+EMOJI
+303D,FE0F
+part alternation mark
+true
+EMOJI
+303D
+part alternation mark
+false
+EMOJI
+2733,FE0F
+eight spoked asterisk
+true
+EMOJI
+2733
+eight spoked asterisk
+false
+EMOJI
+2734,FE0F
+eight pointed star
+true
+EMOJI
+2734
+eight pointed star
+false
+EMOJI
+2747,FE0F
+sparkle
+true
+EMOJI
+2747
+sparkle
+false
+EMOJI
+203C,FE0F
+double exclamation mark
+true
+EMOJI
+203C
+double exclamation mark
+false
+EMOJI
+2049,FE0F
+exclamation question mark
+true
+EMOJI
+2049
+exclamation question mark
+false
+EMOJI
+2753
+question mark
+true
+EMOJI
+2754
+white question mark
+true
+EMOJI
+2755
+white exclamation mark
+true
+EMOJI
+2757
+exclamation mark
+true
+EMOJI
+3030,FE0F
+wavy dash
+true
+EMOJI
+3030
+wavy dash
+false
+EMOJI
+00A9,FE0F
+copyright
+true
+EMOJI
+00A9
+copyright
+false
+EMOJI
+00AE,FE0F
+registered
+true
+EMOJI
+00AE
+registered
+false
+EMOJI
+2122,FE0F
+trade mark
+true
+EMOJI
+2122
+trade mark
+false
+SEPARATOR
+subgroup: keycap
+EMOJI
+0023,FE0F,20E3
+keycap: 
+true
+EMOJI
+0023,20E3
+keycap: 
+false
+EMOJI
+002A,FE0F,20E3
+keycap: *
+true
+EMOJI
+002A,20E3
+keycap: *
+false
+EMOJI
+0030,FE0F,20E3
+keycap: 0
+true
+EMOJI
+0030,20E3
+keycap: 0
+false
+EMOJI
+0031,FE0F,20E3
+keycap: 1
+true
+EMOJI
+0031,20E3
+keycap: 1
+false
+EMOJI
+0032,FE0F,20E3
+keycap: 2
+true
+EMOJI
+0032,20E3
+keycap: 2
+false
+EMOJI
+0033,FE0F,20E3
+keycap: 3
+true
+EMOJI
+0033,20E3
+keycap: 3
+false
+EMOJI
+0034,FE0F,20E3
+keycap: 4
+true
+EMOJI
+0034,20E3
+keycap: 4
+false
+EMOJI
+0035,FE0F,20E3
+keycap: 5
+true
+EMOJI
+0035,20E3
+keycap: 5
+false
+EMOJI
+0036,FE0F,20E3
+keycap: 6
+true
+EMOJI
+0036,20E3
+keycap: 6
+false
+EMOJI
+0037,FE0F,20E3
+keycap: 7
+true
+EMOJI
+0037,20E3
+keycap: 7
+false
+EMOJI
+0038,FE0F,20E3
+keycap: 8
+true
+EMOJI
+0038,20E3
+keycap: 8
+false
+EMOJI
+0039,FE0F,20E3
+keycap: 9
+true
+EMOJI
+0039,20E3
+keycap: 9
+false
+EMOJI
+1F51F
+keycap: 10
+true
+SEPARATOR
+subgroup: alphanum
+EMOJI
+1F4AF
+hundred points
+true
+EMOJI
+1F520
+input latin uppercase
+true
+EMOJI
+1F521
+input latin lowercase
+true
+EMOJI
+1F522
+input numbers
+true
+EMOJI
+1F523
+input symbols
+true
+EMOJI
+1F524
+input latin letters
+true
+EMOJI
+1F170,FE0F
+A button (blood type
+true
+EMOJI
+1F170
+A button (blood type
+false
+EMOJI
+1F18E
+AB button (blood type
+true
+EMOJI
+1F171,FE0F
+B button (blood type
+true
+EMOJI
+1F171
+B button (blood type
+false
+EMOJI
+1F191
+CL button
+true
+EMOJI
+1F192
+COOL button
+true
+EMOJI
+1F193
+FREE button
+true
+EMOJI
+2139,FE0F
+information
+true
+EMOJI
+2139
+information
+false
+EMOJI
+1F194
+ID button
+true
+EMOJI
+24C2,FE0F
+circled M
+true
+EMOJI
+24C2
+circled M
+false
+EMOJI
+1F195
+NEW button
+true
+EMOJI
+1F196
+NG button
+true
+EMOJI
+1F17E,FE0F
+O button (blood type
+true
+EMOJI
+1F17E
+O button (blood type
+false
+EMOJI
+1F197
+OK button
+true
+EMOJI
+1F17F,FE0F
+P button
+true
+EMOJI
+1F17F
+P button
+false
+EMOJI
+1F198
+SOS button
+true
+EMOJI
+1F199
+UP! button
+true
+EMOJI
+1F19A
+VS button
+true
+EMOJI
+1F201
+Japanese “here” button
+true
+EMOJI
+1F202,FE0F
+Japanese “service charge” button
+true
+EMOJI
+1F202
+Japanese “service charge” button
+false
+EMOJI
+1F237,FE0F
+Japanese “monthly amount” button
+true
+EMOJI
+1F237
+Japanese “monthly amount” button
+false
+EMOJI
+1F236
+Japanese “not free of charge” button
+true
+EMOJI
+1F22F
+Japanese “reserved” button
+true
+EMOJI
+1F250
+Japanese “bargain” button
+true
+EMOJI
+1F239
+Japanese “discount” button
+true
+EMOJI
+1F21A
+Japanese “free of charge” button
+true
+EMOJI
+1F232
+Japanese “prohibited” button
+true
+EMOJI
+1F251
+Japanese “acceptable” button
+true
+EMOJI
+1F238
+Japanese “application” button
+true
+EMOJI
+1F234
+Japanese “passing grade” button
+true
+EMOJI
+1F233
+Japanese “vacancy” button
+true
+EMOJI
+3297,FE0F
+Japanese “congratulations” button
+true
+EMOJI
+3297
+Japanese “congratulations” button
+false
+EMOJI
+3299,FE0F
+Japanese “secret” button
+true
+EMOJI
+3299
+Japanese “secret” button
+false
+EMOJI
+1F23A
+Japanese “open for business” button
+true
+EMOJI
+1F235
+Japanese “no vacancy” button
+true
+SEPARATOR
+subgroup: geometric
+EMOJI
+25AA,FE0F
+black small square
+true
+EMOJI
+25AA
+black small square
+false
+EMOJI
+25AB,FE0F
+white small square
+true
+EMOJI
+25AB
+white small square
+false
+EMOJI
+25FB,FE0F
+white medium square
+true
+EMOJI
+25FB
+white medium square
+false
+EMOJI
+25FC,FE0F
+black medium square
+true
+EMOJI
+25FC
+black medium square
+false
+EMOJI
+25FD
+white medium small square
+true
+EMOJI
+25FE
+black medium small square
+true
+EMOJI
+2B1B
+black large square
+true
+EMOJI
+2B1C
+white large square
+true
+EMOJI
+1F536
+large orange diamond
+true
+EMOJI
+1F537
+large blue diamond
+true
+EMOJI
+1F538
+small orange diamond
+true
+EMOJI
+1F539
+small blue diamond
+true
+EMOJI
+1F53A
+red triangle pointed up
+true
+EMOJI
+1F53B
+red triangle pointed down
+true
+EMOJI
+1F4A0
+diamond with a dot
+true
+EMOJI
+1F518
+radio button
+true
+EMOJI
+1F532
+black square button
+true
+EMOJI
+1F533
+white square button
+true
+EMOJI
+26AA
+white circle
+true
+EMOJI
+26AB
+black circle
+true
+EMOJI
+1F534
+red circle
+true
+EMOJI
+1F535
+blue circle
+true
+SEPARATOR
+Symbols subtotal:		286
+SEPARATOR
+Symbols subtotal:		286	w/o modifiers
+SEPARATOR
+group: Flags
+SEPARATOR
+subgroup: flag
+EMOJI
+1F3C1
+chequered flag
+true
+EMOJI
+1F6A9
+triangular flag
+true
+EMOJI
+1F38C
+crossed flags
+true
+EMOJI
+1F3F4
+black flag
+true
+EMOJI
+1F3F3,FE0F
+white flag
+true
+EMOJI
+1F3F3
+white flag
+false
+EMOJI
+1F3F3,FE0F,200D,1F308
+rainbow flag
+true
+EMOJI
+1F3F3,200D,1F308
+rainbow flag
+false
+EMOJI
+1F3F4,200D,2620,FE0F
+pirate flag
+true
+EMOJI
+1F3F4,200D,2620
+pirate flag
+false
+SEPARATOR
+subgroup: country flag
+EMOJI
+1F1E6,1F1E8
+Ascension Island
+true
+EMOJI
+1F1E6,1F1E9
+Andorra
+true
+EMOJI
+1F1E6,1F1EA
+United Arab Emirates
+true
+EMOJI
+1F1E6,1F1EB
+Afghanistan
+true
+EMOJI
+1F1E6,1F1EC
+Antigua & Barbuda
+true
+EMOJI
+1F1E6,1F1EE
+Anguilla
+true
+EMOJI
+1F1E6,1F1F1
+Albania
+true
+EMOJI
+1F1E6,1F1F2
+Armenia
+true
+EMOJI
+1F1E6,1F1F4
+Angola
+true
+EMOJI
+1F1E6,1F1F6
+Antarctica
+true
+EMOJI
+1F1E6,1F1F7
+Argentina
+true
+EMOJI
+1F1E6,1F1F8
+American Samoa
+true
+EMOJI
+1F1E6,1F1F9
+Austria
+true
+EMOJI
+1F1E6,1F1FA
+Australia
+true
+EMOJI
+1F1E6,1F1FC
+Aruba
+true
+EMOJI
+1F1E6,1F1FD
+Åland Islands
+true
+EMOJI
+1F1E6,1F1FF
+Azerbaijan
+true
+EMOJI
+1F1E7,1F1E6
+Bosnia & Herzegovina
+true
+EMOJI
+1F1E7,1F1E7
+Barbados
+true
+EMOJI
+1F1E7,1F1E9
+Bangladesh
+true
+EMOJI
+1F1E7,1F1EA
+Belgium
+true
+EMOJI
+1F1E7,1F1EB
+Burkina Faso
+true
+EMOJI
+1F1E7,1F1EC
+Bulgaria
+true
+EMOJI
+1F1E7,1F1ED
+Bahrain
+true
+EMOJI
+1F1E7,1F1EE
+Burundi
+true
+EMOJI
+1F1E7,1F1EF
+Benin
+true
+EMOJI
+1F1E7,1F1F1
+St. Barthélemy
+true
+EMOJI
+1F1E7,1F1F2
+Bermuda
+true
+EMOJI
+1F1E7,1F1F3
+Brunei
+true
+EMOJI
+1F1E7,1F1F4
+Bolivia
+true
+EMOJI
+1F1E7,1F1F6
+Caribbean Netherlands
+true
+EMOJI
+1F1E7,1F1F7
+Brazil
+true
+EMOJI
+1F1E7,1F1F8
+Bahamas
+true
+EMOJI
+1F1E7,1F1F9
+Bhutan
+true
+EMOJI
+1F1E7,1F1FB
+Bouvet Island
+true
+EMOJI
+1F1E7,1F1FC
+Botswana
+true
+EMOJI
+1F1E7,1F1FE
+Belarus
+true
+EMOJI
+1F1E7,1F1FF
+Belize
+true
+EMOJI
+1F1E8,1F1E6
+Canada
+true
+EMOJI
+1F1E8,1F1E8
+Cocos (Keeling Islands
+true
+EMOJI
+1F1E8,1F1E9
+Congo   Kinshasa
+true
+EMOJI
+1F1E8,1F1EB
+Central African Republic
+true
+EMOJI
+1F1E8,1F1EC
+Congo   Brazzaville
+true
+EMOJI
+1F1E8,1F1ED
+Switzerland
+true
+EMOJI
+1F1E8,1F1EE
+Côte d’Ivoire
+true
+EMOJI
+1F1E8,1F1F0
+Cook Islands
+true
+EMOJI
+1F1E8,1F1F1
+Chile
+true
+EMOJI
+1F1E8,1F1F2
+Cameroon
+true
+EMOJI
+1F1E8,1F1F3
+China
+true
+EMOJI
+1F1E8,1F1F4
+Colombia
+true
+EMOJI
+1F1E8,1F1F5
+Clipperton Island
+true
+EMOJI
+1F1E8,1F1F7
+Costa Rica
+true
+EMOJI
+1F1E8,1F1FA
+Cuba
+true
+EMOJI
+1F1E8,1F1FB
+Cape Verde
+true
+EMOJI
+1F1E8,1F1FC
+Curaçao
+true
+EMOJI
+1F1E8,1F1FD
+Christmas Island
+true
+EMOJI
+1F1E8,1F1FE
+Cyprus
+true
+EMOJI
+1F1E8,1F1FF
+Czechia
+true
+EMOJI
+1F1E9,1F1EA
+Germany
+true
+EMOJI
+1F1E9,1F1EC
+Diego Garcia
+true
+EMOJI
+1F1E9,1F1EF
+Djibouti
+true
+EMOJI
+1F1E9,1F1F0
+Denmark
+true
+EMOJI
+1F1E9,1F1F2
+Dominica
+true
+EMOJI
+1F1E9,1F1F4
+Dominican Republic
+true
+EMOJI
+1F1E9,1F1FF
+Algeria
+true
+EMOJI
+1F1EA,1F1E6
+Ceuta & Melilla
+true
+EMOJI
+1F1EA,1F1E8
+Ecuador
+true
+EMOJI
+1F1EA,1F1EA
+Estonia
+true
+EMOJI
+1F1EA,1F1EC
+Egypt
+true
+EMOJI
+1F1EA,1F1ED
+Western Sahara
+true
+EMOJI
+1F1EA,1F1F7
+Eritrea
+true
+EMOJI
+1F1EA,1F1F8
+Spain
+true
+EMOJI
+1F1EA,1F1F9
+Ethiopia
+true
+EMOJI
+1F1EA,1F1FA
+European Union
+true
+EMOJI
+1F1EB,1F1EE
+Finland
+true
+EMOJI
+1F1EB,1F1EF
+Fiji
+true
+EMOJI
+1F1EB,1F1F0
+Falkland Islands
+true
+EMOJI
+1F1EB,1F1F2
+Micronesia
+true
+EMOJI
+1F1EB,1F1F4
+Faroe Islands
+true
+EMOJI
+1F1EB,1F1F7
+France
+true
+EMOJI
+1F1EC,1F1E6
+Gabon
+true
+EMOJI
+1F1EC,1F1E7
+United Kingdom
+true
+EMOJI
+1F1EC,1F1E9
+Grenada
+true
+EMOJI
+1F1EC,1F1EA
+Georgia
+true
+EMOJI
+1F1EC,1F1EB
+French Guiana
+true
+EMOJI
+1F1EC,1F1EC
+Guernsey
+true
+EMOJI
+1F1EC,1F1ED
+Ghana
+true
+EMOJI
+1F1EC,1F1EE
+Gibraltar
+true
+EMOJI
+1F1EC,1F1F1
+Greenland
+true
+EMOJI
+1F1EC,1F1F2
+Gambia
+true
+EMOJI
+1F1EC,1F1F3
+Guinea
+true
+EMOJI
+1F1EC,1F1F5
+Guadeloupe
+true
+EMOJI
+1F1EC,1F1F6
+Equatorial Guinea
+true
+EMOJI
+1F1EC,1F1F7
+Greece
+true
+EMOJI
+1F1EC,1F1F8
+South Georgia & South Sandwich Islands
+true
+EMOJI
+1F1EC,1F1F9
+Guatemala
+true
+EMOJI
+1F1EC,1F1FA
+Guam
+true
+EMOJI
+1F1EC,1F1FC
+Guinea Bissau
+true
+EMOJI
+1F1EC,1F1FE
+Guyana
+true
+EMOJI
+1F1ED,1F1F0
+Hong Kong SAR China
+true
+EMOJI
+1F1ED,1F1F2
+Heard & McDonald Islands
+true
+EMOJI
+1F1ED,1F1F3
+Honduras
+true
+EMOJI
+1F1ED,1F1F7
+Croatia
+true
+EMOJI
+1F1ED,1F1F9
+Haiti
+true
+EMOJI
+1F1ED,1F1FA
+Hungary
+true
+EMOJI
+1F1EE,1F1E8
+Canary Islands
+true
+EMOJI
+1F1EE,1F1E9
+Indonesia
+true
+EMOJI
+1F1EE,1F1EA
+Ireland
+true
+EMOJI
+1F1EE,1F1F1
+Israel
+true
+EMOJI
+1F1EE,1F1F2
+Isle of Man
+true
+EMOJI
+1F1EE,1F1F3
+India
+true
+EMOJI
+1F1EE,1F1F4
+British Indian Ocean Territory
+true
+EMOJI
+1F1EE,1F1F6
+Iraq
+true
+EMOJI
+1F1EE,1F1F7
+Iran
+true
+EMOJI
+1F1EE,1F1F8
+Iceland
+true
+EMOJI
+1F1EE,1F1F9
+Italy
+true
+EMOJI
+1F1EF,1F1EA
+Jersey
+true
+EMOJI
+1F1EF,1F1F2
+Jamaica
+true
+EMOJI
+1F1EF,1F1F4
+Jordan
+true
+EMOJI
+1F1EF,1F1F5
+Japan
+true
+EMOJI
+1F1F0,1F1EA
+Kenya
+true
+EMOJI
+1F1F0,1F1EC
+Kyrgyzstan
+true
+EMOJI
+1F1F0,1F1ED
+Cambodia
+true
+EMOJI
+1F1F0,1F1EE
+Kiribati
+true
+EMOJI
+1F1F0,1F1F2
+Comoros
+true
+EMOJI
+1F1F0,1F1F3
+St. Kitts & Nevis
+true
+EMOJI
+1F1F0,1F1F5
+North Korea
+true
+EMOJI
+1F1F0,1F1F7
+South Korea
+true
+EMOJI
+1F1F0,1F1FC
+Kuwait
+true
+EMOJI
+1F1F0,1F1FE
+Cayman Islands
+true
+EMOJI
+1F1F0,1F1FF
+Kazakhstan
+true
+EMOJI
+1F1F1,1F1E6
+Laos
+true
+EMOJI
+1F1F1,1F1E7
+Lebanon
+true
+EMOJI
+1F1F1,1F1E8
+St. Lucia
+true
+EMOJI
+1F1F1,1F1EE
+Liechtenstein
+true
+EMOJI
+1F1F1,1F1F0
+Sri Lanka
+true
+EMOJI
+1F1F1,1F1F7
+Liberia
+true
+EMOJI
+1F1F1,1F1F8
+Lesotho
+true
+EMOJI
+1F1F1,1F1F9
+Lithuania
+true
+EMOJI
+1F1F1,1F1FA
+Luxembourg
+true
+EMOJI
+1F1F1,1F1FB
+Latvia
+true
+EMOJI
+1F1F1,1F1FE
+Libya
+true
+EMOJI
+1F1F2,1F1E6
+Morocco
+true
+EMOJI
+1F1F2,1F1E8
+Monaco
+true
+EMOJI
+1F1F2,1F1E9
+Moldova
+true
+EMOJI
+1F1F2,1F1EA
+Montenegro
+true
+EMOJI
+1F1F2,1F1EB
+St. Martin
+true
+EMOJI
+1F1F2,1F1EC
+Madagascar
+true
+EMOJI
+1F1F2,1F1ED
+Marshall Islands
+true
+EMOJI
+1F1F2,1F1F0
+Macedonia
+true
+EMOJI
+1F1F2,1F1F1
+Mali
+true
+EMOJI
+1F1F2,1F1F2
+Myanmar (Burma
+true
+EMOJI
+1F1F2,1F1F3
+Mongolia
+true
+EMOJI
+1F1F2,1F1F4
+Macau SAR China
+true
+EMOJI
+1F1F2,1F1F5
+Northern Mariana Islands
+true
+EMOJI
+1F1F2,1F1F6
+Martinique
+true
+EMOJI
+1F1F2,1F1F7
+Mauritania
+true
+EMOJI
+1F1F2,1F1F8
+Montserrat
+true
+EMOJI
+1F1F2,1F1F9
+Malta
+true
+EMOJI
+1F1F2,1F1FA
+Mauritius
+true
+EMOJI
+1F1F2,1F1FB
+Maldives
+true
+EMOJI
+1F1F2,1F1FC
+Malawi
+true
+EMOJI
+1F1F2,1F1FD
+Mexico
+true
+EMOJI
+1F1F2,1F1FE
+Malaysia
+true
+EMOJI
+1F1F2,1F1FF
+Mozambique
+true
+EMOJI
+1F1F3,1F1E6
+Namibia
+true
+EMOJI
+1F1F3,1F1E8
+New Caledonia
+true
+EMOJI
+1F1F3,1F1EA
+Niger
+true
+EMOJI
+1F1F3,1F1EB
+Norfolk Island
+true
+EMOJI
+1F1F3,1F1EC
+Nigeria
+true
+EMOJI
+1F1F3,1F1EE
+Nicaragua
+true
+EMOJI
+1F1F3,1F1F1
+Netherlands
+true
+EMOJI
+1F1F3,1F1F4
+Norway
+true
+EMOJI
+1F1F3,1F1F5
+Nepal
+true
+EMOJI
+1F1F3,1F1F7
+Nauru
+true
+EMOJI
+1F1F3,1F1FA
+Niue
+true
+EMOJI
+1F1F3,1F1FF
+New Zealand
+true
+EMOJI
+1F1F4,1F1F2
+Oman
+true
+EMOJI
+1F1F5,1F1E6
+Panama
+true
+EMOJI
+1F1F5,1F1EA
+Peru
+true
+EMOJI
+1F1F5,1F1EB
+French Polynesia
+true
+EMOJI
+1F1F5,1F1EC
+Papua New Guinea
+true
+EMOJI
+1F1F5,1F1ED
+Philippines
+true
+EMOJI
+1F1F5,1F1F0
+Pakistan
+true
+EMOJI
+1F1F5,1F1F1
+Poland
+true
+EMOJI
+1F1F5,1F1F2
+St. Pierre & Miquelon
+true
+EMOJI
+1F1F5,1F1F3
+Pitcairn Islands
+true
+EMOJI
+1F1F5,1F1F7
+Puerto Rico
+true
+EMOJI
+1F1F5,1F1F8
+Palestinian Territories
+true
+EMOJI
+1F1F5,1F1F9
+Portugal
+true
+EMOJI
+1F1F5,1F1FC
+Palau
+true
+EMOJI
+1F1F5,1F1FE
+Paraguay
+true
+EMOJI
+1F1F6,1F1E6
+Qatar
+true
+EMOJI
+1F1F7,1F1EA
+Réunion
+true
+EMOJI
+1F1F7,1F1F4
+Romania
+true
+EMOJI
+1F1F7,1F1F8
+Serbia
+true
+EMOJI
+1F1F7,1F1FA
+Russia
+true
+EMOJI
+1F1F7,1F1FC
+Rwanda
+true
+EMOJI
+1F1F8,1F1E6
+Saudi Arabia
+true
+EMOJI
+1F1F8,1F1E7
+Solomon Islands
+true
+EMOJI
+1F1F8,1F1E8
+Seychelles
+true
+EMOJI
+1F1F8,1F1E9
+Sudan
+true
+EMOJI
+1F1F8,1F1EA
+Sweden
+true
+EMOJI
+1F1F8,1F1EC
+Singapore
+true
+EMOJI
+1F1F8,1F1ED
+St. Helena
+true
+EMOJI
+1F1F8,1F1EE
+Slovenia
+true
+EMOJI
+1F1F8,1F1EF
+Svalbard & Jan Mayen
+true
+EMOJI
+1F1F8,1F1F0
+Slovakia
+true
+EMOJI
+1F1F8,1F1F1
+Sierra Leone
+true
+EMOJI
+1F1F8,1F1F2
+San Marino
+true
+EMOJI
+1F1F8,1F1F3
+Senegal
+true
+EMOJI
+1F1F8,1F1F4
+Somalia
+true
+EMOJI
+1F1F8,1F1F7
+Suriname
+true
+EMOJI
+1F1F8,1F1F8
+South Sudan
+true
+EMOJI
+1F1F8,1F1F9
+São Tomé & Príncipe
+true
+EMOJI
+1F1F8,1F1FB
+El Salvador
+true
+EMOJI
+1F1F8,1F1FD
+Sint Maarten
+true
+EMOJI
+1F1F8,1F1FE
+Syria
+true
+EMOJI
+1F1F8,1F1FF
+Swaziland
+true
+EMOJI
+1F1F9,1F1E6
+Tristan da Cunha
+true
+EMOJI
+1F1F9,1F1E8
+Turks & Caicos Islands
+true
+EMOJI
+1F1F9,1F1E9
+Chad
+true
+EMOJI
+1F1F9,1F1EB
+French Southern Territories
+true
+EMOJI
+1F1F9,1F1EC
+Togo
+true
+EMOJI
+1F1F9,1F1ED
+Thailand
+true
+EMOJI
+1F1F9,1F1EF
+Tajikistan
+true
+EMOJI
+1F1F9,1F1F0
+Tokelau
+true
+EMOJI
+1F1F9,1F1F1
+Timor Leste
+true
+EMOJI
+1F1F9,1F1F2
+Turkmenistan
+true
+EMOJI
+1F1F9,1F1F3
+Tunisia
+true
+EMOJI
+1F1F9,1F1F4
+Tonga
+true
+EMOJI
+1F1F9,1F1F7
+Turkey
+true
+EMOJI
+1F1F9,1F1F9
+Trinidad & Tobago
+true
+EMOJI
+1F1F9,1F1FB
+Tuvalu
+true
+EMOJI
+1F1F9,1F1FC
+Taiwan
+true
+EMOJI
+1F1F9,1F1FF
+Tanzania
+true
+EMOJI
+1F1FA,1F1E6
+Ukraine
+true
+EMOJI
+1F1FA,1F1EC
+Uganda
+true
+EMOJI
+1F1FA,1F1F2
+U.S. Outlying Islands
+true
+EMOJI
+1F1FA,1F1F3
+United Nations
+true
+EMOJI
+1F1FA,1F1F8
+United States
+true
+EMOJI
+1F1FA,1F1FE
+Uruguay
+true
+EMOJI
+1F1FA,1F1FF
+Uzbekistan
+true
+EMOJI
+1F1FB,1F1E6
+Vatican City
+true
+EMOJI
+1F1FB,1F1E8
+St. Vincent & Grenadines
+true
+EMOJI
+1F1FB,1F1EA
+Venezuela
+true
+EMOJI
+1F1FB,1F1EC
+British Virgin Islands
+true
+EMOJI
+1F1FB,1F1EE
+U.S. Virgin Islands
+true
+EMOJI
+1F1FB,1F1F3
+Vietnam
+true
+EMOJI
+1F1FB,1F1FA
+Vanuatu
+true
+EMOJI
+1F1FC,1F1EB
+Wallis & Futuna
+true
+EMOJI
+1F1FC,1F1F8
+Samoa
+true
+EMOJI
+1F1FD,1F1F0
+Kosovo
+true
+EMOJI
+1F1FE,1F1EA
+Yemen
+true
+EMOJI
+1F1FE,1F1F9
+Mayotte
+true
+EMOJI
+1F1FF,1F1E6
+South Africa
+true
+EMOJI
+1F1FF,1F1F2
+Zambia
+true
+EMOJI
+1F1FF,1F1FC
+Zimbabwe
+true
+SEPARATOR
+subgroup: subdivision flag
+EMOJI
+1F3F4,E0067,E0062,E0065,E006E,E0067,E007F
+England
+true
+EMOJI
+1F3F4,E0067,E0062,E0073,E0063,E0074,E007F
+Scotland
+true
+EMOJI
+1F3F4,E0067,E0062,E0077,E006C,E0073,E007F
+Wales
+true
+SEPARATOR
+Flags subtotal:		271
+SEPARATOR
+Flags subtotal:		271	w/o modifiers
+SEPARATOR
+EOF
