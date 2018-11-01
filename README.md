@@ -1,0 +1,2 @@
+# EmojiBook
+Lists all emoji
